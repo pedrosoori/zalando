@@ -72,7 +72,7 @@ def discordbot(token,PATH):
 
 if __name__ == '__main__':
     token = 'ODk0ODU0NzUxOTcwMjkxNzQy.YVwEbg.0QcPsjPoicoWgmuseG-eNxW5FIs'
-    PATH = 'C:\chromedriver.exe'
+    PATH = 'chromedriver.exe'
 
     discordbot(token,PATH)
 
