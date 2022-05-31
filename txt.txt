@@ -1,805 +1,255 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
-w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang=3D"es"><head><meta=
- http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" /><titl=
-e>Zalando</title><meta name=3D"viewport" content=3D"width=3Ddevice-width, i=
-nitial-scale=3D1" /><meta name=3D"format-detection" content=3D"telephone=3D=
-no" /><meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" /><meta na=
-me=3D"color-scheme" content=3D"light dark only"><meta name=3D"supported-col=
-or-schemes" content=3D"light dark only"><link type=3D"image/x-icon" href=3D=
-"https://secure-skin.ztat.net/s/6n1/zalando/img/MAIN/zalando.ico" rel=3D"ic=
-on" /><style type=3D"text/css">
-=09=09table {
-=09=09=09border-collapse: collapse;
-=09=09=09border-spacing: 0;
-=09=09}
-=09=09a,
-=09=09a:link,
-=09=09a:visited {
-=09=09=09text-decoration: none;
-=09=09=09color: #1a1a1a;
-=09=09}
-
-=09=09a:hover {
-=09=09=09text-decoration: underline;
-=09=09}
-
-=09=09#footer a {
-=09=09=09color: #ffffff !important;
-=09=09}
-
-=09=09.ExternalClass p,
-=09=09.ExternalClass span,
-=09=09.ExternalClass font,
-=09=09.ExternalClass td {
-=09=09=09line-height: 100%;
-=09=09}
-
-=09=09.ExternalClass {
-=09=09=09width: 100%;
-=09=09}
-
-=09=09body {
-=09=09=09-webkit-text-size-adjust: none;
-=09=09=09-ms-text-size-adjust: none;
-=09=09=09margin:0;
-=09=09}
-
-=09=09a[x-apple-data-detectors] {
-=09=09=09color: inherit !important;
-=09=09=09text-decoration: none !important;
-=09=09=09font-size: inherit !important;
-=09=09=09font-family: inherit !important;
-=09=09=09font-weight: inherit !important;
-=09=09=09line-height: inherit !important;
-=09=09}
-
-=09=09[office365] div {
-=09=09=09display: block !important;
-=09=09}
-
-=09=09.gmailfix {
-=09=09=09display:none;
-=09=09=09display:none!important;
-=09=09}
-
-=09=09/* Targeting FAQ container for Gmail */
-=09=09.gs li, u+.gs li, u+body .gs li,  u+.body .gs li  {margin: 0!importan=
-t;}
-=09=09u+.body .darkmode_grey p+table {max-width:none !important;text-align:=
-left !important;}
-
-=09=09/* Targeting FAQ container */
-=09=09.faq_td > table {max-width:none !important;}
-=09=09.faq_td p, ul, li{margin: 0!important;}
-=09=09.faq_td u + .body .darkmode_grey table {max-width:none !important;tex=
-t-align:left:!important;}
-=09=09.faq_td li {padding-bottom:16px;padding-right:24px;font-family:Helvet=
-icaNow,Helvetica,sans-serif;text-align:left;font-size:14px;line-height:20px=
-;letter-spacing:0px;color:#ffffff;mso-padding-alt:0px !important;}
-=09=09.faq_td .mobile-full {align:left !important;width:auto !important;flo=
-at:left !important;}=20
-=09=09.faq_td .mobile-full td {vertical-align:top;valign:top;}
-=09=09.faq_td .mobile-full img {display:block !important;}
-=09</style><style>
-=09/* Fonts from ZDS. Tiempos cannot be bold */
-=09=09@font-face {
-=09=09  font-family: Tiempos;
-=09=09  font-weight: 400;
-=09=09  font-style: normal;
-=09=09  src: url(https://mosaic02.ztat.net/nsg/dx-ui/fonts/TiemposText-Regu=
-lar.v1.woff2) format("woff2"),
-=09=09=09   url(https://mosaic02.ztat.net/nsg/dx-ui/fonts/TiemposText-Regul=
-ar.v1.woff) format("woff");
-=09=09}
-=09=09@font-face {
-=09=09  font-family: HelveticaNow;
-=09=09  font-weight: 400;
-=09=09  font-style: normal;
-=09=09  src: url(https://mosaic02.ztat.net/nsg/dx-ui/fonts/HelveticaNowText=
--Regular.v1.woff2) format("woff2"),
-=09=09=09   url(https://mosaic02.ztat.net/nsg/dx-ui/fonts/HelveticaNowText-=
-Regular.v1.woff) format("woff");
-=09=09}
-=09=09@font-face {
-=09=09  font-family: HelveticaNow;
-=09=09  font-weight: 700;
-=09=09  font-style: normal;
-=09=09  font-weight: bold;
-=09=09  src: url(https://mosaic02.ztat.net/nsg/dx-ui/fonts/HelveticaNowText=
--Bold.v1.woff2) format("woff2"),
-=09=09=09   url(https://mosaic02.ztat.net/nsg/dx-ui/fonts/HelveticaNowText-=
-Bold.v1.woff)  format("woff");
-=09=09}
-=09=09/* Media queries */
-=09=09@media screen and (max-width: 600px) {=09=09=09
-=09=09=09.full-width {width: 100% !important;max-width: 100% !important;}
-=09=09=09.hide {display: none !important;overflow: hidden !important;max-he=
-ight: 0px !important;}
-=09=09=09.width_50 {width: 50% !important;}
-=09=09=09.remove_border {border:none !important;}
-=09=09=09.inline_block {display:inline-block !important;}
-=09=09=09.inline_table {display:inline-table !important;}
-=09=09=09.remove_paddingLeft {padding-left:0px !important;}
-=09=09=09.remove_paddingRight {padding-right:9px !important;}
-=09=09}
-
-=09/* DARK MODE STYLES */
-=09@media (prefers-color-scheme: dark ) {
-
-=09/* Custom Dark Mode Images */
-=09.darkmode_image{ display:block !important;overflow: visible !important; =
-float: none !important; max-height:inherit !important; max-width:inherit !i=
-mportant; width:inherit !important; line-height: auto !important; margin-to=
-p:0px !important; visibility:inherit !important; }
-=09.lightmode_image { display:none; display:none !important; }
+=20
+=C2=A1Tu c=C3=B3digo descuento est=C3=A1 aqu=C3=AD! =E2=9E=A1=EF=B8=8F=E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C=20
+=20
+[Zalando]
+[Zalando]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&cd0=
+84=3Dlogo&cd085=3D8471ecec-50ac-46f1-88a1-38129b251fc3&wt_cd=3D&tm_hem=3De4=
+41ffd284d6f65d346c99b2c41e3747>
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220531.&cd084=3Dfree_delivery&cd085=3D8471ecec-50=
+ac-46f1-88a1-38129b251fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e374=
+7>
+Env=C3=ADo gratis*
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220531.&cd084=3Dfree_delivery&cd085=3D8471ecec-50=
+ac-46f1-88a1-38129b251fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e374=
+7>
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220531.&cd084=3Dpay_your_way&cd085=3D8471ecec-50ac-46f1-88a1=
+-38129b251fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747>
+M=C3=A9todos de pago sencillos
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220531.&cd084=3Dpay_your_way&cd085=3D8471ecec-50ac-46f1-88a1=
+-38129b251fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747>
+=20
+=20
+Te damos la bienvenida
+=20
+Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
+=20
+bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
+=20
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&cd0=
+84=3Dshowstopper_img&cd085=3D8471ecec-50ac-46f1-88a1-38129b251fc3&wt_cd=3D&=
+tm_hem=3De441ffd284d6f65d346c99b2c41e3747>
+=20
+=20
+=20
+-10%** para ti
+Para que empieces a lo grande
+=20
+Introduce el c=C3=B3digo al finalizar la compra
+=20
+NL9VXQWFV3 =09[=E2=86=92]
+=20
+=C2=A1Empezamos!
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&cd0=
+84=3Dshowstopper_cta&cd085=3D8471ecec-50ac-46f1-88a1-38129b251fc3&wt_cd=3D&=
+tm_hem=3De441ffd284d6f65d346c99b2c41e3747> =09
+[=E2=86=92]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&cd0=
+84=3Dshowstopper_cta&cd085=3D8471ecec-50ac-46f1-88a1-38129b251fc3&wt_cd=3D&=
+tm_hem=3De441ffd284d6f65d346c99b2c41e3747>
+=20
+=20
+=20
+Ventajas para ti
+=20
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220531.&cd084=3Dshowstopper_img1&cd085=3D8471ecec-50ac-4=
+6f1-88a1-38129b251fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747>
+=20
+Novedades cada semana
+=20
+Lo mejor de las tendencias
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220531.&cd084=3Dshowstopper_cta1&cd085=3D8471ecec-50ac-4=
+6f1-88a1-38129b251fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747> =
 =09
-=09/* Custom Dark Mode Colors */=20
-=09.darkmode { background-color: #1a1a1a !important; }
-=09.darkmode_button {border: 1px solid #ffffff !important;}
-=09.darkmode_nwsl_banner {background-color: #f7f7f7;color:#1a1a1a !importan=
-t;}
-=09.darkmode_nwsl_banner td {color:#1a1a1a !important;}
-=09.darkmode_nwsl_banner a {color:#1a1a1a !important;}
-=09.darkmode_grey {background-color: #505153}
-=09.darkmode_price_red {color: #D9000C !important;}
-=09.darkmode_price_old {color: #ffffff !important}
-=09p, span, a, td{ color: #ffffff !important; }
-=09.link {border-bottom: 2px solid #ffffff !important;}
-=09.link_small {border-bottom: 1px solid #ffffff !important;}
-=09}
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220531.&cd084=3Dshowstopper_cta1&cd085=3D8471ecec-50ac-4=
+6f1-88a1-38129b251fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747>
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+531.&cd084=3Dshowstopper_img2&cd085=3D8471ecec-50ac-46f1-88a1-38129b251fc3&=
+wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747>
+=20
+Sigue a tus marcas favoritas
+=20
+De grandes marcas a nuevos nombres, sigue tus marcas favoritas y=20
+desc=C3=BAbrelas antes que el resto.
+=20
+Descubre m=C3=A1s
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+531.&cd084=3Dshowstopper_cta2&cd085=3D8471ecec-50ac-46f1-88a1-38129b251fc3&=
+wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+531.&cd084=3Dshowstopper_cta2&cd085=3D8471ecec-50ac-46f1-88a1-38129b251fc3&=
+wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747>
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220531.&cd084=3Dshowstopper_img3&cd085=3D8471ecec-50ac-46f1-88a1-38129b25=
+1fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747>
+=20
+Presentamos Segunda Mano
+=20
+Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220531.&cd084=3Dshowstopper_cta3&cd085=3D8471ecec-50ac-46f1-88a1-38129b25=
+1fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220531.&cd084=3Dshowstopper_cta3&cd085=3D8471ecec-50ac-46f1-88a1-38129b25=
+1fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747>
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&cd0=
+84=3Dshowstopper_img4&cd085=3D8471ecec-50ac-46f1-88a1-38129b251fc3&wt_cd=3D=
+&tm_hem=3De441ffd284d6f65d346c99b2c41e3747>
+=20
+Moda en cualquier parte
+=20
+Explora Zalando f=C3=A1cilmente con nuestra app para iOS
+<https://apps.apple.com/es/app/zalando-shopping-und-fashion/id585629514> o=
+=20
+Android
+<https://play.google.com/store/apps/details?id=3Dde.zalando.mobile&hl=3Des-=
+ES>=20
+.
+=20
+=20
+=20
+Una =C3=BAltima cosa...
+=C2=BFQuieres seguirnos?
+=20
+=20
+[Instagram icon] <https://www.instagram.com/zalando/> =09[Facebook icon]
+<https://www.facebook.com/zalando.es> =09[Pinterest icon]
+<https://www.pinterest.com/zalandoes/> =09[Tiktok icon]
+<https://www.tiktok.com/@zalando> =09[Youtube icon]
+<https://www.youtube.com/zalando/>
+=20
+=20
+S=C3=ADguenos en
+  <https://www.instagram.com/zalando/>
+<https://www.facebook.com/zalando.es> <https://www.tiktok.com/@zalando>
+Compra f=C3=A1cil y segura
+  <https://play.google.com/store/apps/details?id=3Dde.zalando.mobile>
+<https://apps.apple.com/de/app/zalando-fashion-and-shopping/id585629514>
+=20
+Aviso legal
+Zalando.es
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&cd0=
+84=3Dfooter_home&cd085=3D8471ecec-50ac-46f1-88a1-38129b251fc3&wt_cd=3D&tm_h=
+em=3De441ffd284d6f65d346c99b2c41e3747>=20
+pertenece a Zalando SE
+Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
+=20
+Representante legal: Robert Gentz & David Schneider (ambos copresidentes de=
+=20
+la Junta Directiva), James Freeman II, David Schr=C3=B6der, Dr. Astrid Arnd=
+t,=20
+Dr. Sandra Dembeck | Presidenta del Consejo de Administraci=C3=B3n: Cristin=
+a=20
+Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
+bajo=20
+el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
+<https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220531.&cd084=3Dfooter_more_details&cd085=3D8471ecec-50ac-46f1-88=
+a1-38129b251fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747>
+=20
+El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
+existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
+e=C2=BB se=20
+refiere al primer precio de venta del art=C3=ADculo o al precio de venta=20
+recomendado. Zalando SE ha cedido sus derechos de cr=C3=A9dito respecto a l=
+os=20
+importes cobrar por la compra de los productos solicitados a Zalando=20
+Payments GmbH.
 
-=09/* Duplicating styles with data-ogsc to target Outlook app */
-=09[data-ogsc] .darkmode_image { display:block !important; width: auto !imp=
-ortant; overflow: visible !important; float: none !important; max-height:in=
-herit !important; max-width:inherit !important; line-height: auto !importan=
-t; margin-top:0px !important; visibility:inherit !important; }
-=09[data-ogsc] .lightmode_image { display:none; display:none !important; }
-=09[data-ogsc] .darkmode { background-color: #1a1a1a !important; }
-=09[data-ogsc] .darkmode_button {border: 1px solid #ffffff !important;}
-=09[data-ogsc] .darkmode_nwsl_banner {background-color: #f7f7f7;color:#1a1a=
-1a !important;}
-=09[data-ogsc] .darkmode_nwsl_banner td {color:#1a1a1a !important;}
-=09[data-ogsc] .darkmode_nwsl_banner a {color:#1a1a1a !important;}
-=09[data-ogsc] .darkmode_grey {background-color: #505153}
-=09[data-ogsc] .darkmode_price_red {color: #D9000C !important;}
-=09[data-ogsc] .darkmode_price_old {color: #ffffff !important}
-=09[data-ogsc] p, [data-ogsc] span, [data-ogsc] a {color: #ffffff !importan=
-t;}
-=09[data-ogsc] .link {border-bottom: 2px solid #ffffff !important;}
-=09[data-ogsc] .link_small {border-bottom: 1px solid #ffffff !important;}
-</style></head><body class=3D"body" bgcolor=3D"#f2f2f2" style=3D"margin:0;p=
-adding:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;background=
--color:#f2f2f2;"><table class=3D"hide darkmode" border=3D"0" cellpadding=3D=
-"0" cellspacing=3D"0" width=3D"100%" align=3D"center" bgcolor=3D"#f2f2f2" a=
-ria-hidden=3D"true"><tr><td height=3D"40" style=3D"font-size:0px;line-heigh=
-t:0px;">&nbsp;</td></tr></table><style>
-=09=09@media screen and (max-width: 575px) {=09=09=09
-=09=09=09.full-width {
-=09=09=09=09width: 100% !important;
-=09=09=09=09max-width: 100% !important;
-=09=09=09}
-=09=09=09.hide {
-=09=09=09=09display: none !important;
-=09=09=09=09overflow: hidden !important;
-=09=09=09=09max-height: 0px !important;
-=09=09=09}
-=09=09=09.width_50 {
-=09=09=09=09width: 50% !important;
-=09=09=09}
-=09=09=09.remove_border {border:none !important;} /* Remove border of wrapp=
-er table on mobile */
-=09=09=09.inline_block {display:inline-block !important;}
-=09=09}
-=09</style><table class=3D"darkmode" border=3D"0" cellpadding=3D"0" cellspa=
-cing=3D"0" width=3D"100%" align=3D"center" bgcolor=3D"#f2f2f2" role=3D"pres=
-entation"><tr><td><table class=3D"remove_border darkmode" border=3D"0" cell=
-padding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"center" style=3D"ma=
-x-width:642px;border:1px solid #EAEAEA;" bgcolor=3D"#ffffff" role=3D"presen=
-tation"><!--[if (gte mso 9)|(IE)]><table border=3D"0" cellpadding=3D"0" cel=
-lspacing=3D"0" width=3D"642" align=3D"center" role=3D"presentation"><tr><td=
-><![endif]--><tr><td align=3D"center" style=3D"max-width:642px;"><div style=
-=3D"display:none;font-size:0px;color:#999999;line-height:0px;max-height:0px=
-;max-width:0px;opacity:0;overflow:hidden;">=C2=A1Tu c=C3=B3digo descuento e=
-st=C3=A1 aqu=C3=AD! =E2=9E=A1=EF=B8=8F=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
-=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;&nbsp;=E2=80=8C&nbsp;=
-=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=
-=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=
-=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=
-=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=
-=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;</div><table bo=
-rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"cent=
-er" style=3D"max-width:600px;" ><tr><td width=3D"100%" align=3D"center" sty=
-le=3D"max-width:600px;"><img style=3D"display:none!important" alt=3D"" titl=
-e=3D"" src=3D"https://probe.zalando.com/images/probe.png?t_id=3D004d9d43-e1=
-37-11ec-8a10-a13617b18c6d&amp;m_id=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&a=
-mp;mo_src=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531." /></td></tr></table>=
-<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" aria=
--hidden=3D"true"><tr><td height=3D"12" style=3D"font-size:0px;line-height:0=
-px;">&nbsp;</td></tr></table><table width=3D"100%" align=3D"left" border=3D=
-"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation"><tr><td align=
-=3D"left" style=3D"padding-left:24px;padding-right:24px;"><a href=3D"https:=
-//www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&amp;cd084=
-=3Dlogo&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&amp;wt_cd=3D&amp;t=
-m_hem=3D380aaf561f048c7b9074f0719785991f" target=3D"_blank"><img class=3D"l=
-ightmode_image" src=3D"https://mosaic01.ztat.net/cuo/messages/810d1d00-4312=
--43e5-bd31-d8373fdd24c7/99062661-c7bc-4592-8260-c25ef7ff7d43/zalando-logo-l=
-abel-ff6900.png"
-style=3D"display:block;font-family:HelveticaNow,Helvetica,sans-serif;font-s=
-ize:20px;line-height:28px;letter-spacing:-0.2px;color:#1a1a1a;text-decorati=
-on:none;" border=3D"0" alt=3D"Zalando" title=3D"" width=3D"120" /><!--[if !=
-mso]><! --><div class=3D"darkmode_image" style=3D"display:none; overflow:hi=
-dden; float:left; width:0px; max-height:0px; max-width:0px; line-height:0px=
-; visibility:hidden;" align=3D"center"><img src=3D"https://mosaic01.ztat.ne=
-t/cuo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/99062661-c7bc-4592-8260=
--c25ef7ff7d43/ic_zalandoLogoWhite_2x.png" style=3D"display:block;" border=
-=3D"0" alt=3D"Zalando" title=3D"" width=3D"120" /></div><!--<![endif]--></a=
-></td><td><table align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=
-=3D"0" role=3D"presentation"><tr><td style=3D"padding-right:24px;"><table a=
-lign=3D"right" class=3D"full-width" border=3D"0" cellpadding=3D"0" cellspac=
-ing=3D"0" role=3D"presentation"><tr><td class=3D"full-width" width=3D"38" a=
-ria-hidden=3D"true" align=3D"center" valign=3D"middle" style=3D"display:inl=
-ine-block;padding-bottom:4px;"><a href=3D"https://www.zalando.es/preguntas-=
-frecuentes/Envio-y-entrega?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&=
-amp;cd084=3Dfree_delivery&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&=
-amp;wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f0719785991f" target=3D"_blan=
-k"><img class=3D"lightmode_image" src=3D"https://mosaic01.ztat.net/cuo/mess=
-ages/810d1d00-4312-43e5-bd31-d8373fdd24c7/99062661-c7bc-4592-8260-c25ef7ff7=
-d43/ic_truck_44.png" width=3D"22" border=3D"0" style=3D"display:block;" alt=
-=3D"" title=3D"" /><!--[if !mso]><! --><div class=3D"darkmode_image" style=
-=3D"display:none; overflow:hidden; float:left;max-height:0px; max-width:0px=
-; line-height:0px; visibility:hidden;"><img src=3D"https://mosaic01.ztat.ne=
-t/cuo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/99062661-c7bc-4592-8260=
--c25ef7ff7d43/ic_truck_44_white.png" width=3D"22" style=3D"display:block;" =
- border=3D"0" alt=3D"" title=3D"" /></div><!--<![endif]--></a></td><td clas=
-s=3D"full-width" align=3D"center" style=3D"font-family:HelveticaNow,Helveti=
-ca,sans-serif;color:#1a1a1a;font-size:12px;line-height:16px;letter-spacing:=
-0px;display:inline-block;padding-bottom:4px;"><a href=3D"https://www.zaland=
-o.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM=
-24_024_220531.&amp;cd084=3Dfree_delivery&amp;cd085=3D96c9fe2f-4faa-4d13-a27=
-a-5e909a617cba&amp;wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f0719785991f" =
-style=3D"text-decoration:none;color:#1a1a1a;" target=3D"_blank">Env=C3=ADo =
-gratis*</a></td></tr></table></td><td style=3D"padding-right:24px;"><table =
-align=3D"right" class=3D"full-width" border=3D"0" cellpadding=3D"0" cellspa=
-cing=3D"0" role=3D"presentation"><tr><td class=3D"full-width" width=3D"38" =
-aria-hidden=3D"true" align=3D"center" valign=3D"middle" style=3D"display:in=
-line-block;padding-bottom:4px;"><a href=3D"https://www.zalando.es/preguntas=
--frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&amp;cd084=
-=3Dpay_your_way&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&amp;wt_cd=
-=3D&amp;tm_hem=3D380aaf561f048c7b9074f0719785991f" target=3D"_blank"><img c=
-lass=3D"lightmode_image" src=3D"https://mosaic01.ztat.net/cuo/messages/810d=
-1d00-4312-43e5-bd31-d8373fdd24c7/99062661-c7bc-4592-8260-c25ef7ff7d43/ic_wa=
-llet_36.png" width=3D"22" border=3D"0" style=3D"display:block;" alt=3D"" ti=
-tle=3D"" /><!--[if !mso]><! --><div class=3D"darkmode_image" style=3D"displ=
-ay:none; overflow:hidden; float:left;max-height:0px; max-width:0px; line-he=
-ight:0px; visibility:hidden;"><img src=3D"https://mosaic01.ztat.net/cuo/mes=
-sages/810d1d00-4312-43e5-bd31-d8373fdd24c7/99062661-c7bc-4592-8260-c25ef7ff=
-7d43/ic_wallet_36_white.png" width=3D"22" style=3D"display:block;"  border=
-=3D"0" alt=3D"" title=3D"" /></div><!--<![endif]--></a></td><td class=3D"fu=
-ll-width" align=3D"center" style=3D"font-family:HelveticaNow,Helvetica,sans=
--serif;color:#1a1a1a;font-size:12px;line-height:16px;letter-spacing:0px;dis=
-play:inline-block;padding-bottom:4px;"><a href=3D"https://www.zalando.es/pr=
-eguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&amp=
-;cd084=3Dpay_your_way&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&amp;=
-wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f0719785991f" style=3D"text-decor=
-ation:none;color:#1a1a1a;" target=3D"_blank">M=C3=A9todos de pago sencillos=
-</a></td></tr></table></td></tr></table></td></tr></table><table border=3D"=
-0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true">=
-<tr><td height=3D"12" style=3D"font-size:0px;line-height:0px;">&nbsp;</td><=
-/tr></table><table  border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
-=3D"100%" role=3D"presentation" style=3D"background-color:#F39260;"><tr><td=
- style=3D"padding-left:24px;"><table border=3D"0" cellpadding=3D"0" cellspa=
-cing=3D"0" width=3D"100%" aria-hidden=3D"true"><tr><td height=3D"24" style=
-=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></table><table border=
-=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
-ion"><tr><td class=3D"full-width inline_block" align=3D"left" valign=3D"top=
-" width=3D"302" style=3D"display:inline-block;"><table border=3D"0" cellpad=
-ding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tr><td a=
-lign=3D"left" valign=3D"top" style=3D"font-family:HelveticaNow,Helvetica,sa=
-ns-serif;font-size:24px;line-height:32px;letter-spacing:-0.24px;padding-rig=
-ht:24px;text-align:left;color:#1A1A1A!important;font-weight:bold;">Te damos=
- la bienvenida</td></tr></table><table border=3D"0" cellpadding=3D"0" cells=
-pacing=3D"0" width=3D"100%" aria-hidden=3D"true"><tr><td height=3D"16" styl=
-e=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></table><table border=
-=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
-ion"><tr><td align=3D"left" style=3D"font-family:Tiempos,Times New Roman,se=
-rif;text-align:left;font-size:16px;line-height:24px;letter-spacing:-0.16px;=
-color:#1A1A1A!important;padding-right:24px;">Descubre lo =C3=BAltimo en mod=
-a, lanzamientos y ofertas directamente en tu bandeja de entrada. Esto es un=
- peque=C3=B1o avance de los que te espera.</td></tr></table><table border=
-=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=3D"tr=
-ue"><tr><td height=3D"24" style=3D"font-size:0px;line-height:0px;">&nbsp;</=
-td></tr></table></td><td aria-hidden=3D"true" class=3D"full-width inline_bl=
-ock" align=3D"left" valign=3D"bottom" style=3D"display:inline-block;"><a hr=
-ef=3D"https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531=
-.&amp;cd084=3Dshowstopper_img&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617=
-cba&amp;wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f0719785991f" target=3D"_=
-blank" style=3D"text-decoration:none;"><img class=3D"full-width" src=3D"htt=
-ps://mosaic01.ztat.net/cuo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/99=
-062661-c7bc-4592-8260-c25ef7ff7d43/FinalWelcome.png" style=3D"display:block=
-;width:100%;max-width:290px;" width=3D"290" border=3D"0" alt=3D"" title=3D"=
-" /></a></td></tr></table></td></tr></table><table border=3D"0" cellpadding=
-=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"><tr><td height=
-=3D"24" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></table><t=
-able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" aria-h=
-idden=3D"true"><tr><td height=3D"24" style=3D"font-size:0px;line-height:0px=
-;">&nbsp;</td></tr></table><table  border=3D"0" cellpadding=3D"0" cellspaci=
-ng=3D"0" width=3D"100%" role=3D"presentation" style=3D"background-color:#0C=
-7AA4;"><tr><td style=3D"padding-left:24px;"><table border=3D"0" cellpadding=
-=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"><tr><td height=
-=3D"24" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></table><t=
-able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
-=3D"presentation"><tr><td class=3D"full-width inline_block" align=3D"left" =
-valign=3D"top" width=3D"100%" style=3D"display:inline-block;"><table border=
-=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
-ion"><tr><td align=3D"left" valign=3D"top" style=3D"font-family:HelveticaNo=
-w,Helvetica,sans-serif;font-size:24px;line-height:32px;letter-spacing:-0.24=
-px;padding-right:24px;text-align:left;color:#FFFFFF!important;font-weight:b=
-old;">-10%** para ti</td></tr><tr><td align=3D"left" valign=3D"top" style=
-=3D"font-family:Tiempos,Times New Roman,serif;font-size:24px;line-height:32=
-px;letter-spacing:-0.24px;padding-right:24px;text-align:left;color:#FFFFFF!=
-important;">Para que empieces a lo grande</td></tr></table><table border=3D=
-"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"=
-><tr><td height=3D"24" style=3D"font-size:0px;line-height:0px;">&nbsp;</td>=
-</tr></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
-=3D"100%" align=3D"left" role=3D"presentation"><tr><td align=3D"left" style=
-=3D"font-family:HelveticaNow,Helvetica,sans-serif;text-align:left;font-size=
-:14px;line-height:20px;letter-spacing:0px;color:#FFFFFF!important;padding-r=
-ight:24px;">Introduce el c=C3=B3digo al finalizar la compra</td></tr><tr><t=
-d height=3D"4" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></t=
-able><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left"=
- role=3D"presentation"><tr><td align=3D"left" style=3D"font-family:Helvetic=
-aNow,Helvetica,sans-serif;text-align:left;font-size:20px;line-height:28px;l=
-etter-spacing:-0.2px;color:#FFFFFF!important;font-weight:bold;">NLEAG22JG4<=
-/td><td aria-hidden=3D"true" align=3D"left" style=3D"padding-right:24px;pad=
-ding-left:12px;"><img src=3D"https://mosaic01.ztat.net/cuo/messages/810d1d0=
-0-4312-43e5-bd31-d8373fdd24c7/99062661-c7bc-4592-8260-c25ef7ff7d43/ic_sale_=
-white.png" alt=3D"=E2=86=92" width=3D"22" style=3D"display:block;" /></td><=
-/tr></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
-=3D"100%" aria-hidden=3D"true"><tr><td height=3D"16" style=3D"font-size:0px=
-;line-height:0px;">&nbsp;</td></tr></table><table border=3D"0" cellpadding=
-=3D"0" cellspacing=3D"0" align=3D"left" role=3D"presentation"><tr><td align=
-=3D"left" style=3D"font-family:HelveticaNow,Helvetica,sans-serif;font-size:=
-16px;line-height:24px;letter-spacing:-0.16px;text-align:left;color:#FFFFFF!=
-important;text-decoration:none;font-weight:bold;"><a href=3D"https://www.za=
-lando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&amp;cd084=3Dshowst=
-opper_cta&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&amp;wt_cd=3D&amp=
-;tm_hem=3D380aaf561f048c7b9074f0719785991f" style=3D"color:#FFFFFF!importan=
-t;text-decoration:none;" target=3D"_blank" >=C2=A1Empezamos!</a></td><td ar=
-ia-hidden=3D"true" align=3D"left" style=3D"padding-right:12px;padding-left:=
-4px;"><a href=3D"https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24=
-_024_220531.&amp;cd084=3Dshowstopper_cta&amp;cd085=3D96c9fe2f-4faa-4d13-a27=
-a-5e909a617cba&amp;wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f0719785991f" =
-style=3D"text-decoration:none;" target=3D"_blank"><img src=3D"https://mosai=
-c01.ztat.net/cuo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/13c11237-166=
-f-4413-8a00-0616712add40/arrow_FFFFFF.png" alt=3D"=E2=86=92" width=3D"16" s=
-tyle=3D"display:block;" /></a></td></tr></table><table border=3D"0" cellpad=
-ding=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"><tr><td he=
-ight=3D"24" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></tabl=
-e></td></tr></table></td></tr></table><table border=3D"0" cellpadding=3D"0"=
- cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"><tr><td height=3D"24=
-" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></table><table b=
-order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=
-=3D"true"><tr><td height=3D"24" style=3D"font-size:0px;line-height:0px;">&n=
-bsp;</td></tr></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
-0" width=3D"100%" role=3D"presentation"><tr><td align=3D"left" valign=3D"to=
-p" style=3D"font-family:HelveticaNow,Helvetica,sans-serif;font-size:24px;li=
-ne-height:32px;letter-spacing:-0.24px;padding-left:24px;padding-right:24px;=
-text-align:left;color:#1a1a1a;font-weight:bold;">Ventajas para ti</td></tr>=
-<tr><td height=3D"24" style=3D"font-size:0px;line-height:0px;">&nbsp;</td><=
-/tr></table><table width=3D"100%" role=3D"presentation" border=3D"0" cellpa=
-dding=3D"0" cellspacing=3D"0"><tr><td style=3D"padding-right:18px;padding-l=
-eft:18px;"><!--[if (gte mso 9)|(IE)]><table width=3D"100%"><tr><td width=3D=
-"50%" valign=3D"top" style=3D"padding-top:0;padding-bottom:0;padding-right:=
-0;padding-left:0;" ><![endif]--><table  class=3D"full-width" align=3D"left"=
-  border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"=
-width:100%;max-width:300px;display:inline-block;vertical-align:top;" role=
-=3D"presentation"><tr><td style=3D"padding-left:6px;padding-right:6px;paddi=
-ng-bottom:24px;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
-dth=3D"100%" aria-hidden=3D"true"><tr><td aria-hidden=3D"true" align=3D"lef=
-t" valign=3D"top"><a href=3D"https://www.zalando.es/todo/?order=3Dactivatio=
-n_date&amp;wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&amp;cd084=3Dshow=
-stopper_img1&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&amp;wt_cd=3D&=
-amp;tm_hem=3D380aaf561f048c7b9074f0719785991f" target=3D"_blank" style=3D"t=
-ext-decoration:none;"><img src=3D"https://mosaic01.ztat.net/cuo/messages/81=
-0d1d00-4312-43e5-bd31-d8373fdd24c7/66ddfcb5-a51a-4e95-b914-0f78578171f7/14_=
-returns_third_party.jpg" style=3D"display:block;width:100%;" width=3D"290" =
-border=3D"0" alt=3D"" title=3D"" /></a></td></tr><tr><td height=3D"12" styl=
-e=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></table><table border=
-=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
-ion"><tr><td align=3D"left" valign=3D"top" style=3D"font-family:HelveticaNo=
-w,Helvetica,sans-serif;font-size:18px;line-height:24px;letter-spacing:-0.18=
-px;text-align:left;color:#1a1a1a;font-weight:bold;">Novedades cada semana</=
-td></tr><tr><td height=3D"8" style=3D"font-size:0px;line-height:0px;">&nbsp=
-;</td></tr><tr><td align=3D"left" style=3D"font-family:Tiempos,Times New Ro=
-man,serif;font-size:16px;line-height:24px;letter-spacing:-0.16px;text-align=
-:left;color:#1a1a1a;" >Lo mejor de las tendencias</td></tr></table><table b=
-order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=
-=3D"true"><tr><td height=3D"16" style=3D"font-size:0px;line-height:0px;">&n=
-bsp;</td></tr></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
-0" align=3D"left" role=3D"presentation"><tr><td align=3D"left" style=3D"fon=
-t-family:HelveticaNow,Helvetica,sans-serif;font-size:16px;line-height:24px;=
-letter-spacing:-0.16px;text-align:left;color:#6328E0;text-decoration:none;f=
-ont-weight:bold;"><a href=3D"https://www.zalando.es/todo/?order=3Dactivatio=
-n_date&amp;wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&amp;cd084=3Dshow=
-stopper_cta1&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&amp;wt_cd=3D&=
-amp;tm_hem=3D380aaf561f048c7b9074f0719785991f" style=3D"color:#6328E0;text-=
-decoration:none;" target=3D"_blank" >Ver m=C3=A1s</a></td><td aria-hidden=
-=3D"true" align=3D"left" style=3D"padding-right:24px;color:#6328E0;padding-=
-left:4px;"><a href=3D"https://www.zalando.es/todo/?order=3Dactivation_date&=
-amp;wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&amp;cd084=3Dshowstopper=
-_cta1&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&amp;wt_cd=3D&amp;tm_=
-hem=3D380aaf561f048c7b9074f0719785991f" style=3D"text-decoration:none;" tar=
-get=3D"_blank"><img class=3D"lightmode_image" src=3D"https://mosaic01.ztat.=
-net/cuo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/13c11237-166f-4413-8a=
-00-0616712add40/arrow_6328E0.png" alt=3D"=E2=86=92" width=3D"16" style=3D"d=
-isplay:block;" /><!--[if !mso]><! --><div class=3D"darkmode_image" style=3D=
-"display:none; overflow:hidden; float:left;max-height:0px; max-width:0px; l=
-ine-height:0px; visibility:hidden;"><img src=3D"https://mosaic01.ztat.net/c=
-uo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/13c11237-166f-4413-8a00-06=
-16712add40/arrow_FFFFFF.png" alt=3D"=E2=86=92" width=3D"16" style=3D"displa=
-y:block;" /></div><!--<![endif]--></a></td></tr></table></td></tr></table><=
-!--[if (gte mso 9)|(IE)]></td><![endif]--><!--[if (gte mso 9)|(IE)]><td wid=
-th=3D"50%" valign=3D"top"><![endif]--><table  class=3D"full-width" align=3D=
-"left"  border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" sty=
-le=3D"width:100%;max-width:300px;display:inline-block;vertical-align:top;" =
-role=3D"presentation"><tr><td style=3D"padding-left:6px;padding-right:6px;p=
-adding-bottom:24px;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
-" width=3D"100%" aria-hidden=3D"true"><tr><td aria-hidden=3D"true" align=3D=
-"left" valign=3D"top"><a href=3D"https://www.zalando.es/marcas/?wmc=3DCRM34=
-_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&amp;cd084=3Dshowstopper_img2&amp;cd085=
-=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&amp;wt_cd=3D&amp;tm_hem=3D380aaf561=
-f048c7b9074f0719785991f" target=3D"_blank" style=3D"text-decoration:none;">=
-<img src=3D"https://mosaic01.ztat.net/cuo/messages/810d1d00-4312-43e5-bd31-=
-d8373fdd24c7/66ddfcb5-a51a-4e95-b914-0f78578171f7/03_brands_you_love_third_=
-party.jpg" style=3D"display:block;width:100%;" width=3D"290" border=3D"0" a=
-lt=3D"" title=3D"" /></a></td></tr><tr><td height=3D"12" style=3D"font-size=
-:0px;line-height:0px;">&nbsp;</td></tr></table><table border=3D"0" cellpadd=
-ing=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tr><td al=
-ign=3D"left" valign=3D"top" style=3D"font-family:HelveticaNow,Helvetica,san=
-s-serif;font-size:18px;line-height:24px;letter-spacing:-0.18px;text-align:l=
-eft;color:#1a1a1a;font-weight:bold;">Sigue a tus marcas favoritas</td></tr>=
-<tr><td height=3D"8" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></=
-tr><tr><td align=3D"left" style=3D"font-family:Tiempos,Times New Roman,seri=
-f;font-size:16px;line-height:24px;letter-spacing:-0.16px;text-align:left;co=
-lor:#1a1a1a;" >De grandes marcas a nuevos nombres, sigue tus marcas favorit=
-as y desc=C3=BAbrelas antes que el resto.</td></tr></table><table border=3D=
-"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"=
-><tr><td height=3D"16" style=3D"font-size:0px;line-height:0px;">&nbsp;</td>=
-</tr></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
-=3D"left" role=3D"presentation"><tr><td align=3D"left" style=3D"font-family=
-:HelveticaNow,Helvetica,sans-serif;font-size:16px;line-height:24px;letter-s=
-pacing:-0.16px;text-align:left;color:#6328E0;text-decoration:none;font-weig=
-ht:bold;"><a href=3D"https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_=
-MIX_PMT_TM24_024_220531.&amp;cd084=3Dshowstopper_cta2&amp;cd085=3D96c9fe2f-=
-4faa-4d13-a27a-5e909a617cba&amp;wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f=
-0719785991f" style=3D"color:#6328E0;text-decoration:none;" target=3D"_blank=
-" >Descubre m=C3=A1s</a></td><td aria-hidden=3D"true" align=3D"left" style=
-=3D"padding-right:24px;color:#6328E0;padding-left:4px;"><a href=3D"https://=
-www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&amp;=
-cd084=3Dshowstopper_cta2&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&a=
-mp;wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f0719785991f" style=3D"text-de=
-coration:none;" target=3D"_blank"><img class=3D"lightmode_image" src=3D"htt=
-ps://mosaic01.ztat.net/cuo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/13=
-c11237-166f-4413-8a00-0616712add40/arrow_6328E0.png" alt=3D"=E2=86=92" widt=
-h=3D"16" style=3D"display:block;" /><!--[if !mso]><! --><div class=3D"darkm=
-ode_image" style=3D"display:none; overflow:hidden; float:left;max-height:0p=
-x; max-width:0px; line-height:0px; visibility:hidden;"><img src=3D"https://=
-mosaic01.ztat.net/cuo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/13c1123=
-7-166f-4413-8a00-0616712add40/arrow_FFFFFF.png" alt=3D"=E2=86=92" width=3D"=
-16" style=3D"display:block;" /></div><!--<![endif]--></a></td></tr></table>=
-</td></tr></table><!--[if (gte mso 9)|(IE)]></td><![endif]--><!--[if (gte m=
-so 9)|(IE)]></tr></table><![endif]--></td></tr></table><table border=3D"0" =
-cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><t=
-r><td style=3D"padding-right:18px;padding-left:18px;"><!--[if (gte mso 9)|(=
-IE)]><table width=3D"100%"><tr><td width=3D"50%" valign=3D"top" style=3D"pa=
-dding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" ><![endif]-->=
-<table  class=3D"full-width" align=3D"left" border=3D"0" cellpadding=3D"0" =
-cellspacing=3D"0" width=3D"100%" style=3D"width:100%;max-width:300px;displa=
-y:inline-block;vertical-align:top;" role=3D"presentation"><tr><td style=3D"=
-padding-left:6px;padding-right:6px;padding-bottom:24px;"><table border=3D"0=
-" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"><=
-tr><td aria-hidden=3D"true" align=3D"left" valign=3D"top"><a href=3D"https:=
-//www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_22053=
-1.&amp;cd084=3Dshowstopper_img3&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a6=
-17cba&amp;wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f0719785991f" target=3D=
-"_blank" style=3D"text-decoration:none;"><img src=3D"https://media.ztat.net=
-/media/newsletter/AW15/Campaigns/DACH/owned_w_email_adjustment_Newsletter_7=
-50x360.jpg" style=3D"display:block;width:100%;" width=3D"290" border=3D"0" =
-alt=3D"" title=3D"" /></a></td></tr><tr><td height=3D"12" style=3D"font-siz=
-e:0px;line-height:0px;">&nbsp;</td></tr></table><table border=3D"0" cellpad=
-ding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tr><td a=
-lign=3D"left" valign=3D"top" style=3D"font-family:HelveticaNow,Helvetica,sa=
-ns-serif;font-size:18px;line-height:24px;letter-spacing:-0.18px;text-align:=
-left;color:#1a1a1a;font-weight:bold;">Presentamos Segunda Mano</td></tr><tr=
-><td height=3D"8" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr>=
-<tr><td align=3D"left" style=3D"font-family:Tiempos,Times New Roman,serif;f=
-ont-size:16px;line-height:24px;letter-spacing:-0.16px;text-align:left;color=
-:#1a1a1a;" >Compra art=C3=ADculos de segunda mano y vende lo que ya no te p=
-ones.</td></tr></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D=
-"0" width=3D"100%" aria-hidden=3D"true"><tr><td height=3D"16" style=3D"font=
--size:0px;line-height:0px;">&nbsp;</td></tr></table><table border=3D"0" cel=
-lpadding=3D"0" cellspacing=3D"0" align=3D"left" role=3D"presentation"><tr><=
-td align=3D"left" style=3D"font-family:HelveticaNow,Helvetica,sans-serif;fo=
-nt-size:16px;line-height:24px;letter-spacing:-0.16px;text-align:left;color:=
-#6328E0;text-decoration:none;font-weight:bold;"><a href=3D"https://www.zala=
-ndo.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&amp;cd0=
-84=3Dshowstopper_cta3&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&amp;=
-wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f0719785991f" style=3D"color:#632=
-8E0;text-decoration:none;" target=3D"_blank" >Ver m=C3=A1s </a></td><td ari=
-a-hidden=3D"true" align=3D"left" style=3D"padding-right:24px;color:#6328E0;=
-padding-left:4px;"><a href=3D"https://www.zalando.es/pre-owned-w/?wmc=3DCRM=
-34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&amp;cd084=3Dshowstopper_cta3&amp;cd0=
-85=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&amp;wt_cd=3D&amp;tm_hem=3D380aaf5=
-61f048c7b9074f0719785991f" style=3D"text-decoration:none;" target=3D"_blank=
-"><img class=3D"lightmode_image" src=3D"https://mosaic01.ztat.net/cuo/messa=
-ges/810d1d00-4312-43e5-bd31-d8373fdd24c7/13c11237-166f-4413-8a00-0616712add=
-40/arrow_6328E0.png" alt=3D"=E2=86=92" width=3D"16" style=3D"display:block;=
-" /><!--[if !mso]><! --><div class=3D"darkmode_image" style=3D"display:none=
-; overflow:hidden; float:left;max-height:0px; max-width:0px; line-height:0p=
-x; visibility:hidden;"><img src=3D"https://mosaic01.ztat.net/cuo/messages/8=
-10d1d00-4312-43e5-bd31-d8373fdd24c7/13c11237-166f-4413-8a00-0616712add40/ar=
-row_FFFFFF.png" alt=3D"=E2=86=92" width=3D"16" style=3D"display:block;" /><=
-/div><!--<![endif]--></a></td></tr></table></td></tr></table><!--[if (gte m=
-so 9)|(IE)]></td><![endif]--><!--[if (gte mso 9)|(IE)]><td width=3D"50%" va=
-lign=3D"top"><![endif]--><table  class=3D"full-width" align=3D"left" border=
-=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"width:10=
-0%;max-width:300px;display:inline-block;vertical-align:top;" role=3D"presen=
-tation"><tr><td style=3D"padding-left:6px;padding-right:6px;padding-bottom:=
-24px;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
-%" aria-hidden=3D"true"><tr><td aria-hidden=3D"true" align=3D"left" valign=
-=3D"top"><a href=3D"https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_T=
-M24_024_220531.&amp;cd084=3Dshowstopper_img4&amp;cd085=3D96c9fe2f-4faa-4d13=
--a27a-5e909a617cba&amp;wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f071978599=
-1f" target=3D"_blank" style=3D"text-decoration:none;"><img src=3D"https://m=
-osaic01.ztat.net/cuo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/66ddfcb5=
--a51a-4e95-b914-0f78578171f7/09_app_third_party.jpg" style=3D"display:block=
-;width:100%;" width=3D"290" border=3D"0" alt=3D"" title=3D"" /></a></td></t=
-r><tr><td height=3D"12" style=3D"font-size:0px;line-height:0px;">&nbsp;</td=
-></tr></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
-=3D"100%" role=3D"presentation"><tr><td align=3D"left" valign=3D"top" style=
-=3D"font-family:HelveticaNow,Helvetica,sans-serif;font-size:18px;line-heigh=
-t:24px;letter-spacing:-0.18px;text-align:left;color:#1a1a1a;font-weight:bol=
-d;">Moda en cualquier parte</td></tr><tr><td height=3D"8" style=3D"font-siz=
-e:0px;line-height:0px;">&nbsp;</td></tr><tr><td align=3D"left" style=3D"fon=
-t-family:Tiempos,Times New Roman,serif;font-size:16px;line-height:24px;lett=
-er-spacing:-0.16px;text-align:left;color:#1a1a1a;" >Explora Zalando f=C3=A1=
-cilmente con nuestra app para <a class=3D"link_small" href=3D"https://apps.=
-apple.com/es/app/zalando-shopping-und-fashion/id585629514" style=3D"color:#=
-6328E0;text-decoration:none;" target=3D"_blank">iOS</a> o <a class=3D"link_=
-small" href=3D"https://play.google.com/store/apps/details?id=3Dde.zalando.m=
-obile&hl=3Des-ES" style=3D"color:#6328E0;text-decoration:none;" target=3D"_=
-blank">Android</a>.</td></tr></table><table border=3D"0" cellpadding=3D"0" =
-cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"><tr><td height=3D"16"=
- style=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></table></td></tr=
-></table><!--[if (gte mso 9)|(IE)]></td><![endif]--><!--[if (gte mso 9)|(IE=
-)]></tr></table><![endif]--></td></tr></table><table border=3D"0" cellpaddi=
-ng=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" bgcolor=3D"=
-#F39260"><tr><td class=3D"full-width inline_block"><table border=3D"0" cell=
-padding=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"><tr><td=
- height=3D"16" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></t=
-able><table width=3D"100%" class=3D"full-width"  align=3D"left" border=3D"0=
-" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation"><tr><td height=
-=3D"8" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr><tr><td ali=
-gn=3D"left" valign=3D"top" style=3D"font-family:HelveticaNow,Helvetica,sans=
--serif;font-size:24px;line-height:32px;letter-spacing:-0.24px;text-align:le=
-ft;color:#1a1a1a!important;font-weight:bold;padding-left:24px;padding-right=
-:24px;" >Una =C3=BAltima cosa...</td></tr><tr><td align=3D"left" valign=3D"=
-top" style=3D"font-family:Tiempos,Times New Roman,serif;font-size:24px;line=
--height:32px;letter-spacing:-0.24px;text-align:left;color:#1a1a1a!important=
-;padding-left:24px;padding-right:24px;" >=C2=BFQuieres seguirnos?</td></tr>=
-</table></td><td class=3D"full-width inline_block"><table border=3D"0" cell=
-padding=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"><tr><td=
- height=3D"16" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></t=
-able><table class=3D"full-width" border=3D"0" cellpadding=3D"0" cellspacing=
-=3D"0" align=3D"right" role=3D"presentation"><tr><td align=3D"left" style=
-=3D"padding-left:24px;padding-right:24px;"><table border=3D"0" cellpadding=
-=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"><tr><td height=
-=3D"8" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></table><ta=
-ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left" role=3D=
-"presentation"><tr><td align=3D"left" style=3D"padding-right:8px;"><a href=
-=3D"https://www.instagram.com/zalando/" target=3D"_blank"><img src=3D"https=
-://mosaic01.ztat.net/cuo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/9906=
-2661-c7bc-4592-8260-c25ef7ff7d43/insta_black.png" style=3D"display:block;wi=
-dth:100%;max-width:55px;" width=3D"55" border=3D"0" alt=3D"Instagram icon" =
-/></a></td><td align=3D"left" style=3D"padding-right:8px;"><a href=3D"https=
-://www.facebook.com/zalando.es" target=3D"_blank"><img src=3D"https://mosai=
-c01.ztat.net/cuo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/99062661-c7b=
-c-4592-8260-c25ef7ff7d43/fb_black.png" style=3D"display:block;width:100%;ma=
-x-width:55px;" width=3D"55" border=3D"0" alt=3D"Facebook icon" /></a></td><=
-td align=3D"left" style=3D"padding-right:8px;"><a href=3D"https://www.pinte=
-rest.com/zalandoes/" target=3D"_blank"><img src=3D"https://mosaic01.ztat.ne=
-t/cuo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/99062661-c7bc-4592-8260=
--c25ef7ff7d43/pinterest_black.png" style=3D"display:block;width:100%;max-wi=
-dth:55px;" width=3D"55" border=3D"0" alt=3D"Pinterest icon" /></a></td><td =
-align=3D"left" style=3D"padding-right:8px;"><a href=3D"https://www.tiktok.c=
-om/@zalando" target=3D"_blank"><img src=3D"https://mosaic01.ztat.net/cuo/me=
-ssages/810d1d00-4312-43e5-bd31-d8373fdd24c7/99062661-c7bc-4592-8260-c25ef7f=
-f7d43/tiktok_black.png" style=3D"display:block;width:100%;max-width:55px;" =
-width=3D"55" border=3D"0" alt=3D"Tiktok icon" /></a></td><td align=3D"left"=
- style=3D"padding-right:8px;"><a href=3D"https://www.youtube.com/zalando/" =
-target=3D"_blank"><img src=3D"https://mosaic01.ztat.net/cuo/messages/810d1d=
-00-4312-43e5-bd31-d8373fdd24c7/99062661-c7bc-4592-8260-c25ef7ff7d43/youtube=
-_black.png" style=3D"display:block;width:100%;max-width:55px;" width=3D"55"=
- border=3D"0" alt=3D"Youtube icon" /></a></td></tr></table></td></tr></tabl=
-e></td></tr><tr><td colspan=3D"2" height=3D"24" style=3D"font-size:0px;line=
--height:0px;">&nbsp;</td></tr></table><table role=3D"presentation" width=3D=
-"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#6328E0"=
-><tr><td style=3D"padding-left:24px;padding-right:24px;"><table border=3D"0=
-" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"><=
-tr><td height=3D"24" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></=
-tr></table><table role=3D"presentation" border=3D"0" cellpadding=3D"0" cell=
-spacing=3D"0" align=3D"left"><tr><td align=3D"left" style=3D"font-family:He=
-lveticaNow,Helvetica,sans-serif;font-size:14px;line-height:20px;letter-spac=
-ing:0px;font-weight:bold;color:#ffffff;" >S=C3=ADguenos en</td></tr><tr><td=
- aria-hidden=3D"true" height=3D"8" style=3D"font-size:0px;line-height:0px;"=
->&nbsp;</td></tr><tr><td align=3D"left"><table role=3D"presentation" border=
-=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left"><tr><td align=3D"=
-left" style=3D"padding-right:6px;"><a href=3D"https://www.instagram.com/zal=
-ando/" target=3D"_blank"><img src=3D"https://mosaic01.ztat.net/cuo/messages=
-/810d1d00-4312-43e5-bd31-d8373fdd24c7/99062661-c7bc-4592-8260-c25ef7ff7d43/=
-icon_instagram.png" style=3D"display:block;" width=3D"35" border=3D"0" alt=
-=3D"" /></a></td><td align=3D"left" style=3D"padding-right:6px;"><a href=3D=
-"https://www.facebook.com/zalando.es" target=3D"_blank"><img src=3D"https:/=
-/mosaic01.ztat.net/cuo/messages/810d1d00-4312-43e5-bd31-d8373fdd24c7/990626=
-61-c7bc-4592-8260-c25ef7ff7d43/icon_facebook.png" style=3D"display:block;" =
-width=3D"35" border=3D"0" alt=3D"" /></a></td><td align=3D"left" style=3D"p=
-adding-right:6px;"><a href=3D"https://www.tiktok.com/@zalando" target=3D"_b=
-lank"><img src=3D"https://mosaic01.ztat.net/cuo/messages/810d1d00-4312-43e5=
--bd31-d8373fdd24c7/99062661-c7bc-4592-8260-c25ef7ff7d43/icon_tiktok.png" st=
-yle=3D"display:block;" width=3D"35" border=3D"0" alt=3D"" /></a></td></tr><=
-/table></td></tr></table><table role=3D"presentation" border=3D"0" cellpadd=
-ing=3D"0" cellspacing=3D"0" align=3D"right"><tr><td align=3D"right" style=
-=3D"font-family:HelveticaNow,Helvetica,sans-serif;font-size:14px;line-heigh=
-t:20px;letter-spacing:0px;font-weight:bold;color:#ffffff;">Compra f=C3=A1ci=
-l y segura</td></tr><tr><td aria-hidden=3D"true" height=3D"8" style=3D"font=
--size:0px;line-height:0px;">&nbsp;</td></tr><tr><td><table role=3D"presenta=
-tion" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"rig=
-ht" style=3D"padding-left:6px;text-align:right;"><a href=3D"https://play.go=
-ogle.com/store/apps/details?id=3Dde.zalando.mobile" target=3D"_blank"><img =
-src=3D"https://mosaic01.ztat.net/cuo/messages/810d1d00-4312-43e5-bd31-d8373=
-fdd24c7/13c11237-166f-4413-8a00-0616712add40/logo_android.png" style=3D"dis=
-play:block;" width=3D"35" border=3D"0" alt=3D"" /></a></td><td align=3D"rig=
-ht" style=3D"padding-left:6px;text-align:right;"><a href=3D"https://apps.ap=
-ple.com/de/app/zalando-fashion-and-shopping/id585629514" target=3D"_blank">=
-<img src=3D"https://mosaic01.ztat.net/cuo/messages/810d1d00-4312-43e5-bd31-=
-d8373fdd24c7/13c11237-166f-4413-8a00-0616712add40/logo_apple.png" style=3D"=
-display:block;" width=3D"35" border=3D"0" alt=3D"" /></a></td></tr></table>=
-</td></tr></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
-idth=3D"100%" aria-hidden=3D"true"><tr><td aria-hidden=3D"true" height=3D"2=
-4" style=3D"font-size:0px;line-height:0px;">&nbsp;</td></tr></table><table =
-role=3D"presentation" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspa=
-cing=3D"0" ><tr><td align=3D"left" style=3D"font-family:HelveticaNow,Helvet=
-ica,sans-serif;font-size:12px;line-height:16px;letter-spacing:0px;text-deco=
-ration:none;color:#ffffff;"><span style=3D"font-weight:bold;" >Aviso legal<=
-/span><br/><a href=3D"https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
-_TM24_024_220531.&amp;cd084=3Dfooter_home&amp;cd085=3D96c9fe2f-4faa-4d13-a2=
-7a-5e909a617cba&amp;wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f0719785991f"=
- target=3D"_blank" style=3D"color:#ffffff !important;text-decoration:none;"=
->Zalando.es</a> pertenece a Zalando SE
-                        <br/>
-                        Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=
-=9Fe 5, 10243 Berlin | Representante legal:
-                        Robert Gentz & David Schneider (ambos copresidentes=
- de la Junta Directiva), James Freeman II, David Schr=C3=B6der, Dr. Astrid =
-Arndt, Dr. Sandra Dembeck | Presidenta del Consejo de Administraci=C3=B3n:
-                        Cristina Stenbeck | Registrada en el tribunal local=
- de Charlottenburg, Berl=C3=ADn, bajo el n=C3=BAmero HRB 158855 B | CIF: 37=
-/132/45004 | <a href=3D"https://www.zalando.es/zalando-aviso-legal/?wmc=3DC=
-RM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&amp;cd084=3Dfooter_more_details&am=
-p;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&amp;wt_cd=3D&amp;tm_hem=3D38=
-0aaf561f048c7b9074f0719785991f" target=3D"_blank" style=3D"color:#ffffff !i=
-mportant; text-decoration:underline">Ver m=C3=A1s detalles</a></td></tr><tr=
-><td aria-hidden=3D"true" height=3D"24" style=3D"font-size:0px;line-height:=
-0px;">&nbsp;</td></tr><tr><td align=3D"left" style=3D"font-family:Helvetica=
-Now,Helvetica,sans-serif;font-size:12px;line-height:16px;letter-spacing:0px=
-;text-decoration:none;color:#ffffff;">
-                        El precio de los productos de Zalando incluye el IV=
-A. Hasta fin de existencias. Los precios pueden estar sujetos a cambios. =
-=C2=ABOriginalmente=C2=BB se refiere al primer precio de venta del art=C3=
-=ADculo o al precio de venta recomendado.
-                        Zalando SE ha cedido sus derechos de cr=C3=A9dito r=
-especto a los importes cobrar por la compra de los productos solicitados a =
-Zalando Payments GmbH.
-                        <br/><br/>
-                        Responsable de los contenidos de Zalando SE: Robert=
- Gentz
-                       =20
-                            <br/><br/><hr style=3D"color:#ffffff;"><br/>
-                            Queremos que solo recibas correos que te intere=
-sen, sabemos que tu bandeja de entrada puede llenarse r=C3=A1pido.
-                            <br/><br/>
-                           =20
-                            =C2=BFTe escribimos demasiado? Muchos clientes =
-eligen lo que quieren recibir ajustando sus <a href=3D"https://www.zalando.=
-es/messages/?cr=3D895e07d4-309c-4cbe-b50d-fdbaa3b69ee0&amp;wmc=3DCRM34_TMS_=
-ES.ONL_MIX_PMT_TM24_024_220531.&amp;cd084=3Dfooter_pc&amp;cd085=3D96c9fe2f-=
-4faa-4d13-a27a-5e909a617cba&amp;wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f=
-0719785991f" target=3D"_blank" style=3D"color:#ffffff !important; text-deco=
-ration:underline">preferencias de correos</a>.
-                           =20
-                           =20
-                                <br/><br/>
-                                =C2=BFQuieres perdernos de vista? No pasa n=
-ada, no nos lo tomamos como algo personal. Puedes <a href=3D"https://www.za=
-lando.es/messages/unsubscribe?cr=3D895e07d4-309c-4cbe-b50d-fdbaa3b69ee0&amp=
-;nsb=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&amp;wmc=3DCRM34_TMS_ES.ONL_MIX_=
-PMT_TM24_024_220531.&amp;cd084=3Dfooter_full_unsub&amp;cd085=3D96c9fe2f-4fa=
-a-4d13-a27a-5e909a617cba&amp;wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f071=
-9785991f" target=3D"_blank" style=3D"color:#ffffff !important; text-decorat=
-ion:underline">cancelar tu suscripci=C3=B3n</a> a todos los correos comerci=
-ales de Zalando.es.
-                           =20
-                       =20
-                       =20
-                            <br/><br/>
-                            Este es un correo autom=C3=A1tico al que no es =
-posible responder. Visita nuestra p=C3=A1gina de <a href=3D"https://www.zal=
-ando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531=
-.&amp;cd084=3Dfaq_contact&amp;cd085=3D96c9fe2f-4faa-4d13-a27a-5e909a617cba&=
-amp;wt_cd=3D&amp;tm_hem=3D380aaf561f048c7b9074f0719785991f" target=3D"_blan=
-k" style=3D"color:#ffffff !important; text-decoration:underline">ayuda y co=
-ntacto</a> si quieres hablar con nosotros.
-                       =20
-                    </td></tr></table><table border=3D"0" cellpadding=3D"0"=
- cellspacing=3D"0" width=3D"100%" aria-hidden=3D"true"><tr><td aria-hidden=
-=3D"true" height=3D"24" style=3D"font-size:0px;line-height:0px;">&nbsp;</td=
-></tr></table></td></tr></table><a name=3D"footer"></a><table role=3D"prese=
-ntation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><t=
-r><td aria-hidden=3D"true" height=3D"12" style=3D"font-size:0px;line-height=
-:0px;">&nbsp;</td></tr><tr><td align=3D"left" style=3D"font-family:Helvetic=
-aNow,Helvetica,sans-serif;font-size:12px;line-height:16px;letter-spacing:0p=
-x;color:#66676E;text-align:left;padding-left:24px;padding-right:24px;">
-            *Env=C3=ADo gratuito en gran parte de nuestra selecci=C3=B3n en=
- pedidos a partir de 24,90=C2=A0=E2=82=AC. Para compras inferiores a este i=
-mporte, los gastos de env=C3=ADo son de 2,90=C2=A0=E2=82=AC.
+Responsable de los contenidos de Zalando SE: Robert Gentz
 
-&nbsp;
-           =20
-=09</tr><tr><td aria-hidden=3D"true" height=3D"16" style=3D"font-size:0px;l=
-ine-height:0px;">&nbsp;</td></tr></table><table role=3D"presentation" borde=
-r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tr><td aria-hid=
-den=3D"true" height=3D"12" style=3D"font-size:0px;line-height:0px;">&nbsp;<=
-/td></tr><tr><td align=3D"left" style=3D"font-family:HelveticaNow,Helvetica=
-,sans-serif;font-size:12px;line-height:16px;letter-spacing:0px;color:#66676=
-E;text-align:left;padding-left:24px;padding-right:24px;" >** El c=C3=B3digo=
- es v=C3=A1lido por 30 d=C3=ADas desde la recepci=C3=B3n de este email. Alg=
-unos art=C3=ADculos podr=C3=ADan estar excluidos de la oferta. Tampoco es v=
-=C3=A1lido para adquirir tarjetas regalo. El c=C3=B3digo es de un solo uso =
-y v=C3=A1lido por un importe m=C3=ADnimo de compra de 75 =E2=82=AC.</td></t=
-r><tr><td aria-hidden=3D"true" height=3D"16" style=3D"font-size:0px;line-he=
-ight:0px;">&nbsp;</td></tr></table></td></tr><!--[if (gte mso 9)|(IE)]></td=
-></tr></table><![endif]--></table></td></tr><!--[if (gte mso 9)|(IE)]></td>=
-</tr></table><![endif]--></table><table class=3D"hide darkmode" border=3D"0=
-" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"center" bgcol=
-or=3D"#f2f2f2" aria-hidden=3D"true"><tr><td height=3D"40" style=3D"font-siz=
-e:0px;line-height:0px;">&nbsp;</td></tr></table></body></html>
+------------------------------------------------------------------------
+
+Queremos que solo recibas correos que te interesen, sabemos que tu bandeja=
+=20
+de entrada puede llenarse r=C3=A1pido.
+
+=C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
+r=20
+ajustando sus preferencias de correos
+<https://www.zalando.es/messages/?cr=3Dcdaed180-8b9f-4f3a-810b-5a4b2cd38ed3=
+&wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220531.&cd084=3Dfooter_pc&cd085=3D=
+8471ecec-50ac-46f1-88a1-38129b251fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c=
+99b2c41e3747>=20
+.
+
+=C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
+=20
+personal. Puedes cancelar tu suscripci=C3=B3n
+<https://www.zalando.es/messages/unsubscribe?cr=3Dcdaed180-8b9f-4f3a-810b-5=
+a4b2cd38ed3&nsb=3D8471ecec-50ac-46f1-88a1-38129b251fc3&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220531.&cd084=3Dfooter_full_unsub&cd085=3D8471ecec-50ac=
+-46f1-88a1-38129b251fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747>=
+=20
+a todos los correos comerciales de Zalando.es.
+
+Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
+estra=20
+p=C3=A1gina de ayuda y contacto
+<https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220531.&cd084=3Dfaq_contact&cd085=3D8471ecec-50ac-46f1-88a1-38129=
+b251fc3&wt_cd=3D&tm_hem=3De441ffd284d6f65d346c99b2c41e3747>=20
+si quieres hablar con nosotros.
+=20
+=20
+*Env=C3=ADo gratuito en gran parte de nuestra selecci=C3=B3n en pedidos a p=
+artir de=20
+24,90=C2=A0=E2=82=AC. Para compras inferiores a este importe, los gastos de=
+ env=C3=ADo son de=20
+2,90=C2=A0=E2=82=AC. =20
+=20
+=20
+** El c=C3=B3digo es v=C3=A1lido por 30 d=C3=ADas desde la recepci=C3=B3n d=
+e este email.=20
+Algunos art=C3=ADculos podr=C3=ADan estar excluidos de la oferta. Tampoco e=
+s v=C3=A1lido=20
+para adquirir tarjetas regalo. El c=C3=B3digo es de un solo uso y v=C3=A1li=
+do por un=20
+importe m=C3=ADnimo de compra de 75 =E2=82=AC.
+=20
