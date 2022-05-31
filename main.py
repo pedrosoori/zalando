@@ -261,9 +261,9 @@ def comandoescrito():
                 else:
                     await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**'))
             
-            update=open("datos.json", "r").read()
-            repo.update_file(path=file1.path, message="Update datos", content=update, sha=file1.sha)
-                
+            
+    update=open("datos.json", "r").read()
+    repo.update_file(path=file1.path, message="Update datos", content=update, sha=file1.sha)            
     TOKEN = "ODk0ODU0NzUxOTcwMjkxNzQy.GzzPvR.9UMGwzolFex8flSe99-AXCuRGC8Vp8BAgaG0jU"
     bot.run(TOKEN)
             
@@ -272,3 +272,6 @@ if __name__ == '__main__':
     #discordbotReaction()
     comandoescrito()
         
+      
+
+
