@@ -41,11 +41,12 @@ def setup():
                     if part.get_content_type() == 'text/plain':
                         #print(part.get_payload())
                         f =open("txt.txt", 'a+')
+                        texto=""
+                        texto+=part.get_payload()
                         f.write(part.get_payload())
                         f.close()
     
-    
-  
+    repo.update_file(path=file2.path, message="Update txt", content=texto, sha=file2.sha)
     
     for mail in mail_id_list:
         my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
@@ -78,7 +79,7 @@ def setup():
         with open("promocode.json", "w") as f:
             json.dump(datos, f)
     
-    repo.update_file(path=file2.path, message="Update txt", content=str(part.get_payload()), sha=file2.sha)
+    
     update=open("promocode.json", "r").read()
     repo.update_file(path=file1.path, message="Update promocode", content=update, sha=file1.sha)
             
