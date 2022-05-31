@@ -187,7 +187,7 @@ def comandoescrito():
     
     @bot.command()
     async def generate(ctx, num: int):
-        if ctx.channel.id == 960659202253140089:
+        if ctx.channel.id == 960659202253140089 or ctx.channel.id ==942152678094540902:
             fecha=datetime.date.today()
             fecha=str(fecha)
             try:
