@@ -67,19 +67,19 @@ def setup():
     datos = {}
     datos["cupones"]=codigos
     
-    try:          
-        r=file1.decoded_content.decode()
-        score = json.loads(r)
-        lista=score["cupones"]
-        for cupon in codigos:
-            if cupon not in lista:
-                lista.append(cupon)
-        encode=json.dumps(lista)
-        repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
-    except:
-        r=file1.decoded_content.decode()
-        encode=json.dumps(datos)
-        repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
+    #try:          
+    r=file1.decoded_content.decode()
+    score = json.loads(r)
+    lista=score["cupones"]
+    for cupon in codigos:
+        if cupon not in lista:
+            lista.append(cupon)
+    encode=json.dumps(lista)
+    repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
+    #except:
+    #    r=file1.decoded_content.decode()
+    #    encode=json.dumps(datos)
+    #    repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
     
     
     
