@@ -116,8 +116,7 @@ def datos(quantita):
 
 
 
-
-def setup():
+def update():
     g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
     repo = g.get_user().get_repo("zalando")
     file1 = repo.get_contents("promocode.json")
@@ -147,9 +146,15 @@ def setup():
     score["cupones"]=lista
     encode=json.dumps(score)
     repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
-    
-    
+
+
+
+def setup():
+    g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
+    repo = g.get_user().get_repo("zalando")
     file2 = repo.get_contents("txt.txt")
+    
+    
     user, password = "sooriraffles1@gmail.com", "moqeasdqrwslccqo"
     
     imap_url = "imap.gmail.com"
@@ -361,6 +366,7 @@ def comandoescrito():
                     
                 if hora[str(ctx.author.id)][1] + num <= 20:
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
+                    update()
                     setup()
                     datos(num+2)
                     embed = discord.Embed(
@@ -386,6 +392,7 @@ def comandoescrito():
                         await ctx.reply(embed=discord.Embed(title=msg, color=0xe74c3c))
                     else:
                         await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
+                        update()
                         setup()
                         datos(num+2)
                         embed = discord.Embed(
@@ -416,6 +423,7 @@ def comandoescrito():
                 
                 if num <21: 
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
+                    update()
                     setup()
                     datos(num+2)
                     embed = discord.Embed(
@@ -438,6 +446,7 @@ def comandoescrito():
             
     
         if ctx.channel.id == 960659202253140089:
+            update()
             setup()
             datos(num+2)
             embed = discord.Embed(
