@@ -44,12 +44,6 @@ def setup():
     repo.update_file(path=file2.path, message="Update txt", content=texto, sha=file2.sha)
     
     
-    
-    for mail in mail_id_list:
-        my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
-    my_mail.expunge()
-    
-    
     f =open("txt.txt", 'r')
     datafile = f.readlines()
     for line in datafile:
@@ -73,9 +67,13 @@ def setup():
     encode=json.dumps(score)
     repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
     
-    file2 = repo.get_contents("txt.txt")
+    for mail in mail_id_list:
+        my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
+    my_mail.expunge()
+    
+    #file2 = repo.get_contents("txt.txt")
     #borrar
-    repo.update_file(path=file2.path, message="Update txt", content="", sha=file2.sha) #borrar
+    #repo.update_file(path=file2.path, message="Update txt", content="", sha=file2.sha) #borrar
     
     #except:
     #    r=file1.decoded_content.decode()
