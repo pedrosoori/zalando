@@ -206,6 +206,11 @@ def setup():
     #repo.update_file(path=file1.path, message="Update promocode", content=update, sha=file1.sha)
 
 
+def retrieve_text(file_name):
+    f_read = open(file_name, 'r')
+    texto = f_read.readlines()
+    f_read.close()
+    return texto
 
 
 def randomCode(num):
@@ -231,10 +236,8 @@ def randomCode(num):
         
         
         codigos=[]
-        f =open('txt.txt', 'r')
-        datafile = f.readlines()
-        f.close()  
-        for line in datafile:
+        texto=retrieve_text('txt.txt') 
+        for line in texto:
             if '=09[=E2=86=92]' in line:
                 cupon=line.split()
                 codigos.append(cupon[0])
