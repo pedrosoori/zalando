@@ -187,18 +187,20 @@ def comandoescrito():
     
     @bot.command()
     async def generate(ctx, num: int):
-        if ctx.channel.id == 960659202253140089 or ctx.channel.id ==942152678094540902:
+        if ctx.channel.id == 960659202253140089:
             fecha=datetime.date.today()
             fecha=str(fecha)
             try:
                 f=open("datos.json", "r")
-                hora=json.load(f)
+                hora=json.loads(f)
                 
                 if num >20:
                     await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**'))
+                    await ctx.send("1")
                     
                 if hora[str(ctx.author.id)][1] + num <= 20:
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**'))
+                    await ctx.send("2")
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
                         description=randomCode(num))
@@ -210,17 +212,21 @@ def comandoescrito():
                     discount.datos(num)
                     email_scraper.setup()
                     
-                    f=open("datos.json", "w")
+                    #f=open("datos.json", "w")
                     hora[str(ctx.author.id)][0]=fecha
                     hora[str(ctx.author.id)][1]+=num
-                    json.dump(hora, f)    
+                    #json.dump(str(hora), f)
+                    repo.update_file(path=file1.path, message="Update datos", content=str(hora), sha=file1.sha)
+                      
                     
                 elif hora[str(ctx.author.id)][1] + num > 20:
                     if hora[str(ctx.author.id)][0] == fecha:
                         msg = '**ERROR: Tienes un limite de 20 cupones. Llevas pedidos: **'+str(hora[str(ctx.author.id)][1])
                         await ctx.reply(embed=discord.Embed(title=msg))
+                        await ctx.send("3")
                     else:
                         await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**'))
+                        await ctx.send("4")
                         embed = discord.Embed(
                             title='Aqui tienes tus codigos:',
                             description=randomCode(num))
@@ -232,20 +238,28 @@ def comandoescrito():
                         discount.datos(num)
                         email_scraper.setup()
                         
-                        f=open("datos.json", "w")
+                        #f=open("datos.json", "w")
                         hora[str(ctx.author.id)][0]=fecha
                         hora[str(ctx.author.id)][1]=num
-                        json.dump(hora, f)
+                        #json.dump(str(hora), f)
+                        repo.update_file(path=file1.path, message="Update datos", content=str(hora), sha=file1.sha)
+                        
                 
+                #update=open("datos.json", "r").read()
+                #repo.update_file(path=file1.path, message="Update datos", content=str(hora), sha=file1.sha)
             
             except:
+                await ctx.send("5")
                 r=open("datos.json", "r")
-                hora=json.load(r)
+                hora=json.loads(r)
                 hora[str(ctx.author.id)]=[1,1]
                 hora[str(ctx.author.id)][0]=fecha
                 hora[str(ctx.author.id)][1]=num
-                f=open("datos.json", "w")
-                json.dump(hora, f)
+                #f=open("datos.json", "w")
+                #json.dump(hora, f)
+                #update=open("datos.json", "r").read()
+                repo.update_file(path=file1.path, message="Update datos", content=str(hora), sha=file1.sha)
+                
                 if num <20:   
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**'))
                     embed = discord.Embed(
@@ -262,8 +276,8 @@ def comandoescrito():
                     await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**'))
             
             
-    update=open("datos.json", "r").read()
-    repo.update_file(path=file1.path, message="Update datos", content=update, sha=file1.sha)            
+    #update=open("datos.json", "r").read()
+    #repo.update_file(path=file1.path, message="Update datos", content=update, sha=file1.sha)            
     TOKEN = "ODk0ODU0NzUxOTcwMjkxNzQy.GzzPvR.9UMGwzolFex8flSe99-AXCuRGC8Vp8BAgaG0jU"
     bot.run(TOKEN)
             
