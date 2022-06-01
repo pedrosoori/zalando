@@ -74,7 +74,8 @@ def setup():
     for cupon in codigos:
         if cupon not in lista:
             lista.append(cupon)
-    encode=json.dumps(lista)
+    score["cupones"]=lista
+    encode=json.dumps(score)
     repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
     #except:
     #    r=file1.decoded_content.decode()
