@@ -198,8 +198,8 @@ def comandoescrito():
                 f=file1.decoded_content.decode()
                 hora=json.loads(f)
                 
-                if num >20:
-                    await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**'))
+                #if num >20:
+                #    await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**'))
                     
                 if hora[str(ctx.author.id)][1] + num <= 20:
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**'))
