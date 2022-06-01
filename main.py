@@ -49,9 +49,7 @@ SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
 bot = commands.Bot(command_prefix='!')
 
-g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
-repo = g.get_user().get_repo("zalando")
-file1 = repo.get_contents("datos.json")
+
 
 def randomCode(num):
         i=0
@@ -187,20 +185,24 @@ def comandoescrito():
     
     @bot.command()
     async def generate(ctx, num: int):
-        if ctx.channel.id == 960659202253140089:
+        g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
+        repo = g.get_user().get_repo("zalando")
+        file1 = repo.get_contents("datos.json")
+        
+        if ctx.channel.id == 960659202253140089 or ctx.channel.id == 942152678094540902:
             fecha=datetime.date.today()
             fecha=str(fecha)
             try:
-                f=open("datos.json", "r")
+                #f=open("datos.json", "r")
+                #hora=json.loads(f)
+                f=file1.decoded_content.decode()
                 hora=json.loads(f)
                 
                 if num >20:
                     await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**'))
-                    await ctx.send("1")
                     
                 if hora[str(ctx.author.id)][1] + num <= 20:
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**'))
-                    await ctx.send("2")
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
                         description=randomCode(num))
@@ -216,17 +218,15 @@ def comandoescrito():
                     hora[str(ctx.author.id)][0]=fecha
                     hora[str(ctx.author.id)][1]+=num
                     #json.dump(str(hora), f)
-                    repo.update_file(path=file1.path, message="Update datos", content=str(hora), sha=file1.sha)
+                    
                       
                     
                 elif hora[str(ctx.author.id)][1] + num > 20:
                     if hora[str(ctx.author.id)][0] == fecha:
                         msg = '**ERROR: Tienes un limite de 20 cupones. Llevas pedidos: **'+str(hora[str(ctx.author.id)][1])
                         await ctx.reply(embed=discord.Embed(title=msg))
-                        await ctx.send("3")
                     else:
                         await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**'))
-                        await ctx.send("4")
                         embed = discord.Embed(
                             title='Aqui tienes tus codigos:',
                             description=randomCode(num))
@@ -242,15 +242,16 @@ def comandoescrito():
                         hora[str(ctx.author.id)][0]=fecha
                         hora[str(ctx.author.id)][1]=num
                         #json.dump(str(hora), f)
-                        repo.update_file(path=file1.path, message="Update datos", content=str(hora), sha=file1.sha)
+                        
                         
                 
-                #update=open("datos.json", "r").read()
-                #repo.update_file(path=file1.path, message="Update datos", content=str(hora), sha=file1.sha)
+                encode=json.dumps(hora)
+                repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
+
             
             except:
-                await ctx.send("5")
-                r=open("datos.json", "r")
+                #r=open("datos.json", "r")
+                r=file1.decoded_content.decode()
                 hora=json.loads(r)
                 hora[str(ctx.author.id)]=[1,1]
                 hora[str(ctx.author.id)][0]=fecha
@@ -258,9 +259,10 @@ def comandoescrito():
                 #f=open("datos.json", "w")
                 #json.dump(hora, f)
                 #update=open("datos.json", "r").read()
-                repo.update_file(path=file1.path, message="Update datos", content=str(hora), sha=file1.sha)
+                encode=json.dumps(hora)
+                repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
                 
-                if num <20:   
+                if num <20: 
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**'))
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
