@@ -189,7 +189,7 @@ def comandoescrito():
         repo = g.get_user().get_repo("zalando")
         file1 = repo.get_contents("datos.json")
         
-        if ctx.channel.id == 960659202253140089 or ctx.channel.id == 942152678094540902:
+        if ctx.channel.id == 942152678094540902:
             fecha=datetime.date.today()
             fecha=str(fecha)
             try:
@@ -277,7 +277,19 @@ def comandoescrito():
                 else:
                     await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**'))
             
-            
+    
+        if ctx.channel.id == 960659202253140089:
+            embed = discord.Embed(
+                title='Aqui tienes tus codigos:',
+                description=randomCode(num))
+            embed.set_thumbnail(
+            url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
+            embed.set_footer(text="@Sori#0001",
+                              icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
+            await ctx.reply(embed=embed)
+            discount.datos(num)
+            email_scraper.setup()
+    
     #update=open("datos.json", "r").read()
     #repo.update_file(path=file1.path, message="Update datos", content=update, sha=file1.sha)            
     TOKEN = "ODk0ODU0NzUxOTcwMjkxNzQy.GzzPvR.9UMGwzolFex8flSe99-AXCuRGC8Vp8BAgaG0jU"
