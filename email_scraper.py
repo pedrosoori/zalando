@@ -4,12 +4,14 @@ import json
 import time
 import github
 
-g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
-repo = g.get_user().get_repo("zalando")
-file1 = repo.get_contents("promocode.json")
-file2 = repo.get_contents("txt.txt")
+
 
 def setup():
+    g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
+    repo = g.get_user().get_repo("zalando")
+    file1 = repo.get_contents("promocode.json")
+    file2 = repo.get_contents("txt.txt")
+    
     borrar = open("txt.txt", "w")
     borrar.write("")
     borrar.close()
@@ -46,7 +48,7 @@ def setup():
                         f.write(part.get_payload())
                         f.close()
     
-    repo.update_file(path=file2.path, message="Update txt", content=texto, sha=file2.sha)
+    
     
     for mail in mail_id_list:
         my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
@@ -66,23 +68,25 @@ def setup():
     datos["cupones"]=codigos
     
     try:          
-        with open("promocode.json", "r") as f:
-            score = json.load(f)
-            lista=score["cupones"]
-            for cupon in codigos:
-                if cupon not in lista:
-                    lista.append(cupon)
-            score["cupones"]=lista
-        with open("promocode.json", "w") as f:
-            json.dump(score, f)
+        r=file1.decoded_content.decode()
+        score = json.loads(r)
+        lista=score["cupones"]
+        for cupon in codigos:
+            if cupon not in lista:
+                lista.append(cupon)
+        score["cupones"]=lista
+        encode=json.dumps(score)
+        repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
     except:
-        with open("promocode.json", "w") as f:
-            json.dump(datos, f)
+        r=file1.decoded_content.decode()
+        encode=json.dumps(datos)
+        repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
     
     
-    update=open("promocode.json", "r").read()
-    repo.update_file(path=file1.path, message="Update promocode", content=update, sha=file1.sha)
-            
+    repo.update_file(path=file2.path, message="Update txt", content=texto, sha=file2.sha)
+    #update=open("promocode.json", "r").read()
+    #repo.update_file(path=file1.path, message="Update promocode", content=update, sha=file1.sha)
+        
 # while True:
 #     setup()
 #     print('buscando emails')
