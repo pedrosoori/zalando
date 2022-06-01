@@ -33,24 +33,24 @@
 [Zalando]
 [Zalando]
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dlogo&cd085=3Dad236a2a-a0d9-452e-857c-ec6725302f42&wt_cd=3D&tm_hem=3D7d=
-224ca76d1caaae4d434687851f036c>
+84=3Dlogo&cd085=3Db14fe5ef-e5c3-4887-b554-64ae25c88232&wt_cd=3D&tm_hem=3D08=
+c6c02a2e2fd5b3bdc090483b866e6d>
 <https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
-S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Dad236a2a-a0=
-d9-452e-857c-ec6725302f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036=
-c>
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Db14fe5ef-e5=
+c3-4887-b554-64ae25c88232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6=
+d>
 Env=C3=ADo gratis*
 <https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
-S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Dad236a2a-a0=
-d9-452e-857c-ec6725302f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036=
-c>
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Db14fe5ef-e5=
+c3-4887-b554-64ae25c88232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6=
+d>
 <https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
-X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Dad236a2a-a0d9-452e-857c=
--ec6725302f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c>
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Db14fe5ef-e5c3-4887-b554=
+-64ae25c88232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>
 M=C3=A9todos de pago sencillos
 <https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
-X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Dad236a2a-a0d9-452e-857c=
--ec6725302f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c>
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Db14fe5ef-e5c3-4887-b554=
+-64ae25c88232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>
 =20
 =20
 Te damos la bienvenida
@@ -60,8 +60,8 @@ Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
 bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
 =20
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dshowstopper_img&cd085=3Dad236a2a-a0d9-452e-857c-ec6725302f42&wt_cd=3D&=
-tm_hem=3D7d224ca76d1caaae4d434687851f036c>
+84=3Dshowstopper_img&cd085=3Db14fe5ef-e5c3-4887-b554-64ae25c88232&wt_cd=3D&=
+tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>
 =20
 =20
 =20
@@ -70,24 +70,24 @@ Para que empieces a lo grande
 =20
 Introduce el c=C3=B3digo al finalizar la compra
 =20
-NL3EUJMAKV =09[=E2=86=92]
+NLLYRGQ8MB =09[=E2=86=92]
 =20
 =C2=A1Empezamos!
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dshowstopper_cta&cd085=3Dad236a2a-a0d9-452e-857c-ec6725302f42&wt_cd=3D&=
-tm_hem=3D7d224ca76d1caaae4d434687851f036c> =09
+84=3Dshowstopper_cta&cd085=3Db14fe5ef-e5c3-4887-b554-64ae25c88232&wt_cd=3D&=
+tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d> =09
 [=E2=86=92]
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dshowstopper_cta&cd085=3Dad236a2a-a0d9-452e-857c-ec6725302f42&wt_cd=3D&=
-tm_hem=3D7d224ca76d1caaae4d434687851f036c>
+84=3Dshowstopper_cta&cd085=3Db14fe5ef-e5c3-4887-b554-64ae25c88232&wt_cd=3D&=
+tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>
 =20
 =20
 =20
 Ventajas para ti
 =20
 <https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
-L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3Dad236a2a-a0d9-4=
-52e-857c-ec6725302f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c>
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3Db14fe5ef-e5c3-4=
+887-b554-64ae25c88232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>
 =20
 Novedades cada semana
 =20
@@ -95,17 +95,17 @@ Lo mejor de las tendencias
 =20
 Ver m=C3=A1s
 <https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
-L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Dad236a2a-a0d9-4=
-52e-857c-ec6725302f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c> =
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Db14fe5ef-e5c3-4=
+887-b554-64ae25c88232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d> =
 =09
 [=E2=86=92]
 [=E2=86=92]
 <https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
-L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Dad236a2a-a0d9-4=
-52e-857c-ec6725302f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c>
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Db14fe5ef-e5c3-4=
+887-b554-64ae25c88232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>
 <https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
-601.&cd084=3Dshowstopper_img2&cd085=3Dad236a2a-a0d9-452e-857c-ec6725302f42&=
-wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c>
+601.&cd084=3Dshowstopper_img2&cd085=3Db14fe5ef-e5c3-4887-b554-64ae25c88232&=
+wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>
 =20
 Sigue a tus marcas favoritas
 =20
@@ -114,16 +114,16 @@ desc=C3=BAbrelas antes que el resto.
 =20
 Descubre m=C3=A1s
 <https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
-601.&cd084=3Dshowstopper_cta2&cd085=3Dad236a2a-a0d9-452e-857c-ec6725302f42&=
-wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c> =09
+601.&cd084=3Dshowstopper_cta2&cd085=3Db14fe5ef-e5c3-4887-b554-64ae25c88232&=
+wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d> =09
 [=E2=86=92]
 [=E2=86=92]
 <https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
-601.&cd084=3Dshowstopper_cta2&cd085=3Dad236a2a-a0d9-452e-857c-ec6725302f42&=
-wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c>
+601.&cd084=3Dshowstopper_cta2&cd085=3Db14fe5ef-e5c3-4887-b554-64ae25c88232&=
+wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>
 <https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
-4_220601.&cd084=3Dshowstopper_img3&cd085=3Dad236a2a-a0d9-452e-857c-ec672530=
-2f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c>
+4_220601.&cd084=3Dshowstopper_img3&cd085=3Db14fe5ef-e5c3-4887-b554-64ae25c8=
+8232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>
 =20
 Presentamos Segunda Mano
 =20
@@ -131,16 +131,16 @@ Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
 =20
 Ver m=C3=A1s
 <https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
-4_220601.&cd084=3Dshowstopper_cta3&cd085=3Dad236a2a-a0d9-452e-857c-ec672530=
-2f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c> =09
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3Db14fe5ef-e5c3-4887-b554-64ae25c8=
+8232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d> =09
 [=E2=86=92]
 [=E2=86=92]
 <https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
-4_220601.&cd084=3Dshowstopper_cta3&cd085=3Dad236a2a-a0d9-452e-857c-ec672530=
-2f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c>
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3Db14fe5ef-e5c3-4887-b554-64ae25c8=
+8232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dshowstopper_img4&cd085=3Dad236a2a-a0d9-452e-857c-ec6725302f42&wt_cd=3D=
-&tm_hem=3D7d224ca76d1caaae4d434687851f036c>
+84=3Dshowstopper_img4&cd085=3Db14fe5ef-e5c3-4887-b554-64ae25c88232&wt_cd=3D=
+&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>
 =20
 Moda en cualquier parte
 =20
@@ -175,8 +175,8 @@ Compra f=C3=A1cil y segura
 Aviso legal
 Zalando.es
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dfooter_home&cd085=3Dad236a2a-a0d9-452e-857c-ec6725302f42&wt_cd=3D&tm_h=
-em=3D7d224ca76d1caaae4d434687851f036c>=20
+84=3Dfooter_home&cd085=3Db14fe5ef-e5c3-4887-b554-64ae25c88232&wt_cd=3D&tm_h=
+em=3D08c6c02a2e2fd5b3bdc090483b866e6d>=20
 pertenece a Zalando SE
 Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
 =20
@@ -190,8 +190,8 @@ Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
 bajo=20
 el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
 <https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
-_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3Dad236a2a-a0d9-452e-85=
-7c-ec6725302f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c>
+_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3Db14fe5ef-e5c3-4887-b5=
+54-64ae25c88232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>
 =20
 El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
 existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
@@ -213,19 +213,19 @@ de entrada puede llenarse r=C3=A1pido.
 =C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
 r=20
 ajustando sus preferencias de correos
-<https://www.zalando.es/messages/?cr=3D9fd103b8-7d1d-44cb-80a4-c3d9279f69ac=
+<https://www.zalando.es/messages/?cr=3D339894e8-cdaf-40de-b806-0aba3b2c7cf9=
 &wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_pc&cd085=3D=
-ad236a2a-a0d9-452e-857c-ec6725302f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d43=
-4687851f036c>=20
+b14fe5ef-e5c3-4887-b554-64ae25c88232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc0=
+90483b866e6d>=20
 .
 
 =C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
 =20
 personal. Puedes cancelar tu suscripci=C3=B3n
-<https://www.zalando.es/messages/unsubscribe?cr=3D9fd103b8-7d1d-44cb-80a4-c=
-3d9279f69ac&nsb=3Dad236a2a-a0d9-452e-857c-ec6725302f42&wmc=3DCRM34_TMS_ES.O=
-NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3Dad236a2a-a0d9=
--452e-857c-ec6725302f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c>=
+<https://www.zalando.es/messages/unsubscribe?cr=3D339894e8-cdaf-40de-b806-0=
+aba3b2c7cf9&nsb=3Db14fe5ef-e5c3-4887-b554-64ae25c88232&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3Db14fe5ef-e5c3=
+-4887-b554-64ae25c88232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>=
 =20
 a todos los correos comerciales de Zalando.es.
 
@@ -233,8 +233,8 @@ Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
 estra=20
 p=C3=A1gina de ayuda y contacto
 <https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
-_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3Dad236a2a-a0d9-452e-857c-ec672=
-5302f42&wt_cd=3D&tm_hem=3D7d224ca76d1caaae4d434687851f036c>=20
+_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3Db14fe5ef-e5c3-4887-b554-64ae2=
+5c88232&wt_cd=3D&tm_hem=3D08c6c02a2e2fd5b3bdc090483b866e6d>=20
 si quieres hablar con nosotros.
 =20
 =20
@@ -288,24 +288,24 @@ importe m=C3=ADnimo de compra de 75 =E2=82=AC.
 [Zalando]
 [Zalando]
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dlogo&cd085=3Db05d5e59-1f91-45c3-a464-23f024ed937b&wt_cd=3D&tm_hem=3D22=
-2452c65593a9a20e514bf71d8579e5>
+84=3Dlogo&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a832878607&wt_cd=3D&tm_hem=3Dee=
+01582fe16a4961e07995816ae7d6f7>
 <https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
-S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Db05d5e59-1f=
-91-45c3-a464-23f024ed937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e=
-5>
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3D3a418af0-ea=
+f6-4fbf-94ee-c7a832878607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f=
+7>
 Env=C3=ADo gratis*
 <https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
-S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Db05d5e59-1f=
-91-45c3-a464-23f024ed937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e=
-5>
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3D3a418af0-ea=
+f6-4fbf-94ee-c7a832878607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f=
+7>
 <https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
-X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Db05d5e59-1f91-45c3-a464=
--23f024ed937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5>
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3D3a418af0-eaf6-4fbf-94ee=
+-c7a832878607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>
 M=C3=A9todos de pago sencillos
 <https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
-X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Db05d5e59-1f91-45c3-a464=
--23f024ed937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5>
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3D3a418af0-eaf6-4fbf-94ee=
+-c7a832878607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>
 =20
 =20
 Te damos la bienvenida
@@ -315,8 +315,8 @@ Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
 bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
 =20
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dshowstopper_img&cd085=3Db05d5e59-1f91-45c3-a464-23f024ed937b&wt_cd=3D&=
-tm_hem=3D222452c65593a9a20e514bf71d8579e5>
+84=3Dshowstopper_img&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a832878607&wt_cd=3D&=
+tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>
 =20
 =20
 =20
@@ -325,24 +325,24 @@ Para que empieces a lo grande
 =20
 Introduce el c=C3=B3digo al finalizar la compra
 =20
-NLXYPNPYB3 =09[=E2=86=92]
+NL5TH6DJ84 =09[=E2=86=92]
 =20
 =C2=A1Empezamos!
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dshowstopper_cta&cd085=3Db05d5e59-1f91-45c3-a464-23f024ed937b&wt_cd=3D&=
-tm_hem=3D222452c65593a9a20e514bf71d8579e5> =09
+84=3Dshowstopper_cta&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a832878607&wt_cd=3D&=
+tm_hem=3Dee01582fe16a4961e07995816ae7d6f7> =09
 [=E2=86=92]
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dshowstopper_cta&cd085=3Db05d5e59-1f91-45c3-a464-23f024ed937b&wt_cd=3D&=
-tm_hem=3D222452c65593a9a20e514bf71d8579e5>
+84=3Dshowstopper_cta&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a832878607&wt_cd=3D&=
+tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>
 =20
 =20
 =20
 Ventajas para ti
 =20
 <https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
-L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3Db05d5e59-1f91-4=
-5c3-a464-23f024ed937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5>
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3D3a418af0-eaf6-4=
+fbf-94ee-c7a832878607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>
 =20
 Novedades cada semana
 =20
@@ -350,17 +350,17 @@ Lo mejor de las tendencias
 =20
 Ver m=C3=A1s
 <https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
-L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Db05d5e59-1f91-4=
-5c3-a464-23f024ed937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5> =
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3D3a418af0-eaf6-4=
+fbf-94ee-c7a832878607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7> =
 =09
 [=E2=86=92]
 [=E2=86=92]
 <https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
-L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Db05d5e59-1f91-4=
-5c3-a464-23f024ed937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5>
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3D3a418af0-eaf6-4=
+fbf-94ee-c7a832878607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>
 <https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
-601.&cd084=3Dshowstopper_img2&cd085=3Db05d5e59-1f91-45c3-a464-23f024ed937b&=
-wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5>
+601.&cd084=3Dshowstopper_img2&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a832878607&=
+wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>
 =20
 Sigue a tus marcas favoritas
 =20
@@ -369,16 +369,16 @@ desc=C3=BAbrelas antes que el resto.
 =20
 Descubre m=C3=A1s
 <https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
-601.&cd084=3Dshowstopper_cta2&cd085=3Db05d5e59-1f91-45c3-a464-23f024ed937b&=
-wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5> =09
+601.&cd084=3Dshowstopper_cta2&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a832878607&=
+wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7> =09
 [=E2=86=92]
 [=E2=86=92]
 <https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
-601.&cd084=3Dshowstopper_cta2&cd085=3Db05d5e59-1f91-45c3-a464-23f024ed937b&=
-wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5>
+601.&cd084=3Dshowstopper_cta2&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a832878607&=
+wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>
 <https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
-4_220601.&cd084=3Dshowstopper_img3&cd085=3Db05d5e59-1f91-45c3-a464-23f024ed=
-937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5>
+4_220601.&cd084=3Dshowstopper_img3&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a83287=
+8607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>
 =20
 Presentamos Segunda Mano
 =20
@@ -386,16 +386,16 @@ Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
 =20
 Ver m=C3=A1s
 <https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
-4_220601.&cd084=3Dshowstopper_cta3&cd085=3Db05d5e59-1f91-45c3-a464-23f024ed=
-937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5> =09
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a83287=
+8607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7> =09
 [=E2=86=92]
 [=E2=86=92]
 <https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
-4_220601.&cd084=3Dshowstopper_cta3&cd085=3Db05d5e59-1f91-45c3-a464-23f024ed=
-937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5>
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a83287=
+8607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dshowstopper_img4&cd085=3Db05d5e59-1f91-45c3-a464-23f024ed937b&wt_cd=3D=
-&tm_hem=3D222452c65593a9a20e514bf71d8579e5>
+84=3Dshowstopper_img4&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a832878607&wt_cd=3D=
+&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>
 =20
 Moda en cualquier parte
 =20
@@ -430,8 +430,8 @@ Compra f=C3=A1cil y segura
 Aviso legal
 Zalando.es
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dfooter_home&cd085=3Db05d5e59-1f91-45c3-a464-23f024ed937b&wt_cd=3D&tm_h=
-em=3D222452c65593a9a20e514bf71d8579e5>=20
+84=3Dfooter_home&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a832878607&wt_cd=3D&tm_h=
+em=3Dee01582fe16a4961e07995816ae7d6f7>=20
 pertenece a Zalando SE
 Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
 =20
@@ -445,8 +445,8 @@ Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
 bajo=20
 el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
 <https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
-_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3Db05d5e59-1f91-45c3-a4=
-64-23f024ed937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5>
+_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3D3a418af0-eaf6-4fbf-94=
+ee-c7a832878607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>
 =20
 El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
 existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
@@ -468,19 +468,19 @@ de entrada puede llenarse r=C3=A1pido.
 =C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
 r=20
 ajustando sus preferencias de correos
-<https://www.zalando.es/messages/?cr=3Dacbbaaff-77fd-4480-93f5-48fb220ac84f=
+<https://www.zalando.es/messages/?cr=3D09043161-9cb7-4b76-bdb9-c6ecaaf71050=
 &wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_pc&cd085=3D=
-b05d5e59-1f91-45c3-a464-23f024ed937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e51=
-4bf71d8579e5>=20
+3a418af0-eaf6-4fbf-94ee-c7a832878607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e079=
+95816ae7d6f7>=20
 .
 
 =C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
 =20
 personal. Puedes cancelar tu suscripci=C3=B3n
-<https://www.zalando.es/messages/unsubscribe?cr=3Dacbbaaff-77fd-4480-93f5-4=
-8fb220ac84f&nsb=3Db05d5e59-1f91-45c3-a464-23f024ed937b&wmc=3DCRM34_TMS_ES.O=
-NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3Db05d5e59-1f91=
--45c3-a464-23f024ed937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5>=
+<https://www.zalando.es/messages/unsubscribe?cr=3D09043161-9cb7-4b76-bdb9-c=
+6ecaaf71050&nsb=3D3a418af0-eaf6-4fbf-94ee-c7a832878607&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3D3a418af0-eaf6=
+-4fbf-94ee-c7a832878607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>=
 =20
 a todos los correos comerciales de Zalando.es.
 
@@ -488,8 +488,8 @@ Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
 estra=20
 p=C3=A1gina de ayuda y contacto
 <https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
-_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3Db05d5e59-1f91-45c3-a464-23f02=
-4ed937b&wt_cd=3D&tm_hem=3D222452c65593a9a20e514bf71d8579e5>=20
+_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3D3a418af0-eaf6-4fbf-94ee-c7a83=
+2878607&wt_cd=3D&tm_hem=3Dee01582fe16a4961e07995816ae7d6f7>=20
 si quieres hablar con nosotros.
 =20
 =20
@@ -543,24 +543,24 @@ importe m=C3=ADnimo de compra de 75 =E2=82=AC.
 [Zalando]
 [Zalando]
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dlogo&cd085=3Dc188396b-0759-4c60-9a10-3da79c2c4268&wt_cd=3D&tm_hem=3Dbf=
-7086da2c64a3cdd65cce2e03c9ea91>
+84=3Dlogo&cd085=3D78a75dcb-acae-41c6-9c01-a10da1770c3b&wt_cd=3D&tm_hem=3Dec=
+9c82980bda9ca0920722b8df0f125a>
 <https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
-S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Dc188396b-07=
-59-4c60-9a10-3da79c2c4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea9=
-1>
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3D78a75dcb-ac=
+ae-41c6-9c01-a10da1770c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125=
+a>
 Env=C3=ADo gratis*
 <https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
-S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Dc188396b-07=
-59-4c60-9a10-3da79c2c4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea9=
-1>
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3D78a75dcb-ac=
+ae-41c6-9c01-a10da1770c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125=
+a>
 <https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
-X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Dc188396b-0759-4c60-9a10=
--3da79c2c4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3D78a75dcb-acae-41c6-9c01=
+-a10da1770c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>
 M=C3=A9todos de pago sencillos
 <https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
-X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Dc188396b-0759-4c60-9a10=
--3da79c2c4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3D78a75dcb-acae-41c6-9c01=
+-a10da1770c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>
 =20
 =20
 Te damos la bienvenida
@@ -570,8 +570,8 @@ Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
 bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
 =20
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dshowstopper_img&cd085=3Dc188396b-0759-4c60-9a10-3da79c2c4268&wt_cd=3D&=
-tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>
+84=3Dshowstopper_img&cd085=3D78a75dcb-acae-41c6-9c01-a10da1770c3b&wt_cd=3D&=
+tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>
 =20
 =20
 =20
@@ -580,24 +580,24 @@ Para que empieces a lo grande
 =20
 Introduce el c=C3=B3digo al finalizar la compra
 =20
-NLAMJ78XSU =09[=E2=86=92]
+NLX9368XK8 =09[=E2=86=92]
 =20
 =C2=A1Empezamos!
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dshowstopper_cta&cd085=3Dc188396b-0759-4c60-9a10-3da79c2c4268&wt_cd=3D&=
-tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91> =09
+84=3Dshowstopper_cta&cd085=3D78a75dcb-acae-41c6-9c01-a10da1770c3b&wt_cd=3D&=
+tm_hem=3Dec9c82980bda9ca0920722b8df0f125a> =09
 [=E2=86=92]
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dshowstopper_cta&cd085=3Dc188396b-0759-4c60-9a10-3da79c2c4268&wt_cd=3D&=
-tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>
+84=3Dshowstopper_cta&cd085=3D78a75dcb-acae-41c6-9c01-a10da1770c3b&wt_cd=3D&=
+tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>
 =20
 =20
 =20
 Ventajas para ti
 =20
 <https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
-L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3Dc188396b-0759-4=
-c60-9a10-3da79c2c4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3D78a75dcb-acae-4=
+1c6-9c01-a10da1770c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>
 =20
 Novedades cada semana
 =20
@@ -605,17 +605,17 @@ Lo mejor de las tendencias
 =20
 Ver m=C3=A1s
 <https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
-L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Dc188396b-0759-4=
-c60-9a10-3da79c2c4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91> =
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3D78a75dcb-acae-4=
+1c6-9c01-a10da1770c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a> =
 =09
 [=E2=86=92]
 [=E2=86=92]
 <https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
-L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Dc188396b-0759-4=
-c60-9a10-3da79c2c4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3D78a75dcb-acae-4=
+1c6-9c01-a10da1770c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>
 <https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
-601.&cd084=3Dshowstopper_img2&cd085=3Dc188396b-0759-4c60-9a10-3da79c2c4268&=
-wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>
+601.&cd084=3Dshowstopper_img2&cd085=3D78a75dcb-acae-41c6-9c01-a10da1770c3b&=
+wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>
 =20
 Sigue a tus marcas favoritas
 =20
@@ -624,16 +624,16 @@ desc=C3=BAbrelas antes que el resto.
 =20
 Descubre m=C3=A1s
 <https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
-601.&cd084=3Dshowstopper_cta2&cd085=3Dc188396b-0759-4c60-9a10-3da79c2c4268&=
-wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91> =09
+601.&cd084=3Dshowstopper_cta2&cd085=3D78a75dcb-acae-41c6-9c01-a10da1770c3b&=
+wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a> =09
 [=E2=86=92]
 [=E2=86=92]
 <https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
-601.&cd084=3Dshowstopper_cta2&cd085=3Dc188396b-0759-4c60-9a10-3da79c2c4268&=
-wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>
+601.&cd084=3Dshowstopper_cta2&cd085=3D78a75dcb-acae-41c6-9c01-a10da1770c3b&=
+wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>
 <https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
-4_220601.&cd084=3Dshowstopper_img3&cd085=3Dc188396b-0759-4c60-9a10-3da79c2c=
-4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>
+4_220601.&cd084=3Dshowstopper_img3&cd085=3D78a75dcb-acae-41c6-9c01-a10da177=
+0c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>
 =20
 Presentamos Segunda Mano
 =20
@@ -641,16 +641,16 @@ Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
 =20
 Ver m=C3=A1s
 <https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
-4_220601.&cd084=3Dshowstopper_cta3&cd085=3Dc188396b-0759-4c60-9a10-3da79c2c=
-4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91> =09
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3D78a75dcb-acae-41c6-9c01-a10da177=
+0c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a> =09
 [=E2=86=92]
 [=E2=86=92]
 <https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
-4_220601.&cd084=3Dshowstopper_cta3&cd085=3Dc188396b-0759-4c60-9a10-3da79c2c=
-4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3D78a75dcb-acae-41c6-9c01-a10da177=
+0c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dshowstopper_img4&cd085=3Dc188396b-0759-4c60-9a10-3da79c2c4268&wt_cd=3D=
-&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>
+84=3Dshowstopper_img4&cd085=3D78a75dcb-acae-41c6-9c01-a10da1770c3b&wt_cd=3D=
+&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>
 =20
 Moda en cualquier parte
 =20
@@ -685,8 +685,8 @@ Compra f=C3=A1cil y segura
 Aviso legal
 Zalando.es
 <https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
-84=3Dfooter_home&cd085=3Dc188396b-0759-4c60-9a10-3da79c2c4268&wt_cd=3D&tm_h=
-em=3Dbf7086da2c64a3cdd65cce2e03c9ea91>=20
+84=3Dfooter_home&cd085=3D78a75dcb-acae-41c6-9c01-a10da1770c3b&wt_cd=3D&tm_h=
+em=3Dec9c82980bda9ca0920722b8df0f125a>=20
 pertenece a Zalando SE
 Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
 =20
@@ -700,8 +700,8 @@ Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
 bajo=20
 el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
 <https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
-_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3Dc188396b-0759-4c60-9a=
-10-3da79c2c4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>
+_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3D78a75dcb-acae-41c6-9c=
+01-a10da1770c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>
 =20
 El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
 existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
@@ -723,19 +723,19 @@ de entrada puede llenarse r=C3=A1pido.
 =C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
 r=20
 ajustando sus preferencias de correos
-<https://www.zalando.es/messages/?cr=3D078fc16e-a10f-4a86-b313-2e91f2520732=
+<https://www.zalando.es/messages/?cr=3D56480538-1060-4c0e-99fe-75571d4a9149=
 &wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_pc&cd085=3D=
-c188396b-0759-4c60-9a10-3da79c2c4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65c=
-ce2e03c9ea91>=20
+78a75dcb-acae-41c6-9c01-a10da1770c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca09207=
+22b8df0f125a>=20
 .
 
 =C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
 =20
 personal. Puedes cancelar tu suscripci=C3=B3n
-<https://www.zalando.es/messages/unsubscribe?cr=3D078fc16e-a10f-4a86-b313-2=
-e91f2520732&nsb=3Dc188396b-0759-4c60-9a10-3da79c2c4268&wmc=3DCRM34_TMS_ES.O=
-NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3Dc188396b-0759=
--4c60-9a10-3da79c2c4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>=
+<https://www.zalando.es/messages/unsubscribe?cr=3D56480538-1060-4c0e-99fe-7=
+5571d4a9149&nsb=3D78a75dcb-acae-41c6-9c01-a10da1770c3b&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3D78a75dcb-acae=
+-41c6-9c01-a10da1770c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>=
 =20
 a todos los correos comerciales de Zalando.es.
 
@@ -743,8 +743,2303 @@ Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
 estra=20
 p=C3=A1gina de ayuda y contacto
 <https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
-_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3Dc188396b-0759-4c60-9a10-3da79=
-c2c4268&wt_cd=3D&tm_hem=3Dbf7086da2c64a3cdd65cce2e03c9ea91>=20
+_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3D78a75dcb-acae-41c6-9c01-a10da=
+1770c3b&wt_cd=3D&tm_hem=3Dec9c82980bda9ca0920722b8df0f125a>=20
+si quieres hablar con nosotros.
+=20
+=20
+*Env=C3=ADo gratuito en gran parte de nuestra selecci=C3=B3n en pedidos a p=
+artir de=20
+24,90=C2=A0=E2=82=AC. Para compras inferiores a este importe, los gastos de=
+ env=C3=ADo son de=20
+3,50=C2=A0=E2=82=AC. =20
+=20
+=20
+** El c=C3=B3digo es v=C3=A1lido por 30 d=C3=ADas desde la recepci=C3=B3n d=
+e este email.=20
+Algunos art=C3=ADculos podr=C3=ADan estar excluidos de la oferta. Tampoco e=
+s v=C3=A1lido=20
+para adquirir tarjetas regalo. El c=C3=B3digo es de un solo uso y v=C3=A1li=
+do por un=20
+importe m=C3=ADnimo de compra de 75 =E2=82=AC.
+=20
+=20
+=C2=A1Tu c=C3=B3digo descuento est=C3=A1 aqu=C3=AD! =E2=9E=A1=EF=B8=8F=E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C=20
+=20
+[Zalando]
+[Zalando]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dlogo&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3effe&wt_cd=3D&tm_hem=3D2d=
+86ae774c904611b62d0d8cbf7d10ff>
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Dd6bd5f92-87=
+ab-4258-b02d-ca7dfee3effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10f=
+f>
+Env=C3=ADo gratis*
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Dd6bd5f92-87=
+ab-4258-b02d-ca7dfee3effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10f=
+f>
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Dd6bd5f92-87ab-4258-b02d=
+-ca7dfee3effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>
+M=C3=A9todos de pago sencillos
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Dd6bd5f92-87ab-4258-b02d=
+-ca7dfee3effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>
+=20
+=20
+Te damos la bienvenida
+=20
+Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
+=20
+bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
+=20
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3effe&wt_cd=3D&=
+tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>
+=20
+=20
+=20
+-10%** para ti
+Para que empieces a lo grande
+=20
+Introduce el c=C3=B3digo al finalizar la compra
+=20
+NLZYUC3FGP =09[=E2=86=92]
+=20
+=C2=A1Empezamos!
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3effe&wt_cd=3D&=
+tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff> =09
+[=E2=86=92]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3effe&wt_cd=3D&=
+tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>
+=20
+=20
+=20
+Ventajas para ti
+=20
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3Dd6bd5f92-87ab-4=
+258-b02d-ca7dfee3effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>
+=20
+Novedades cada semana
+=20
+Lo mejor de las tendencias
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Dd6bd5f92-87ab-4=
+258-b02d-ca7dfee3effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff> =
+=09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Dd6bd5f92-87ab-4=
+258-b02d-ca7dfee3effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_img2&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3effe&=
+wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>
+=20
+Sigue a tus marcas favoritas
+=20
+De grandes marcas a nuevos nombres, sigue tus marcas favoritas y=20
+desc=C3=BAbrelas antes que el resto.
+=20
+Descubre m=C3=A1s
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3effe&=
+wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3effe&=
+wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_img3&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3=
+effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>
+=20
+Presentamos Segunda Mano
+=20
+Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3=
+effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3=
+effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img4&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3effe&wt_cd=3D=
+&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>
+=20
+Moda en cualquier parte
+=20
+Explora Zalando f=C3=A1cilmente con nuestra app para iOS
+<https://apps.apple.com/es/app/zalando-shopping-und-fashion/id585629514> o=
+=20
+Android
+<https://play.google.com/store/apps/details?id=3Dde.zalando.mobile&hl=3Des-=
+ES>=20
+.
+=20
+=20
+=20
+Una =C3=BAltima cosa...
+=C2=BFQuieres seguirnos?
+=20
+=20
+[Instagram icon] <https://www.instagram.com/zalando/> =09[Facebook icon]
+<https://www.facebook.com/zalando.es> =09[Pinterest icon]
+<https://www.pinterest.com/zalandoes/> =09[Tiktok icon]
+<https://www.tiktok.com/@zalando> =09[Youtube icon]
+<https://www.youtube.com/zalando/>
+=20
+=20
+S=C3=ADguenos en
+  <https://www.instagram.com/zalando/>
+<https://www.facebook.com/zalando.es> <https://www.tiktok.com/@zalando>
+Compra f=C3=A1cil y segura
+  <https://play.google.com/store/apps/details?id=3Dde.zalando.mobile>
+<https://apps.apple.com/de/app/zalando-fashion-and-shopping/id585629514>
+=20
+Aviso legal
+Zalando.es
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dfooter_home&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3effe&wt_cd=3D&tm_h=
+em=3D2d86ae774c904611b62d0d8cbf7d10ff>=20
+pertenece a Zalando SE
+Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
+=20
+Representante legal: Robert Gentz & David Schneider (ambos copresidentes de=
+=20
+la Junta Directiva), James Freeman II, David Schr=C3=B6der, Dr. Astrid Arnd=
+t,=20
+Dr. Sandra Dembeck | Presidenta del Consejo de Administraci=C3=B3n: Cristin=
+a=20
+Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
+bajo=20
+el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
+<https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3Dd6bd5f92-87ab-4258-b0=
+2d-ca7dfee3effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>
+=20
+El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
+existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
+e=C2=BB se=20
+refiere al primer precio de venta del art=C3=ADculo o al precio de venta=20
+recomendado. Zalando SE ha cedido sus derechos de cr=C3=A9dito respecto a l=
+os=20
+importes cobrar por la compra de los productos solicitados a Zalando=20
+Payments GmbH.
+
+Responsable de los contenidos de Zalando SE: Robert Gentz
+
+------------------------------------------------------------------------
+
+Queremos que solo recibas correos que te interesen, sabemos que tu bandeja=
+=20
+de entrada puede llenarse r=C3=A1pido.
+
+=C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
+r=20
+ajustando sus preferencias de correos
+<https://www.zalando.es/messages/?cr=3D01e17b33-e247-49e2-96b3-fa4bdf5a7aba=
+&wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_pc&cd085=3D=
+d6bd5f92-87ab-4258-b02d-ca7dfee3effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d=
+0d8cbf7d10ff>=20
+.
+
+=C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
+=20
+personal. Puedes cancelar tu suscripci=C3=B3n
+<https://www.zalando.es/messages/unsubscribe?cr=3D01e17b33-e247-49e2-96b3-f=
+a4bdf5a7aba&nsb=3Dd6bd5f92-87ab-4258-b02d-ca7dfee3effe&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3Dd6bd5f92-87ab=
+-4258-b02d-ca7dfee3effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>=
+=20
+a todos los correos comerciales de Zalando.es.
+
+Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
+estra=20
+p=C3=A1gina de ayuda y contacto
+<https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3Dd6bd5f92-87ab-4258-b02d-ca7df=
+ee3effe&wt_cd=3D&tm_hem=3D2d86ae774c904611b62d0d8cbf7d10ff>=20
+si quieres hablar con nosotros.
+=20
+=20
+*Env=C3=ADo gratuito en gran parte de nuestra selecci=C3=B3n en pedidos a p=
+artir de=20
+24,90=C2=A0=E2=82=AC. Para compras inferiores a este importe, los gastos de=
+ env=C3=ADo son de=20
+3,50=C2=A0=E2=82=AC. =20
+=20
+=20
+** El c=C3=B3digo es v=C3=A1lido por 30 d=C3=ADas desde la recepci=C3=B3n d=
+e este email.=20
+Algunos art=C3=ADculos podr=C3=ADan estar excluidos de la oferta. Tampoco e=
+s v=C3=A1lido=20
+para adquirir tarjetas regalo. El c=C3=B3digo es de un solo uso y v=C3=A1li=
+do por un=20
+importe m=C3=ADnimo de compra de 75 =E2=82=AC.
+=20
+=20
+=C2=A1Tu c=C3=B3digo descuento est=C3=A1 aqu=C3=AD! =E2=9E=A1=EF=B8=8F=E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C=20
+=20
+[Zalando]
+[Zalando]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dlogo&cd085=3Db891d640-ebde-4629-ad4c-849c74fc23ca&wt_cd=3D&tm_hem=3Dfd=
+f25ae2b845fcf3b6669b07c63d8e00>
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Db891d640-eb=
+de-4629-ad4c-849c74fc23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e0=
+0>
+Env=C3=ADo gratis*
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Db891d640-eb=
+de-4629-ad4c-849c74fc23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e0=
+0>
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Db891d640-ebde-4629-ad4c=
+-849c74fc23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>
+M=C3=A9todos de pago sencillos
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Db891d640-ebde-4629-ad4c=
+-849c74fc23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>
+=20
+=20
+Te damos la bienvenida
+=20
+Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
+=20
+bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
+=20
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img&cd085=3Db891d640-ebde-4629-ad4c-849c74fc23ca&wt_cd=3D&=
+tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>
+=20
+=20
+=20
+-10%** para ti
+Para que empieces a lo grande
+=20
+Introduce el c=C3=B3digo al finalizar la compra
+=20
+NLNQ4NDYP5 =09[=E2=86=92]
+=20
+=C2=A1Empezamos!
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3Db891d640-ebde-4629-ad4c-849c74fc23ca&wt_cd=3D&=
+tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00> =09
+[=E2=86=92]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3Db891d640-ebde-4629-ad4c-849c74fc23ca&wt_cd=3D&=
+tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>
+=20
+=20
+=20
+Ventajas para ti
+=20
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3Db891d640-ebde-4=
+629-ad4c-849c74fc23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>
+=20
+Novedades cada semana
+=20
+Lo mejor de las tendencias
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Db891d640-ebde-4=
+629-ad4c-849c74fc23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00> =
+=09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Db891d640-ebde-4=
+629-ad4c-849c74fc23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_img2&cd085=3Db891d640-ebde-4629-ad4c-849c74fc23ca&=
+wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>
+=20
+Sigue a tus marcas favoritas
+=20
+De grandes marcas a nuevos nombres, sigue tus marcas favoritas y=20
+desc=C3=BAbrelas antes que el resto.
+=20
+Descubre m=C3=A1s
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3Db891d640-ebde-4629-ad4c-849c74fc23ca&=
+wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3Db891d640-ebde-4629-ad4c-849c74fc23ca&=
+wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_img3&cd085=3Db891d640-ebde-4629-ad4c-849c74fc=
+23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>
+=20
+Presentamos Segunda Mano
+=20
+Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3Db891d640-ebde-4629-ad4c-849c74fc=
+23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3Db891d640-ebde-4629-ad4c-849c74fc=
+23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img4&cd085=3Db891d640-ebde-4629-ad4c-849c74fc23ca&wt_cd=3D=
+&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>
+=20
+Moda en cualquier parte
+=20
+Explora Zalando f=C3=A1cilmente con nuestra app para iOS
+<https://apps.apple.com/es/app/zalando-shopping-und-fashion/id585629514> o=
+=20
+Android
+<https://play.google.com/store/apps/details?id=3Dde.zalando.mobile&hl=3Des-=
+ES>=20
+.
+=20
+=20
+=20
+Una =C3=BAltima cosa...
+=C2=BFQuieres seguirnos?
+=20
+=20
+[Instagram icon] <https://www.instagram.com/zalando/> =09[Facebook icon]
+<https://www.facebook.com/zalando.es> =09[Pinterest icon]
+<https://www.pinterest.com/zalandoes/> =09[Tiktok icon]
+<https://www.tiktok.com/@zalando> =09[Youtube icon]
+<https://www.youtube.com/zalando/>
+=20
+=20
+S=C3=ADguenos en
+  <https://www.instagram.com/zalando/>
+<https://www.facebook.com/zalando.es> <https://www.tiktok.com/@zalando>
+Compra f=C3=A1cil y segura
+  <https://play.google.com/store/apps/details?id=3Dde.zalando.mobile>
+<https://apps.apple.com/de/app/zalando-fashion-and-shopping/id585629514>
+=20
+Aviso legal
+Zalando.es
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dfooter_home&cd085=3Db891d640-ebde-4629-ad4c-849c74fc23ca&wt_cd=3D&tm_h=
+em=3Dfdf25ae2b845fcf3b6669b07c63d8e00>=20
+pertenece a Zalando SE
+Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
+=20
+Representante legal: Robert Gentz & David Schneider (ambos copresidentes de=
+=20
+la Junta Directiva), James Freeman II, David Schr=C3=B6der, Dr. Astrid Arnd=
+t,=20
+Dr. Sandra Dembeck | Presidenta del Consejo de Administraci=C3=B3n: Cristin=
+a=20
+Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
+bajo=20
+el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
+<https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3Db891d640-ebde-4629-ad=
+4c-849c74fc23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>
+=20
+El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
+existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
+e=C2=BB se=20
+refiere al primer precio de venta del art=C3=ADculo o al precio de venta=20
+recomendado. Zalando SE ha cedido sus derechos de cr=C3=A9dito respecto a l=
+os=20
+importes cobrar por la compra de los productos solicitados a Zalando=20
+Payments GmbH.
+
+Responsable de los contenidos de Zalando SE: Robert Gentz
+
+------------------------------------------------------------------------
+
+Queremos que solo recibas correos que te interesen, sabemos que tu bandeja=
+=20
+de entrada puede llenarse r=C3=A1pido.
+
+=C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
+r=20
+ajustando sus preferencias de correos
+<https://www.zalando.es/messages/?cr=3Dda4a1c56-77c0-4c49-a5c8-567dfd9cd269=
+&wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_pc&cd085=3D=
+b891d640-ebde-4629-ad4c-849c74fc23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b666=
+9b07c63d8e00>=20
+.
+
+=C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
+=20
+personal. Puedes cancelar tu suscripci=C3=B3n
+<https://www.zalando.es/messages/unsubscribe?cr=3Dda4a1c56-77c0-4c49-a5c8-5=
+67dfd9cd269&nsb=3Db891d640-ebde-4629-ad4c-849c74fc23ca&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3Db891d640-ebde=
+-4629-ad4c-849c74fc23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>=
+=20
+a todos los correos comerciales de Zalando.es.
+
+Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
+estra=20
+p=C3=A1gina de ayuda y contacto
+<https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3Db891d640-ebde-4629-ad4c-849c7=
+4fc23ca&wt_cd=3D&tm_hem=3Dfdf25ae2b845fcf3b6669b07c63d8e00>=20
+si quieres hablar con nosotros.
+=20
+=20
+*Env=C3=ADo gratuito en gran parte de nuestra selecci=C3=B3n en pedidos a p=
+artir de=20
+24,90=C2=A0=E2=82=AC. Para compras inferiores a este importe, los gastos de=
+ env=C3=ADo son de=20
+3,50=C2=A0=E2=82=AC. =20
+=20
+=20
+** El c=C3=B3digo es v=C3=A1lido por 30 d=C3=ADas desde la recepci=C3=B3n d=
+e este email.=20
+Algunos art=C3=ADculos podr=C3=ADan estar excluidos de la oferta. Tampoco e=
+s v=C3=A1lido=20
+para adquirir tarjetas regalo. El c=C3=B3digo es de un solo uso y v=C3=A1li=
+do por un=20
+importe m=C3=ADnimo de compra de 75 =E2=82=AC.
+=20
+=20
+=C2=A1Tu c=C3=B3digo descuento est=C3=A1 aqu=C3=AD! =E2=9E=A1=EF=B8=8F=E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C=20
+=20
+[Zalando]
+[Zalando]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dlogo&cd085=3D227a361c-8c85-4a70-bad1-1be166a4c8fa&wt_cd=3D&tm_hem=3D03=
+43e2bf801f54f7d3ce551e05322c7e>
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3D227a361c-8c=
+85-4a70-bad1-1be166a4c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7=
+e>
+Env=C3=ADo gratis*
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3D227a361c-8c=
+85-4a70-bad1-1be166a4c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7=
+e>
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3D227a361c-8c85-4a70-bad1=
+-1be166a4c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>
+M=C3=A9todos de pago sencillos
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3D227a361c-8c85-4a70-bad1=
+-1be166a4c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>
+=20
+=20
+Te damos la bienvenida
+=20
+Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
+=20
+bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
+=20
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img&cd085=3D227a361c-8c85-4a70-bad1-1be166a4c8fa&wt_cd=3D&=
+tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>
+=20
+=20
+=20
+-10%** para ti
+Para que empieces a lo grande
+=20
+Introduce el c=C3=B3digo al finalizar la compra
+=20
+NLA6VAGXMQ =09[=E2=86=92]
+=20
+=C2=A1Empezamos!
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3D227a361c-8c85-4a70-bad1-1be166a4c8fa&wt_cd=3D&=
+tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e> =09
+[=E2=86=92]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3D227a361c-8c85-4a70-bad1-1be166a4c8fa&wt_cd=3D&=
+tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>
+=20
+=20
+=20
+Ventajas para ti
+=20
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3D227a361c-8c85-4=
+a70-bad1-1be166a4c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>
+=20
+Novedades cada semana
+=20
+Lo mejor de las tendencias
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3D227a361c-8c85-4=
+a70-bad1-1be166a4c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e> =
+=09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3D227a361c-8c85-4=
+a70-bad1-1be166a4c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_img2&cd085=3D227a361c-8c85-4a70-bad1-1be166a4c8fa&=
+wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>
+=20
+Sigue a tus marcas favoritas
+=20
+De grandes marcas a nuevos nombres, sigue tus marcas favoritas y=20
+desc=C3=BAbrelas antes que el resto.
+=20
+Descubre m=C3=A1s
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3D227a361c-8c85-4a70-bad1-1be166a4c8fa&=
+wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3D227a361c-8c85-4a70-bad1-1be166a4c8fa&=
+wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_img3&cd085=3D227a361c-8c85-4a70-bad1-1be166a4=
+c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>
+=20
+Presentamos Segunda Mano
+=20
+Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3D227a361c-8c85-4a70-bad1-1be166a4=
+c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3D227a361c-8c85-4a70-bad1-1be166a4=
+c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img4&cd085=3D227a361c-8c85-4a70-bad1-1be166a4c8fa&wt_cd=3D=
+&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>
+=20
+Moda en cualquier parte
+=20
+Explora Zalando f=C3=A1cilmente con nuestra app para iOS
+<https://apps.apple.com/es/app/zalando-shopping-und-fashion/id585629514> o=
+=20
+Android
+<https://play.google.com/store/apps/details?id=3Dde.zalando.mobile&hl=3Des-=
+ES>=20
+.
+=20
+=20
+=20
+Una =C3=BAltima cosa...
+=C2=BFQuieres seguirnos?
+=20
+=20
+[Instagram icon] <https://www.instagram.com/zalando/> =09[Facebook icon]
+<https://www.facebook.com/zalando.es> =09[Pinterest icon]
+<https://www.pinterest.com/zalandoes/> =09[Tiktok icon]
+<https://www.tiktok.com/@zalando> =09[Youtube icon]
+<https://www.youtube.com/zalando/>
+=20
+=20
+S=C3=ADguenos en
+  <https://www.instagram.com/zalando/>
+<https://www.facebook.com/zalando.es> <https://www.tiktok.com/@zalando>
+Compra f=C3=A1cil y segura
+  <https://play.google.com/store/apps/details?id=3Dde.zalando.mobile>
+<https://apps.apple.com/de/app/zalando-fashion-and-shopping/id585629514>
+=20
+Aviso legal
+Zalando.es
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dfooter_home&cd085=3D227a361c-8c85-4a70-bad1-1be166a4c8fa&wt_cd=3D&tm_h=
+em=3D0343e2bf801f54f7d3ce551e05322c7e>=20
+pertenece a Zalando SE
+Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
+=20
+Representante legal: Robert Gentz & David Schneider (ambos copresidentes de=
+=20
+la Junta Directiva), James Freeman II, David Schr=C3=B6der, Dr. Astrid Arnd=
+t,=20
+Dr. Sandra Dembeck | Presidenta del Consejo de Administraci=C3=B3n: Cristin=
+a=20
+Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
+bajo=20
+el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
+<https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3D227a361c-8c85-4a70-ba=
+d1-1be166a4c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>
+=20
+El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
+existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
+e=C2=BB se=20
+refiere al primer precio de venta del art=C3=ADculo o al precio de venta=20
+recomendado. Zalando SE ha cedido sus derechos de cr=C3=A9dito respecto a l=
+os=20
+importes cobrar por la compra de los productos solicitados a Zalando=20
+Payments GmbH.
+
+Responsable de los contenidos de Zalando SE: Robert Gentz
+
+------------------------------------------------------------------------
+
+Queremos que solo recibas correos que te interesen, sabemos que tu bandeja=
+=20
+de entrada puede llenarse r=C3=A1pido.
+
+=C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
+r=20
+ajustando sus preferencias de correos
+<https://www.zalando.es/messages/?cr=3Dc6cfb4b2-eb29-4c60-99d4-c9dccbebfcc7=
+&wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_pc&cd085=3D=
+227a361c-8c85-4a70-bad1-1be166a4c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce=
+551e05322c7e>=20
+.
+
+=C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
+=20
+personal. Puedes cancelar tu suscripci=C3=B3n
+<https://www.zalando.es/messages/unsubscribe?cr=3Dc6cfb4b2-eb29-4c60-99d4-c=
+9dccbebfcc7&nsb=3D227a361c-8c85-4a70-bad1-1be166a4c8fa&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3D227a361c-8c85=
+-4a70-bad1-1be166a4c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>=
+=20
+a todos los correos comerciales de Zalando.es.
+
+Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
+estra=20
+p=C3=A1gina de ayuda y contacto
+<https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3D227a361c-8c85-4a70-bad1-1be16=
+6a4c8fa&wt_cd=3D&tm_hem=3D0343e2bf801f54f7d3ce551e05322c7e>=20
+si quieres hablar con nosotros.
+=20
+=20
+*Env=C3=ADo gratuito en gran parte de nuestra selecci=C3=B3n en pedidos a p=
+artir de=20
+24,90=C2=A0=E2=82=AC. Para compras inferiores a este importe, los gastos de=
+ env=C3=ADo son de=20
+3,50=C2=A0=E2=82=AC. =20
+=20
+=20
+** El c=C3=B3digo es v=C3=A1lido por 30 d=C3=ADas desde la recepci=C3=B3n d=
+e este email.=20
+Algunos art=C3=ADculos podr=C3=ADan estar excluidos de la oferta. Tampoco e=
+s v=C3=A1lido=20
+para adquirir tarjetas regalo. El c=C3=B3digo es de un solo uso y v=C3=A1li=
+do por un=20
+importe m=C3=ADnimo de compra de 75 =E2=82=AC.
+=20
+=20
+=C2=A1Tu c=C3=B3digo descuento est=C3=A1 aqu=C3=AD! =E2=9E=A1=EF=B8=8F=E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C=20
+=20
+[Zalando]
+[Zalando]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dlogo&cd085=3Dca348f6a-2574-4d3a-a826-994b46debe40&wt_cd=3D&tm_hem=3D4f=
+9910635fe4f540376dc52cd26bf403>
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Dca348f6a-25=
+74-4d3a-a826-994b46debe40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf40=
+3>
+Env=C3=ADo gratis*
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Dca348f6a-25=
+74-4d3a-a826-994b46debe40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf40=
+3>
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Dca348f6a-2574-4d3a-a826=
+-994b46debe40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403>
+M=C3=A9todos de pago sencillos
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Dca348f6a-2574-4d3a-a826=
+-994b46debe40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403>
+=20
+=20
+Te damos la bienvenida
+=20
+Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
+=20
+bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
+=20
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img&cd085=3Dca348f6a-2574-4d3a-a826-994b46debe40&wt_cd=3D&=
+tm_hem=3D4f9910635fe4f540376dc52cd26bf403>
+=20
+=20
+=20
+-10%** para ti
+Para que empieces a lo grande
+=20
+Introduce el c=C3=B3digo al finalizar la compra
+=20
+NLUFU5CKBC =09[=E2=86=92]
+=20
+=C2=A1Empezamos!
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3Dca348f6a-2574-4d3a-a826-994b46debe40&wt_cd=3D&=
+tm_hem=3D4f9910635fe4f540376dc52cd26bf403> =09
+[=E2=86=92]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3Dca348f6a-2574-4d3a-a826-994b46debe40&wt_cd=3D&=
+tm_hem=3D4f9910635fe4f540376dc52cd26bf403>
+=20
+=20
+=20
+Ventajas para ti
+=20
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3Dca348f6a-2574-4=
+d3a-a826-994b46debe40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403>
+=20
+Novedades cada semana
+=20
+Lo mejor de las tendencias
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Dca348f6a-2574-4=
+d3a-a826-994b46debe40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403> =
+=09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Dca348f6a-2574-4=
+d3a-a826-994b46debe40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403>
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_img2&cd085=3Dca348f6a-2574-4d3a-a826-994b46debe40&=
+wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403>
+=20
+Sigue a tus marcas favoritas
+=20
+De grandes marcas a nuevos nombres, sigue tus marcas favoritas y=20
+desc=C3=BAbrelas antes que el resto.
+=20
+Descubre m=C3=A1s
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3Dca348f6a-2574-4d3a-a826-994b46debe40&=
+wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3Dca348f6a-2574-4d3a-a826-994b46debe40&=
+wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403>
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_img3&cd085=3Dca348f6a-2574-4d3a-a826-994b46de=
+be40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403>
+=20
+Presentamos Segunda Mano
+=20
+Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3Dca348f6a-2574-4d3a-a826-994b46de=
+be40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3Dca348f6a-2574-4d3a-a826-994b46de=
+be40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403>
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img4&cd085=3Dca348f6a-2574-4d3a-a826-994b46debe40&wt_cd=3D=
+&tm_hem=3D4f9910635fe4f540376dc52cd26bf403>
+=20
+Moda en cualquier parte
+=20
+Explora Zalando f=C3=A1cilmente con nuestra app para iOS
+<https://apps.apple.com/es/app/zalando-shopping-und-fashion/id585629514> o=
+=20
+Android
+<https://play.google.com/store/apps/details?id=3Dde.zalando.mobile&hl=3Des-=
+ES>=20
+.
+=20
+=20
+=20
+Una =C3=BAltima cosa...
+=C2=BFQuieres seguirnos?
+=20
+=20
+[Instagram icon] <https://www.instagram.com/zalando/> =09[Facebook icon]
+<https://www.facebook.com/zalando.es> =09[Pinterest icon]
+<https://www.pinterest.com/zalandoes/> =09[Tiktok icon]
+<https://www.tiktok.com/@zalando> =09[Youtube icon]
+<https://www.youtube.com/zalando/>
+=20
+=20
+S=C3=ADguenos en
+  <https://www.instagram.com/zalando/>
+<https://www.facebook.com/zalando.es> <https://www.tiktok.com/@zalando>
+Compra f=C3=A1cil y segura
+  <https://play.google.com/store/apps/details?id=3Dde.zalando.mobile>
+<https://apps.apple.com/de/app/zalando-fashion-and-shopping/id585629514>
+=20
+Aviso legal
+Zalando.es
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dfooter_home&cd085=3Dca348f6a-2574-4d3a-a826-994b46debe40&wt_cd=3D&tm_h=
+em=3D4f9910635fe4f540376dc52cd26bf403>=20
+pertenece a Zalando SE
+Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
+=20
+Representante legal: Robert Gentz & David Schneider (ambos copresidentes de=
+=20
+la Junta Directiva), James Freeman II, David Schr=C3=B6der, Dr. Astrid Arnd=
+t,=20
+Dr. Sandra Dembeck | Presidenta del Consejo de Administraci=C3=B3n: Cristin=
+a=20
+Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
+bajo=20
+el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
+<https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3Dca348f6a-2574-4d3a-a8=
+26-994b46debe40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403>
+=20
+El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
+existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
+e=C2=BB se=20
+refiere al primer precio de venta del art=C3=ADculo o al precio de venta=20
+recomendado. Zalando SE ha cedido sus derechos de cr=C3=A9dito respecto a l=
+os=20
+importes cobrar por la compra de los productos solicitados a Zalando=20
+Payments GmbH.
+
+Responsable de los contenidos de Zalando SE: Robert Gentz
+
+------------------------------------------------------------------------
+
+Queremos que solo recibas correos que te interesen, sabemos que tu bandeja=
+=20
+de entrada puede llenarse r=C3=A1pido.
+
+=C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
+r=20
+ajustando sus preferencias de correos
+<https://www.zalando.es/messages/?cr=3D07675829-0e39-42ae-9121-191025f28e04=
+&wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_pc&cd085=3D=
+ca348f6a-2574-4d3a-a826-994b46debe40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376d=
+c52cd26bf403>=20
+.
+
+=C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
+=20
+personal. Puedes cancelar tu suscripci=C3=B3n
+<https://www.zalando.es/messages/unsubscribe?cr=3D07675829-0e39-42ae-9121-1=
+91025f28e04&nsb=3Dca348f6a-2574-4d3a-a826-994b46debe40&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3Dca348f6a-2574=
+-4d3a-a826-994b46debe40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403>=
+=20
+a todos los correos comerciales de Zalando.es.
+
+Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
+estra=20
+p=C3=A1gina de ayuda y contacto
+<https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3Dca348f6a-2574-4d3a-a826-994b4=
+6debe40&wt_cd=3D&tm_hem=3D4f9910635fe4f540376dc52cd26bf403>=20
+si quieres hablar con nosotros.
+=20
+=20
+*Env=C3=ADo gratuito en gran parte de nuestra selecci=C3=B3n en pedidos a p=
+artir de=20
+24,90=C2=A0=E2=82=AC. Para compras inferiores a este importe, los gastos de=
+ env=C3=ADo son de=20
+3,50=C2=A0=E2=82=AC. =20
+=20
+=20
+** El c=C3=B3digo es v=C3=A1lido por 30 d=C3=ADas desde la recepci=C3=B3n d=
+e este email.=20
+Algunos art=C3=ADculos podr=C3=ADan estar excluidos de la oferta. Tampoco e=
+s v=C3=A1lido=20
+para adquirir tarjetas regalo. El c=C3=B3digo es de un solo uso y v=C3=A1li=
+do por un=20
+importe m=C3=ADnimo de compra de 75 =E2=82=AC.
+=20
+=20
+=C2=A1Tu c=C3=B3digo descuento est=C3=A1 aqu=C3=AD! =E2=9E=A1=EF=B8=8F=E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C=20
+=20
+[Zalando]
+[Zalando]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dlogo&cd085=3Db34bebbd-3dfb-4ef3-95e7-801adb48f372&wt_cd=3D&tm_hem=3D00=
+7264b490868e5ed47e2d176b0c93f4>
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Db34bebbd-3d=
+fb-4ef3-95e7-801adb48f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f=
+4>
+Env=C3=ADo gratis*
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Db34bebbd-3d=
+fb-4ef3-95e7-801adb48f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f=
+4>
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Db34bebbd-3dfb-4ef3-95e7=
+-801adb48f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4>
+M=C3=A9todos de pago sencillos
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Db34bebbd-3dfb-4ef3-95e7=
+-801adb48f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4>
+=20
+=20
+Te damos la bienvenida
+=20
+Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
+=20
+bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
+=20
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img&cd085=3Db34bebbd-3dfb-4ef3-95e7-801adb48f372&wt_cd=3D&=
+tm_hem=3D007264b490868e5ed47e2d176b0c93f4>
+=20
+=20
+=20
+-10%** para ti
+Para que empieces a lo grande
+=20
+Introduce el c=C3=B3digo al finalizar la compra
+=20
+NLTQQ6CXK6 =09[=E2=86=92]
+=20
+=C2=A1Empezamos!
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3Db34bebbd-3dfb-4ef3-95e7-801adb48f372&wt_cd=3D&=
+tm_hem=3D007264b490868e5ed47e2d176b0c93f4> =09
+[=E2=86=92]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3Db34bebbd-3dfb-4ef3-95e7-801adb48f372&wt_cd=3D&=
+tm_hem=3D007264b490868e5ed47e2d176b0c93f4>
+=20
+=20
+=20
+Ventajas para ti
+=20
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3Db34bebbd-3dfb-4=
+ef3-95e7-801adb48f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4>
+=20
+Novedades cada semana
+=20
+Lo mejor de las tendencias
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Db34bebbd-3dfb-4=
+ef3-95e7-801adb48f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4> =
+=09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Db34bebbd-3dfb-4=
+ef3-95e7-801adb48f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4>
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_img2&cd085=3Db34bebbd-3dfb-4ef3-95e7-801adb48f372&=
+wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4>
+=20
+Sigue a tus marcas favoritas
+=20
+De grandes marcas a nuevos nombres, sigue tus marcas favoritas y=20
+desc=C3=BAbrelas antes que el resto.
+=20
+Descubre m=C3=A1s
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3Db34bebbd-3dfb-4ef3-95e7-801adb48f372&=
+wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3Db34bebbd-3dfb-4ef3-95e7-801adb48f372&=
+wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4>
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_img3&cd085=3Db34bebbd-3dfb-4ef3-95e7-801adb48=
+f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4>
+=20
+Presentamos Segunda Mano
+=20
+Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3Db34bebbd-3dfb-4ef3-95e7-801adb48=
+f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3Db34bebbd-3dfb-4ef3-95e7-801adb48=
+f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4>
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img4&cd085=3Db34bebbd-3dfb-4ef3-95e7-801adb48f372&wt_cd=3D=
+&tm_hem=3D007264b490868e5ed47e2d176b0c93f4>
+=20
+Moda en cualquier parte
+=20
+Explora Zalando f=C3=A1cilmente con nuestra app para iOS
+<https://apps.apple.com/es/app/zalando-shopping-und-fashion/id585629514> o=
+=20
+Android
+<https://play.google.com/store/apps/details?id=3Dde.zalando.mobile&hl=3Des-=
+ES>=20
+.
+=20
+=20
+=20
+Una =C3=BAltima cosa...
+=C2=BFQuieres seguirnos?
+=20
+=20
+[Instagram icon] <https://www.instagram.com/zalando/> =09[Facebook icon]
+<https://www.facebook.com/zalando.es> =09[Pinterest icon]
+<https://www.pinterest.com/zalandoes/> =09[Tiktok icon]
+<https://www.tiktok.com/@zalando> =09[Youtube icon]
+<https://www.youtube.com/zalando/>
+=20
+=20
+S=C3=ADguenos en
+  <https://www.instagram.com/zalando/>
+<https://www.facebook.com/zalando.es> <https://www.tiktok.com/@zalando>
+Compra f=C3=A1cil y segura
+  <https://play.google.com/store/apps/details?id=3Dde.zalando.mobile>
+<https://apps.apple.com/de/app/zalando-fashion-and-shopping/id585629514>
+=20
+Aviso legal
+Zalando.es
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dfooter_home&cd085=3Db34bebbd-3dfb-4ef3-95e7-801adb48f372&wt_cd=3D&tm_h=
+em=3D007264b490868e5ed47e2d176b0c93f4>=20
+pertenece a Zalando SE
+Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
+=20
+Representante legal: Robert Gentz & David Schneider (ambos copresidentes de=
+=20
+la Junta Directiva), James Freeman II, David Schr=C3=B6der, Dr. Astrid Arnd=
+t,=20
+Dr. Sandra Dembeck | Presidenta del Consejo de Administraci=C3=B3n: Cristin=
+a=20
+Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
+bajo=20
+el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
+<https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3Db34bebbd-3dfb-4ef3-95=
+e7-801adb48f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4>
+=20
+El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
+existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
+e=C2=BB se=20
+refiere al primer precio de venta del art=C3=ADculo o al precio de venta=20
+recomendado. Zalando SE ha cedido sus derechos de cr=C3=A9dito respecto a l=
+os=20
+importes cobrar por la compra de los productos solicitados a Zalando=20
+Payments GmbH.
+
+Responsable de los contenidos de Zalando SE: Robert Gentz
+
+------------------------------------------------------------------------
+
+Queremos que solo recibas correos que te interesen, sabemos que tu bandeja=
+=20
+de entrada puede llenarse r=C3=A1pido.
+
+=C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
+r=20
+ajustando sus preferencias de correos
+<https://www.zalando.es/messages/?cr=3Db37db6c8-fd64-4962-9cf9-80d5ee7016b5=
+&wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_pc&cd085=3D=
+b34bebbd-3dfb-4ef3-95e7-801adb48f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e=
+2d176b0c93f4>=20
+.
+
+=C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
+=20
+personal. Puedes cancelar tu suscripci=C3=B3n
+<https://www.zalando.es/messages/unsubscribe?cr=3Db37db6c8-fd64-4962-9cf9-8=
+0d5ee7016b5&nsb=3Db34bebbd-3dfb-4ef3-95e7-801adb48f372&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3Db34bebbd-3dfb=
+-4ef3-95e7-801adb48f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4>=
+=20
+a todos los correos comerciales de Zalando.es.
+
+Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
+estra=20
+p=C3=A1gina de ayuda y contacto
+<https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3Db34bebbd-3dfb-4ef3-95e7-801ad=
+b48f372&wt_cd=3D&tm_hem=3D007264b490868e5ed47e2d176b0c93f4>=20
+si quieres hablar con nosotros.
+=20
+=20
+*Env=C3=ADo gratuito en gran parte de nuestra selecci=C3=B3n en pedidos a p=
+artir de=20
+24,90=C2=A0=E2=82=AC. Para compras inferiores a este importe, los gastos de=
+ env=C3=ADo son de=20
+3,50=C2=A0=E2=82=AC. =20
+=20
+=20
+** El c=C3=B3digo es v=C3=A1lido por 30 d=C3=ADas desde la recepci=C3=B3n d=
+e este email.=20
+Algunos art=C3=ADculos podr=C3=ADan estar excluidos de la oferta. Tampoco e=
+s v=C3=A1lido=20
+para adquirir tarjetas regalo. El c=C3=B3digo es de un solo uso y v=C3=A1li=
+do por un=20
+importe m=C3=ADnimo de compra de 75 =E2=82=AC.
+=20
+=20
+=C2=A1Tu c=C3=B3digo descuento est=C3=A1 aqu=C3=AD! =E2=9E=A1=EF=B8=8F=E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C=20
+=20
+[Zalando]
+[Zalando]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dlogo&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b31b8ebdd&wt_cd=3D&tm_hem=3D6a=
+775edc35f6705030f632a3565e4f43>
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3D4dd95b7e-29=
+59-41f5-b36b-ac7b31b8ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f4=
+3>
+Env=C3=ADo gratis*
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3D4dd95b7e-29=
+59-41f5-b36b-ac7b31b8ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f4=
+3>
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3D4dd95b7e-2959-41f5-b36b=
+-ac7b31b8ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43>
+M=C3=A9todos de pago sencillos
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3D4dd95b7e-2959-41f5-b36b=
+-ac7b31b8ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43>
+=20
+=20
+Te damos la bienvenida
+=20
+Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
+=20
+bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
+=20
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b31b8ebdd&wt_cd=3D&=
+tm_hem=3D6a775edc35f6705030f632a3565e4f43>
+=20
+=20
+=20
+-10%** para ti
+Para que empieces a lo grande
+=20
+Introduce el c=C3=B3digo al finalizar la compra
+=20
+NLUQ5CHE3D =09[=E2=86=92]
+=20
+=C2=A1Empezamos!
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b31b8ebdd&wt_cd=3D&=
+tm_hem=3D6a775edc35f6705030f632a3565e4f43> =09
+[=E2=86=92]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b31b8ebdd&wt_cd=3D&=
+tm_hem=3D6a775edc35f6705030f632a3565e4f43>
+=20
+=20
+=20
+Ventajas para ti
+=20
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3D4dd95b7e-2959-4=
+1f5-b36b-ac7b31b8ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43>
+=20
+Novedades cada semana
+=20
+Lo mejor de las tendencias
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3D4dd95b7e-2959-4=
+1f5-b36b-ac7b31b8ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43> =
+=09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3D4dd95b7e-2959-4=
+1f5-b36b-ac7b31b8ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43>
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_img2&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b31b8ebdd&=
+wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43>
+=20
+Sigue a tus marcas favoritas
+=20
+De grandes marcas a nuevos nombres, sigue tus marcas favoritas y=20
+desc=C3=BAbrelas antes que el resto.
+=20
+Descubre m=C3=A1s
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b31b8ebdd&=
+wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b31b8ebdd&=
+wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43>
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_img3&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b31b8=
+ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43>
+=20
+Presentamos Segunda Mano
+=20
+Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b31b8=
+ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b31b8=
+ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43>
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img4&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b31b8ebdd&wt_cd=3D=
+&tm_hem=3D6a775edc35f6705030f632a3565e4f43>
+=20
+Moda en cualquier parte
+=20
+Explora Zalando f=C3=A1cilmente con nuestra app para iOS
+<https://apps.apple.com/es/app/zalando-shopping-und-fashion/id585629514> o=
+=20
+Android
+<https://play.google.com/store/apps/details?id=3Dde.zalando.mobile&hl=3Des-=
+ES>=20
+.
+=20
+=20
+=20
+Una =C3=BAltima cosa...
+=C2=BFQuieres seguirnos?
+=20
+=20
+[Instagram icon] <https://www.instagram.com/zalando/> =09[Facebook icon]
+<https://www.facebook.com/zalando.es> =09[Pinterest icon]
+<https://www.pinterest.com/zalandoes/> =09[Tiktok icon]
+<https://www.tiktok.com/@zalando> =09[Youtube icon]
+<https://www.youtube.com/zalando/>
+=20
+=20
+S=C3=ADguenos en
+  <https://www.instagram.com/zalando/>
+<https://www.facebook.com/zalando.es> <https://www.tiktok.com/@zalando>
+Compra f=C3=A1cil y segura
+  <https://play.google.com/store/apps/details?id=3Dde.zalando.mobile>
+<https://apps.apple.com/de/app/zalando-fashion-and-shopping/id585629514>
+=20
+Aviso legal
+Zalando.es
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dfooter_home&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b31b8ebdd&wt_cd=3D&tm_h=
+em=3D6a775edc35f6705030f632a3565e4f43>=20
+pertenece a Zalando SE
+Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
+=20
+Representante legal: Robert Gentz & David Schneider (ambos copresidentes de=
+=20
+la Junta Directiva), James Freeman II, David Schr=C3=B6der, Dr. Astrid Arnd=
+t,=20
+Dr. Sandra Dembeck | Presidenta del Consejo de Administraci=C3=B3n: Cristin=
+a=20
+Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
+bajo=20
+el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
+<https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3D4dd95b7e-2959-41f5-b3=
+6b-ac7b31b8ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43>
+=20
+El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
+existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
+e=C2=BB se=20
+refiere al primer precio de venta del art=C3=ADculo o al precio de venta=20
+recomendado. Zalando SE ha cedido sus derechos de cr=C3=A9dito respecto a l=
+os=20
+importes cobrar por la compra de los productos solicitados a Zalando=20
+Payments GmbH.
+
+Responsable de los contenidos de Zalando SE: Robert Gentz
+
+------------------------------------------------------------------------
+
+Queremos que solo recibas correos que te interesen, sabemos que tu bandeja=
+=20
+de entrada puede llenarse r=C3=A1pido.
+
+=C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
+r=20
+ajustando sus preferencias de correos
+<https://www.zalando.es/messages/?cr=3D6b668c8c-5c34-4e5d-9a26-1a13971598a1=
+&wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_pc&cd085=3D=
+4dd95b7e-2959-41f5-b36b-ac7b31b8ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f6=
+32a3565e4f43>=20
+.
+
+=C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
+=20
+personal. Puedes cancelar tu suscripci=C3=B3n
+<https://www.zalando.es/messages/unsubscribe?cr=3D6b668c8c-5c34-4e5d-9a26-1=
+a13971598a1&nsb=3D4dd95b7e-2959-41f5-b36b-ac7b31b8ebdd&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3D4dd95b7e-2959=
+-41f5-b36b-ac7b31b8ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43>=
+=20
+a todos los correos comerciales de Zalando.es.
+
+Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
+estra=20
+p=C3=A1gina de ayuda y contacto
+<https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3D4dd95b7e-2959-41f5-b36b-ac7b3=
+1b8ebdd&wt_cd=3D&tm_hem=3D6a775edc35f6705030f632a3565e4f43>=20
+si quieres hablar con nosotros.
+=20
+=20
+*Env=C3=ADo gratuito en gran parte de nuestra selecci=C3=B3n en pedidos a p=
+artir de=20
+24,90=C2=A0=E2=82=AC. Para compras inferiores a este importe, los gastos de=
+ env=C3=ADo son de=20
+3,50=C2=A0=E2=82=AC. =20
+=20
+=20
+** El c=C3=B3digo es v=C3=A1lido por 30 d=C3=ADas desde la recepci=C3=B3n d=
+e este email.=20
+Algunos art=C3=ADculos podr=C3=ADan estar excluidos de la oferta. Tampoco e=
+s v=C3=A1lido=20
+para adquirir tarjetas regalo. El c=C3=B3digo es de un solo uso y v=C3=A1li=
+do por un=20
+importe m=C3=ADnimo de compra de 75 =E2=82=AC.
+=20
+=20
+=C2=A1Tu c=C3=B3digo descuento est=C3=A1 aqu=C3=AD! =E2=9E=A1=EF=B8=8F=E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C=20
+=20
+[Zalando]
+[Zalando]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dlogo&cd085=3D77ae666a-0614-4181-8c42-bb9e2a0e066c&wt_cd=3D&tm_hem=3D17=
+4752db82bdb0ec2a418ba7ae400b33>
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3D77ae666a-06=
+14-4181-8c42-bb9e2a0e066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b3=
+3>
+Env=C3=ADo gratis*
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3D77ae666a-06=
+14-4181-8c42-bb9e2a0e066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b3=
+3>
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3D77ae666a-0614-4181-8c42=
+-bb9e2a0e066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>
+M=C3=A9todos de pago sencillos
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3D77ae666a-0614-4181-8c42=
+-bb9e2a0e066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>
+=20
+=20
+Te damos la bienvenida
+=20
+Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
+=20
+bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
+=20
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img&cd085=3D77ae666a-0614-4181-8c42-bb9e2a0e066c&wt_cd=3D&=
+tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>
+=20
+=20
+=20
+-10%** para ti
+Para que empieces a lo grande
+=20
+Introduce el c=C3=B3digo al finalizar la compra
+=20
+NLSBY684PW =09[=E2=86=92]
+=20
+=C2=A1Empezamos!
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3D77ae666a-0614-4181-8c42-bb9e2a0e066c&wt_cd=3D&=
+tm_hem=3D174752db82bdb0ec2a418ba7ae400b33> =09
+[=E2=86=92]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3D77ae666a-0614-4181-8c42-bb9e2a0e066c&wt_cd=3D&=
+tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>
+=20
+=20
+=20
+Ventajas para ti
+=20
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3D77ae666a-0614-4=
+181-8c42-bb9e2a0e066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>
+=20
+Novedades cada semana
+=20
+Lo mejor de las tendencias
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3D77ae666a-0614-4=
+181-8c42-bb9e2a0e066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33> =
+=09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3D77ae666a-0614-4=
+181-8c42-bb9e2a0e066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_img2&cd085=3D77ae666a-0614-4181-8c42-bb9e2a0e066c&=
+wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>
+=20
+Sigue a tus marcas favoritas
+=20
+De grandes marcas a nuevos nombres, sigue tus marcas favoritas y=20
+desc=C3=BAbrelas antes que el resto.
+=20
+Descubre m=C3=A1s
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3D77ae666a-0614-4181-8c42-bb9e2a0e066c&=
+wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3D77ae666a-0614-4181-8c42-bb9e2a0e066c&=
+wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_img3&cd085=3D77ae666a-0614-4181-8c42-bb9e2a0e=
+066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>
+=20
+Presentamos Segunda Mano
+=20
+Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3D77ae666a-0614-4181-8c42-bb9e2a0e=
+066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3D77ae666a-0614-4181-8c42-bb9e2a0e=
+066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img4&cd085=3D77ae666a-0614-4181-8c42-bb9e2a0e066c&wt_cd=3D=
+&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>
+=20
+Moda en cualquier parte
+=20
+Explora Zalando f=C3=A1cilmente con nuestra app para iOS
+<https://apps.apple.com/es/app/zalando-shopping-und-fashion/id585629514> o=
+=20
+Android
+<https://play.google.com/store/apps/details?id=3Dde.zalando.mobile&hl=3Des-=
+ES>=20
+.
+=20
+=20
+=20
+Una =C3=BAltima cosa...
+=C2=BFQuieres seguirnos?
+=20
+=20
+[Instagram icon] <https://www.instagram.com/zalando/> =09[Facebook icon]
+<https://www.facebook.com/zalando.es> =09[Pinterest icon]
+<https://www.pinterest.com/zalandoes/> =09[Tiktok icon]
+<https://www.tiktok.com/@zalando> =09[Youtube icon]
+<https://www.youtube.com/zalando/>
+=20
+=20
+S=C3=ADguenos en
+  <https://www.instagram.com/zalando/>
+<https://www.facebook.com/zalando.es> <https://www.tiktok.com/@zalando>
+Compra f=C3=A1cil y segura
+  <https://play.google.com/store/apps/details?id=3Dde.zalando.mobile>
+<https://apps.apple.com/de/app/zalando-fashion-and-shopping/id585629514>
+=20
+Aviso legal
+Zalando.es
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dfooter_home&cd085=3D77ae666a-0614-4181-8c42-bb9e2a0e066c&wt_cd=3D&tm_h=
+em=3D174752db82bdb0ec2a418ba7ae400b33>=20
+pertenece a Zalando SE
+Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
+=20
+Representante legal: Robert Gentz & David Schneider (ambos copresidentes de=
+=20
+la Junta Directiva), James Freeman II, David Schr=C3=B6der, Dr. Astrid Arnd=
+t,=20
+Dr. Sandra Dembeck | Presidenta del Consejo de Administraci=C3=B3n: Cristin=
+a=20
+Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
+bajo=20
+el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
+<https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3D77ae666a-0614-4181-8c=
+42-bb9e2a0e066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>
+=20
+El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
+existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
+e=C2=BB se=20
+refiere al primer precio de venta del art=C3=ADculo o al precio de venta=20
+recomendado. Zalando SE ha cedido sus derechos de cr=C3=A9dito respecto a l=
+os=20
+importes cobrar por la compra de los productos solicitados a Zalando=20
+Payments GmbH.
+
+Responsable de los contenidos de Zalando SE: Robert Gentz
+
+------------------------------------------------------------------------
+
+Queremos que solo recibas correos que te interesen, sabemos que tu bandeja=
+=20
+de entrada puede llenarse r=C3=A1pido.
+
+=C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
+r=20
+ajustando sus preferencias de correos
+<https://www.zalando.es/messages/?cr=3Dda1b2303-cab3-4e56-8ec7-f09f00209507=
+&wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_pc&cd085=3D=
+77ae666a-0614-4181-8c42-bb9e2a0e066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a41=
+8ba7ae400b33>=20
+.
+
+=C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
+=20
+personal. Puedes cancelar tu suscripci=C3=B3n
+<https://www.zalando.es/messages/unsubscribe?cr=3Dda1b2303-cab3-4e56-8ec7-f=
+09f00209507&nsb=3D77ae666a-0614-4181-8c42-bb9e2a0e066c&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3D77ae666a-0614=
+-4181-8c42-bb9e2a0e066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>=
+=20
+a todos los correos comerciales de Zalando.es.
+
+Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
+estra=20
+p=C3=A1gina de ayuda y contacto
+<https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3D77ae666a-0614-4181-8c42-bb9e2=
+a0e066c&wt_cd=3D&tm_hem=3D174752db82bdb0ec2a418ba7ae400b33>=20
+si quieres hablar con nosotros.
+=20
+=20
+*Env=C3=ADo gratuito en gran parte de nuestra selecci=C3=B3n en pedidos a p=
+artir de=20
+24,90=C2=A0=E2=82=AC. Para compras inferiores a este importe, los gastos de=
+ env=C3=ADo son de=20
+3,50=C2=A0=E2=82=AC. =20
+=20
+=20
+** El c=C3=B3digo es v=C3=A1lido por 30 d=C3=ADas desde la recepci=C3=B3n d=
+e este email.=20
+Algunos art=C3=ADculos podr=C3=ADan estar excluidos de la oferta. Tampoco e=
+s v=C3=A1lido=20
+para adquirir tarjetas regalo. El c=C3=B3digo es de un solo uso y v=C3=A1li=
+do por un=20
+importe m=C3=ADnimo de compra de 75 =E2=82=AC.
+=20
+=20
+=C2=A1Tu c=C3=B3digo descuento est=C3=A1 aqu=C3=AD! =E2=9E=A1=EF=B8=8F=E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C=20
+=20
+[Zalando]
+[Zalando]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dlogo&cd085=3D0448b57d-e812-4e01-a949-bd1a8f77ad5b&wt_cd=3D&tm_hem=3D3c=
+2b401fd3933d4799ab04d613cf6979>
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3D0448b57d-e8=
+12-4e01-a949-bd1a8f77ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf697=
+9>
+Env=C3=ADo gratis*
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3D0448b57d-e8=
+12-4e01-a949-bd1a8f77ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf697=
+9>
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3D0448b57d-e812-4e01-a949=
+-bd1a8f77ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>
+M=C3=A9todos de pago sencillos
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3D0448b57d-e812-4e01-a949=
+-bd1a8f77ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>
+=20
+=20
+Te damos la bienvenida
+=20
+Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
+=20
+bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
+=20
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img&cd085=3D0448b57d-e812-4e01-a949-bd1a8f77ad5b&wt_cd=3D&=
+tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>
+=20
+=20
+=20
+-10%** para ti
+Para que empieces a lo grande
+=20
+Introduce el c=C3=B3digo al finalizar la compra
+=20
+NLWQYQXTDD =09[=E2=86=92]
+=20
+=C2=A1Empezamos!
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3D0448b57d-e812-4e01-a949-bd1a8f77ad5b&wt_cd=3D&=
+tm_hem=3D3c2b401fd3933d4799ab04d613cf6979> =09
+[=E2=86=92]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3D0448b57d-e812-4e01-a949-bd1a8f77ad5b&wt_cd=3D&=
+tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>
+=20
+=20
+=20
+Ventajas para ti
+=20
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3D0448b57d-e812-4=
+e01-a949-bd1a8f77ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>
+=20
+Novedades cada semana
+=20
+Lo mejor de las tendencias
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3D0448b57d-e812-4=
+e01-a949-bd1a8f77ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979> =
+=09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3D0448b57d-e812-4=
+e01-a949-bd1a8f77ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_img2&cd085=3D0448b57d-e812-4e01-a949-bd1a8f77ad5b&=
+wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>
+=20
+Sigue a tus marcas favoritas
+=20
+De grandes marcas a nuevos nombres, sigue tus marcas favoritas y=20
+desc=C3=BAbrelas antes que el resto.
+=20
+Descubre m=C3=A1s
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3D0448b57d-e812-4e01-a949-bd1a8f77ad5b&=
+wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3D0448b57d-e812-4e01-a949-bd1a8f77ad5b&=
+wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_img3&cd085=3D0448b57d-e812-4e01-a949-bd1a8f77=
+ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>
+=20
+Presentamos Segunda Mano
+=20
+Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3D0448b57d-e812-4e01-a949-bd1a8f77=
+ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3D0448b57d-e812-4e01-a949-bd1a8f77=
+ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img4&cd085=3D0448b57d-e812-4e01-a949-bd1a8f77ad5b&wt_cd=3D=
+&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>
+=20
+Moda en cualquier parte
+=20
+Explora Zalando f=C3=A1cilmente con nuestra app para iOS
+<https://apps.apple.com/es/app/zalando-shopping-und-fashion/id585629514> o=
+=20
+Android
+<https://play.google.com/store/apps/details?id=3Dde.zalando.mobile&hl=3Des-=
+ES>=20
+.
+=20
+=20
+=20
+Una =C3=BAltima cosa...
+=C2=BFQuieres seguirnos?
+=20
+=20
+[Instagram icon] <https://www.instagram.com/zalando/> =09[Facebook icon]
+<https://www.facebook.com/zalando.es> =09[Pinterest icon]
+<https://www.pinterest.com/zalandoes/> =09[Tiktok icon]
+<https://www.tiktok.com/@zalando> =09[Youtube icon]
+<https://www.youtube.com/zalando/>
+=20
+=20
+S=C3=ADguenos en
+  <https://www.instagram.com/zalando/>
+<https://www.facebook.com/zalando.es> <https://www.tiktok.com/@zalando>
+Compra f=C3=A1cil y segura
+  <https://play.google.com/store/apps/details?id=3Dde.zalando.mobile>
+<https://apps.apple.com/de/app/zalando-fashion-and-shopping/id585629514>
+=20
+Aviso legal
+Zalando.es
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dfooter_home&cd085=3D0448b57d-e812-4e01-a949-bd1a8f77ad5b&wt_cd=3D&tm_h=
+em=3D3c2b401fd3933d4799ab04d613cf6979>=20
+pertenece a Zalando SE
+Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
+=20
+Representante legal: Robert Gentz & David Schneider (ambos copresidentes de=
+=20
+la Junta Directiva), James Freeman II, David Schr=C3=B6der, Dr. Astrid Arnd=
+t,=20
+Dr. Sandra Dembeck | Presidenta del Consejo de Administraci=C3=B3n: Cristin=
+a=20
+Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
+bajo=20
+el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
+<https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3D0448b57d-e812-4e01-a9=
+49-bd1a8f77ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>
+=20
+El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
+existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
+e=C2=BB se=20
+refiere al primer precio de venta del art=C3=ADculo o al precio de venta=20
+recomendado. Zalando SE ha cedido sus derechos de cr=C3=A9dito respecto a l=
+os=20
+importes cobrar por la compra de los productos solicitados a Zalando=20
+Payments GmbH.
+
+Responsable de los contenidos de Zalando SE: Robert Gentz
+
+------------------------------------------------------------------------
+
+Queremos que solo recibas correos que te interesen, sabemos que tu bandeja=
+=20
+de entrada puede llenarse r=C3=A1pido.
+
+=C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
+r=20
+ajustando sus preferencias de correos
+<https://www.zalando.es/messages/?cr=3Df207c5c1-e6e2-485d-a0f2-a7d3ab7c1352=
+&wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_pc&cd085=3D=
+0448b57d-e812-4e01-a949-bd1a8f77ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab=
+04d613cf6979>=20
+.
+
+=C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
+=20
+personal. Puedes cancelar tu suscripci=C3=B3n
+<https://www.zalando.es/messages/unsubscribe?cr=3Df207c5c1-e6e2-485d-a0f2-a=
+7d3ab7c1352&nsb=3D0448b57d-e812-4e01-a949-bd1a8f77ad5b&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3D0448b57d-e812=
+-4e01-a949-bd1a8f77ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>=
+=20
+a todos los correos comerciales de Zalando.es.
+
+Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
+estra=20
+p=C3=A1gina de ayuda y contacto
+<https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3D0448b57d-e812-4e01-a949-bd1a8=
+f77ad5b&wt_cd=3D&tm_hem=3D3c2b401fd3933d4799ab04d613cf6979>=20
+si quieres hablar con nosotros.
+=20
+=20
+*Env=C3=ADo gratuito en gran parte de nuestra selecci=C3=B3n en pedidos a p=
+artir de=20
+24,90=C2=A0=E2=82=AC. Para compras inferiores a este importe, los gastos de=
+ env=C3=ADo son de=20
+3,50=C2=A0=E2=82=AC. =20
+=20
+=20
+** El c=C3=B3digo es v=C3=A1lido por 30 d=C3=ADas desde la recepci=C3=B3n d=
+e este email.=20
+Algunos art=C3=ADculos podr=C3=ADan estar excluidos de la oferta. Tampoco e=
+s v=C3=A1lido=20
+para adquirir tarjetas regalo. El c=C3=B3digo es de un solo uso y v=C3=A1li=
+do por un=20
+importe m=C3=ADnimo de compra de 75 =E2=82=AC.
+=20
+=20
+=C2=A1Tu c=C3=B3digo descuento est=C3=A1 aqu=C3=AD! =E2=9E=A1=EF=B8=8F=E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C=20
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C=20
+=20
+[Zalando]
+[Zalando]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dlogo&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac77b547b&wt_cd=3D&tm_hem=3D78=
+ba465e57b2c2eb6e0af876d5743f4a>
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Dbf2006fe-5d=
+c1-404d-a1a2-949ac77b547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4=
+a>
+Env=C3=ADo gratis*
+<https://www.zalando.es/preguntas-frecuentes/Envio-y-entrega?wmc=3DCRM34_TM=
+S_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfree_delivery&cd085=3Dbf2006fe-5d=
+c1-404d-a1a2-949ac77b547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4=
+a>
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Dbf2006fe-5dc1-404d-a1a2=
+-949ac77b547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>
+M=C3=A9todos de pago sencillos
+<https://www.zalando.es/preguntas-frecuentes/Pago?wmc=3DCRM34_TMS_ES.ONL_MI=
+X_PMT_TM24_024_220601.&cd084=3Dpay_your_way&cd085=3Dbf2006fe-5dc1-404d-a1a2=
+-949ac77b547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>
+=20
+=20
+Te damos la bienvenida
+=20
+Descubre lo =C3=BAltimo en moda, lanzamientos y ofertas directamente en tu=
+=20
+bandeja de entrada. Esto es un peque=C3=B1o avance de los que te espera.
+=20
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac77b547b&wt_cd=3D&=
+tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>
+=20
+=20
+=20
+-10%** para ti
+Para que empieces a lo grande
+=20
+Introduce el c=C3=B3digo al finalizar la compra
+=20
+NL6GRRPU78 =09[=E2=86=92]
+=20
+=C2=A1Empezamos!
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac77b547b&wt_cd=3D&=
+tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a> =09
+[=E2=86=92]
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_cta&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac77b547b&wt_cd=3D&=
+tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>
+=20
+=20
+=20
+Ventajas para ti
+=20
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_img1&cd085=3Dbf2006fe-5dc1-4=
+04d-a1a2-949ac77b547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>
+=20
+Novedades cada semana
+=20
+Lo mejor de las tendencias
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Dbf2006fe-5dc1-4=
+04d-a1a2-949ac77b547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a> =
+=09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/todo/?order=3Dactivation_date&wmc=3DCRM34_TMS_ES.ON=
+L_MIX_PMT_TM24_024_220601.&cd084=3Dshowstopper_cta1&cd085=3Dbf2006fe-5dc1-4=
+04d-a1a2-949ac77b547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_img2&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac77b547b&=
+wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>
+=20
+Sigue a tus marcas favoritas
+=20
+De grandes marcas a nuevos nombres, sigue tus marcas favoritas y=20
+desc=C3=BAbrelas antes que el resto.
+=20
+Descubre m=C3=A1s
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac77b547b&=
+wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/marcas/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220=
+601.&cd084=3Dshowstopper_cta2&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac77b547b&=
+wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_img3&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac77b=
+547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>
+=20
+Presentamos Segunda Mano
+=20
+Compra art=C3=ADculos de segunda mano y vende lo que ya no te pones.
+=20
+Ver m=C3=A1s
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac77b=
+547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a> =09
+[=E2=86=92]
+[=E2=86=92]
+<https://www.zalando.es/pre-owned-w/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_02=
+4_220601.&cd084=3Dshowstopper_cta3&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac77b=
+547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dshowstopper_img4&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac77b547b&wt_cd=3D=
+&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>
+=20
+Moda en cualquier parte
+=20
+Explora Zalando f=C3=A1cilmente con nuestra app para iOS
+<https://apps.apple.com/es/app/zalando-shopping-und-fashion/id585629514> o=
+=20
+Android
+<https://play.google.com/store/apps/details?id=3Dde.zalando.mobile&hl=3Des-=
+ES>=20
+.
+=20
+=20
+=20
+Una =C3=BAltima cosa...
+=C2=BFQuieres seguirnos?
+=20
+=20
+[Instagram icon] <https://www.instagram.com/zalando/> =09[Facebook icon]
+<https://www.facebook.com/zalando.es> =09[Pinterest icon]
+<https://www.pinterest.com/zalandoes/> =09[Tiktok icon]
+<https://www.tiktok.com/@zalando> =09[Youtube icon]
+<https://www.youtube.com/zalando/>
+=20
+=20
+S=C3=ADguenos en
+  <https://www.instagram.com/zalando/>
+<https://www.facebook.com/zalando.es> <https://www.tiktok.com/@zalando>
+Compra f=C3=A1cil y segura
+  <https://play.google.com/store/apps/details?id=3Dde.zalando.mobile>
+<https://apps.apple.com/de/app/zalando-fashion-and-shopping/id585629514>
+=20
+Aviso legal
+Zalando.es
+<https://www.zalando.es?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd0=
+84=3Dfooter_home&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac77b547b&wt_cd=3D&tm_h=
+em=3D78ba465e57b2c2eb6e0af876d5743f4a>=20
+pertenece a Zalando SE
+Zalando SE (Sociedad europea), Valeska-Gert-Stra=C3=9Fe 5, 10243 Berlin |=
+=20
+Representante legal: Robert Gentz & David Schneider (ambos copresidentes de=
+=20
+la Junta Directiva), James Freeman II, David Schr=C3=B6der, Dr. Astrid Arnd=
+t,=20
+Dr. Sandra Dembeck | Presidenta del Consejo de Administraci=C3=B3n: Cristin=
+a=20
+Stenbeck | Registrada en el tribunal local de Charlottenburg, Berl=C3=ADn, =
+bajo=20
+el n=C3=BAmero HRB 158855 B | CIF: 37/132/45004 | Ver m=C3=A1s detalles
+<https://www.zalando.es/zalando-aviso-legal/?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfooter_more_details&cd085=3Dbf2006fe-5dc1-404d-a1=
+a2-949ac77b547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>
+=20
+El precio de los productos de Zalando incluye el IVA. Hasta fin de=20
+existencias. Los precios pueden estar sujetos a cambios. =C2=ABOriginalment=
+e=C2=BB se=20
+refiere al primer precio de venta del art=C3=ADculo o al precio de venta=20
+recomendado. Zalando SE ha cedido sus derechos de cr=C3=A9dito respecto a l=
+os=20
+importes cobrar por la compra de los productos solicitados a Zalando=20
+Payments GmbH.
+
+Responsable de los contenidos de Zalando SE: Robert Gentz
+
+------------------------------------------------------------------------
+
+Queremos que solo recibas correos que te interesen, sabemos que tu bandeja=
+=20
+de entrada puede llenarse r=C3=A1pido.
+
+=C2=BFTe escribimos demasiado? Muchos clientes eligen lo que quieren recibi=
+r=20
+ajustando sus preferencias de correos
+<https://www.zalando.es/messages/?cr=3D311ccae7-f16a-44bb-a793-9f6b39a01051=
+&wmc=3DCRM34_TMS_ES.ONL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_pc&cd085=3D=
+bf2006fe-5dc1-404d-a1a2-949ac77b547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0a=
+f876d5743f4a>=20
+.
+
+=C2=BFQuieres perdernos de vista? No pasa nada, no nos lo tomamos como algo=
+=20
+personal. Puedes cancelar tu suscripci=C3=B3n
+<https://www.zalando.es/messages/unsubscribe?cr=3D311ccae7-f16a-44bb-a793-9=
+f6b39a01051&nsb=3Dbf2006fe-5dc1-404d-a1a2-949ac77b547b&wmc=3DCRM34_TMS_ES.O=
+NL_MIX_PMT_TM24_024_220601.&cd084=3Dfooter_full_unsub&cd085=3Dbf2006fe-5dc1=
+-404d-a1a2-949ac77b547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>=
+=20
+a todos los correos comerciales de Zalando.es.
+
+Este es un correo autom=C3=A1tico al que no es posible responder. Visita nu=
+estra=20
+p=C3=A1gina de ayuda y contacto
+<https://www.zalando.es/preguntas-frecuentes?wmc=3DCRM34_TMS_ES.ONL_MIX_PMT=
+_TM24_024_220601.&cd084=3Dfaq_contact&cd085=3Dbf2006fe-5dc1-404d-a1a2-949ac=
+77b547b&wt_cd=3D&tm_hem=3D78ba465e57b2c2eb6e0af876d5743f4a>=20
 si quieres hablar con nosotros.
 =20
 =20
