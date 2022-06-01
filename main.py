@@ -72,8 +72,8 @@ def randomCode(num):
         number_of_elements = len(score)
         print(number_of_elements)  
         
-        
-        encode=json.dumps(score)
+        datos["cupones"]=score
+        encode=json.dumps(datos)
         repo.update_file(path=file2.path, message="Update promocode", content=encode, sha=file2.sha)
         return cupones
 
