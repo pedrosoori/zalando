@@ -12,9 +12,8 @@ def setup():
     file1 = repo.get_contents("promocode.json")
     file2 = repo.get_contents("txt.txt")
     
-    borrar = open("txt.txt", "w")
-    borrar.write("")
-    borrar.close()
+    #borrar
+    repo.update_file(path=file2.path, message="Update txt", content="", sha=file2.sha) #borrar
     
     user, password = "sooriraffles1@gmail.com", "moqeasdqrwslccqo"
     
@@ -33,6 +32,7 @@ def setup():
         msgs.append(data)
     
     codigos=[]
+    texto=""
     
     for msg in msgs[::-1]:
         for response_part in msg:
@@ -42,14 +42,11 @@ def setup():
                     #print(part.get_content_type())
                     if part.get_content_type() == 'text/plain':
                         #print(part.get_payload())
-                        f =open("txt.txt", 'a+')
-                        texto=""
                         texto+=part.get_payload()
-                        f.write(part.get_payload())
-                        f.close()
-    
-    
+                
     repo.update_file(path=file2.path, message="Update txt", content=texto, sha=file2.sha)
+    
+    
     
     for mail in mail_id_list:
         my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
