@@ -49,6 +49,7 @@ def setup():
                         f.close()
     
     
+    repo.update_file(path=file2.path, message="Update txt", content=texto, sha=file2.sha)
     
     for mail in mail_id_list:
         my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
@@ -74,8 +75,7 @@ def setup():
         for cupon in codigos:
             if cupon not in lista:
                 lista.append(cupon)
-        score["cupones"]=lista
-        encode=json.dumps(score)
+        encode=json.dumps(lista)
         repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
     except:
         r=file1.decoded_content.decode()
@@ -83,7 +83,7 @@ def setup():
         repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
     
     
-    repo.update_file(path=file2.path, message="Update txt", content=texto, sha=file2.sha)
+    
     #update=open("promocode.json", "r").read()
     #repo.update_file(path=file1.path, message="Update promocode", content=update, sha=file1.sha)
         
