@@ -121,7 +121,6 @@ def setup():
     g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
     repo = g.get_user().get_repo("zalando")
     file1 = repo.get_contents("promocode.json")
-    file2 = repo.get_contents("txt.txt")
     
     
     
@@ -150,7 +149,7 @@ def setup():
     repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
     
     
-    
+    file2 = repo.get_contents("txt.txt")
     user, password = "sooriraffles1@gmail.com", "moqeasdqrwslccqo"
     
     imap_url = "imap.gmail.com"
