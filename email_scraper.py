@@ -15,6 +15,8 @@ def setup():
     #borrar
     repo.update_file(path=file2.path, message="Update txt", content="", sha=file2.sha) #borrar
     
+    file2 = repo.get_contents("txt.txt")
+    
     user, password = "sooriraffles1@gmail.com", "moqeasdqrwslccqo"
     
     imap_url = "imap.gmail.com"
