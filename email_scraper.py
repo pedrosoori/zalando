@@ -12,11 +12,6 @@ def setup():
     file1 = repo.get_contents("promocode.json")
     file2 = repo.get_contents("txt.txt")
     
-    #borrar
-    repo.update_file(path=file2.path, message="Update txt", content="", sha=file2.sha) #borrar
-    
-    file2 = repo.get_contents("txt.txt")
-    
     user, password = "sooriraffles1@gmail.com", "moqeasdqrwslccqo"
     
     imap_url = "imap.gmail.com"
@@ -77,6 +72,11 @@ def setup():
     score["cupones"]=lista
     encode=json.dumps(score)
     repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
+    
+    file2 = repo.get_contents("txt.txt")
+    #borrar
+    repo.update_file(path=file2.path, message="Update txt", content="", sha=file2.sha) #borrar
+    
     #except:
     #    r=file1.decoded_content.decode()
     #    encode=json.dumps(datos)
