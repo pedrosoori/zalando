@@ -21,7 +21,7 @@ def setup():
         if '=09[=E2=86=92]' in line:
             cupon=line.split()
             codigos.append(cupon[0])
-    #print(codigos)        
+    print(codigos)        
     
     datos = {}
     datos["cupones"]=codigos
