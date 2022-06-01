@@ -12,6 +12,33 @@ def setup():
     file1 = repo.get_contents("promocode.json")
     file2 = repo.get_contents("txt.txt")
     
+    
+    
+    codigos=[]
+    f =open("txt.txt", 'r')
+    datafile = f.readlines()
+    for line in datafile:
+        if '=09[=E2=86=92]' in line:
+            cupon=line.split()
+            codigos.append(cupon[0])
+    #print(codigos)        
+    
+    datos = {}
+    datos["cupones"]=codigos
+    
+    #try:          
+    r=file1.decoded_content.decode()
+    score = json.loads(r)
+    lista=score["cupones"]
+    for cupon in codigos:
+        if cupon not in lista:
+            lista.append(cupon)
+    score["cupones"]=lista
+    encode=json.dumps(score)
+    repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
+    
+    
+    
     user, password = "sooriraffles1@gmail.com", "moqeasdqrwslccqo"
     
     imap_url = "imap.gmail.com"
@@ -28,7 +55,6 @@ def setup():
         typ, data = my_mail.fetch(num, '(RFC822)')
         msgs.append(data)
     
-    codigos=[]
     texto=""
     
     for msg in msgs[::-1]:
@@ -44,28 +70,6 @@ def setup():
     repo.update_file(path=file2.path, message="Update txt", content=texto, sha=file2.sha)
     
     
-    f =open("txt.txt", 'r')
-    datafile = f.readlines()
-    for line in datafile:
-        if '=09[=E2=86=92]' in line:
-            cupon=line.split()
-            codigos.append(cupon[0])
-    #print(codigos)        
-    f.close()
-    
-    datos = {}
-    datos["cupones"]=codigos
-    
-    #try:          
-    r=file1.decoded_content.decode()
-    score = json.loads(r)
-    lista=score["cupones"]
-    for cupon in codigos:
-        if cupon not in lista:
-            lista.append(cupon)
-    score["cupones"]=lista
-    encode=json.dumps(score)
-    repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
     
     for mail in mail_id_list:
         my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
