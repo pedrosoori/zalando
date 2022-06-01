@@ -77,8 +77,6 @@ def randomCode(num):
         repo.update_file(path=file2.path, message="Update promocode", content=encode, sha=file2.sha)
         
         time.sleep(5)
-        email_scraper.setup()
-        discount.datos(num+2)
         
         return cupones
 
@@ -211,6 +209,8 @@ def comandoescrito():
                     
                 if hora[str(ctx.author.id)][1] + num <= 20:
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
+                    email_scraper.setup()
+                    discount.datos(num+2)
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
                         description=randomCode(num),
@@ -234,6 +234,8 @@ def comandoescrito():
                         await ctx.reply(embed=discord.Embed(title=msg, color=0xe74c3c))
                     else:
                         await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
+                        email_scraper.setup()
+                        discount.datos(num+2)
                         embed = discord.Embed(
                             title='Aqui tienes tus codigos:',
                             description=randomCode(num),
@@ -262,6 +264,8 @@ def comandoescrito():
                 
                 if num <21: 
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
+                    email_scraper.setup()
+                    discount.datos(num+2)
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
                         description=randomCode(num),
@@ -282,6 +286,8 @@ def comandoescrito():
             
     
         if ctx.channel.id == 960659202253140089:
+            email_scraper.setup()
+            discount.datos(num+2)
             embed = discord.Embed(
                 title='Aqui tienes tus codigos:',
                 description=randomCode(num),
