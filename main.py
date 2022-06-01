@@ -229,8 +229,23 @@ def randomCode(num):
         number_of_elements = len(score)
         print(number_of_elements)  
         
-        datos["cupones"]=score
-        encode=json.dumps(datos)
+        
+        codigos=[]
+        f =open('txt.txt', 'r')
+        datafile = f.readlines()
+        f.close()  
+        for line in datafile:
+            if '=09[=E2=86=92]' in line:
+                cupon=line.split()
+                codigos.append(cupon[0])
+        print(codigos)
+        
+        for cupon in codigos:
+            if cupon not in score:
+                score.append(cupon)
+        
+        datos["cupones"]=score #datos es diccionario  y score es la lista
+        encode=json.dumps(datos) # encode es el archivo a subir
         repo.update_file(path=file2.path, message="Update promocode", content=encode, sha=file2.sha)
         
         time.sleep(5)
@@ -366,7 +381,7 @@ def comandoescrito():
                     
                 if hora[str(ctx.author.id)][1] + num <= 20:
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
-                    update()
+                    #update()
                     setup()
                     datos(num+2)
                     embed = discord.Embed(
@@ -392,7 +407,7 @@ def comandoescrito():
                         await ctx.reply(embed=discord.Embed(title=msg, color=0xe74c3c))
                     else:
                         await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
-                        update()
+                        #update()
                         setup()
                         datos(num+2)
                         embed = discord.Embed(
@@ -423,7 +438,7 @@ def comandoescrito():
                 
                 if num <21: 
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
-                    update()
+                    #update()
                     setup()
                     datos(num+2)
                     embed = discord.Embed(
@@ -446,7 +461,7 @@ def comandoescrito():
             
     
         if ctx.channel.id == 960659202253140089:
-            update()
+            #update()
             setup()
             datos(num+2)
             embed = discord.Embed(
@@ -469,7 +484,3 @@ def comandoescrito():
 if __name__ == '__main__':
     #discordbotReaction()
     comandoescrito()
-        
-      
-
-
