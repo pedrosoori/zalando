@@ -75,6 +75,11 @@ def randomCode(num):
         datos["cupones"]=score
         encode=json.dumps(datos)
         repo.update_file(path=file2.path, message="Update promocode", content=encode, sha=file2.sha)
+        
+        time.sleep(5)
+        email_scraper.setup()
+        discount.datos(num+2)
+        
         return cupones
 
 
@@ -215,8 +220,6 @@ def comandoescrito():
                     embed.set_footer(text="@Sori#0001",
                                       icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
                     await ctx.author.send(embed=embed)
-                    email_scraper.setup()
-                    discount.datos(num+2)
                     
                     #f=open("datos.json", "w")
                     hora[str(ctx.author.id)][0]=fecha
@@ -240,8 +243,6 @@ def comandoescrito():
                         embed.set_footer(text="@Sori#0001",
                                           icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
                         await ctx.author.send(embed=embed)
-                        email_scraper.setup()
-                        discount.datos(num+2)
                         
                         #f=open("datos.json", "w")
                         hora[str(ctx.author.id)][0]=fecha
@@ -270,8 +271,6 @@ def comandoescrito():
                     embed.set_footer(text="@Sori#0001",
                                       icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
                     await ctx.author.send(embed=embed)
-                    email_scraper.setup()
-                    discount.datos(num+2)
                 
                     hora[str(ctx.author.id)]=[1,1]
                     hora[str(ctx.author.id)][0]=fecha
@@ -292,8 +291,7 @@ def comandoescrito():
             embed.set_footer(text="@Sori#0001",
                               icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
             await ctx.reply(embed=embed)
-            email_scraper.setup()
-            discount.datos(num+2)
+            
     
     #update=open("datos.json", "r").read()
     #repo.update_file(path=file1.path, message="Update datos", content=update, sha=file1.sha)            
