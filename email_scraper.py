@@ -71,9 +71,9 @@ def setup():
     
     
     
-    for mail in mail_id_list:
-        my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
-    my_mail.expunge()
+    #for mail in mail_id_list:
+    #    my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
+    #my_mail.expunge()
     
     #file2 = repo.get_contents("txt.txt")
     #borrar
