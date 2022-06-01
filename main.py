@@ -264,7 +264,7 @@ def comandoescrito():
                 encode=json.dumps(hora)
                 repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
                 
-                if num <20: 
+                if num <21: 
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
