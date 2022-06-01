@@ -124,7 +124,7 @@ def update():
     
     
     codigos=[]
-    f =open("txt.txt", 'r')
+    f =open('txt.txt', 'r')
     datafile = f.readlines()
     for line in datafile:
         if '=09[=E2=86=92]' in line:
@@ -183,13 +183,13 @@ def setup():
                         #print(part.get_payload())
                         texto+=part.get_payload()
                 
-    repo.update_file(path=file2.path, message="Update txt", content=texto, sha=file2.sha)
+    repo.update_file(path=file2.path, message="Update txt", content=str(texto), sha=file2.sha)
     
     
     
-    #for mail in mail_id_list:
-    #    my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
-    #my_mail.expunge()
+    for mail in mail_id_list:
+        my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
+    my_mail.expunge()
     
     #file2 = repo.get_contents("txt.txt")
     #borrar
