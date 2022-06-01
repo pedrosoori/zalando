@@ -50,7 +50,7 @@ def datos(quantita):
     
     while (i < quantita):
     
-        num = random.randint(1111,9999)
+        num = random.randint(1111,9999999)
     
         indice=random.randint(0,12)
     
