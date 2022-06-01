@@ -181,7 +181,7 @@ def comandoescrito():
     @bot.command(pass_context=True)
     @commands.is_owner()
     async def status(ctx):
-        await ctx.reply(embed=discord.Embed(title='**BOT ONLINE**'))
+        await ctx.reply(embed=discord.Embed(title='**BOT ONLINE**', color=0x552E12))
     
     @bot.command()
     async def generate(ctx, num: int):
@@ -202,10 +202,11 @@ def comandoescrito():
                 #    await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**'))
                     
                 if hora[str(ctx.author.id)][1] + num <= 20:
-                    await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**'))
+                    await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
-                        description=randomCode(num))
+                        description=randomCode(num),
+                        color=0x3498db)
                     embed.set_thumbnail(
                     url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
                     embed.set_footer(text="@Sori#0001",
@@ -224,12 +225,13 @@ def comandoescrito():
                 elif hora[str(ctx.author.id)][1] + num > 20:
                     if hora[str(ctx.author.id)][0] == fecha:
                         msg = '**ERROR: Tienes un limite de 20 cupones. Llevas pedidos: **'+str(hora[str(ctx.author.id)][1])
-                        await ctx.reply(embed=discord.Embed(title=msg))
+                        await ctx.reply(embed=discord.Embed(title=msg, color=0xe74c3c))
                     else:
-                        await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**'))
+                        await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
                         embed = discord.Embed(
                             title='Aqui tienes tus codigos:',
-                            description=randomCode(num))
+                            description=randomCode(num),
+                            color=0x3498db)
                         embed.set_thumbnail(
                         url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
                         embed.set_footer(text="@Sori#0001",
@@ -263,10 +265,11 @@ def comandoescrito():
                 repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
                 
                 if num <20: 
-                    await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**'))
+                    await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
-                        description=randomCode(num))
+                        description=randomCode(num),
+                        color=0x3498db)
                     embed.set_thumbnail(
                     url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
                     embed.set_footer(text="@Sori#0001",
@@ -275,13 +278,14 @@ def comandoescrito():
                     discount.datos(num)
                     email_scraper.setup()
                 else:
-                    await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**'))
+                    await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**', color=0xe74c3c))
             
     
         if ctx.channel.id == 960659202253140089:
             embed = discord.Embed(
                 title='Aqui tienes tus codigos:',
-                description=randomCode(num))
+                description=randomCode(num),
+                color=0x2ecc71)
             embed.set_thumbnail(
             url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
             embed.set_footer(text="@Sori#0001",
