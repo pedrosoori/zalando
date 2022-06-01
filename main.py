@@ -255,14 +255,6 @@ def comandoescrito():
                 #r=open("datos.json", "r")
                 r=file1.decoded_content.decode()
                 hora=json.loads(r)
-                hora[str(ctx.author.id)]=[1,1]
-                hora[str(ctx.author.id)][0]=fecha
-                hora[str(ctx.author.id)][1]=num
-                #f=open("datos.json", "w")
-                #json.dump(hora, f)
-                #update=open("datos.json", "r").read()
-                encode=json.dumps(hora)
-                repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
                 
                 if num <21: 
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
@@ -277,6 +269,12 @@ def comandoescrito():
                     await ctx.author.send(embed=embed)
                     discount.datos(num)
                     email_scraper.setup()
+                
+                    hora[str(ctx.author.id)]=[1,1]
+                    hora[str(ctx.author.id)][0]=fecha
+                    hora[str(ctx.author.id)][1]=num
+                    encode=json.dumps(hora)
+                    repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)    
                 else:
                     await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**', color=0xe74c3c))
             
