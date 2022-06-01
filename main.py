@@ -52,26 +52,29 @@ bot = commands.Bot(command_prefix='!')
 
 
 def randomCode(num):
+        g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
+        repo = g.get_user().get_repo("zalando")
+        file2 = repo.get_contents("promocode.json")
+        
+        f=file2.decoded_content.decode()
+        datos=json.loads(f)
+        
         i=0
         cupones=""
-        with open("promocode.json", 'r') as f:
-         score = json.load(f)
-         score=score["cupones"]
-         while i<num:
-             random_item_from_list = random.choice(score)
-             cupones=cupones+str(random_item_from_list)+"\n"
-             score.remove(random_item_from_list)
-             i=i+1
+        score=datos["cupones"]
+        while i<num:
+            random_item_from_list = random.choice(score)
+            cupones=cupones+str(random_item_from_list)+"\n"
+            score.remove(random_item_from_list)
+            i=i+1
         
         print(cupones)     
         number_of_elements = len(score)
         print(number_of_elements)  
         
-        lista={}
-        lista["cupones"]=score
         
-        with open("promocode.json", 'w') as f:
-         json.dump(lista, f)
+        encode=json.dumps(score)
+        repo.update_file(path=file2.path, message="Update promocode", content=encode, sha=file2.sha)
         return cupones
 
 
