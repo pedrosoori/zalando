@@ -10,32 +10,32 @@ def setup():
     g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
     repo = g.get_user().get_repo("zalando")
     file1 = repo.get_contents("promocode.json")
-    file2 = repo.get_contents("txt.txt")
+    #file2 = repo.get_contents("txt.txt")
     
     
     
-    codigos=[]
-    f =open("txt.txt", 'r')
-    datafile = f.readlines()
-    for line in datafile:
-        if '=09[=E2=86=92]' in line:
-            cupon=line.split()
-            codigos.append(cupon[0])
-    print(codigos)        
+    # codigos=[]
+    # f =open("txt.txt", 'r')
+    # datafile = f.readlines()
+    # for line in datafile:
+    #     if '=09[=E2=86=92]' in line:
+    #         cupon=line.split()
+    #         codigos.append(cupon[0])
+    # print(codigos)        
     
-    datos = {}
-    datos["cupones"]=codigos
+    # datos = {}
+    # datos["cupones"]=codigos
     
     #try:          
-    r=file1.decoded_content.decode()
-    score = json.loads(r)
-    lista=score["cupones"]
-    for cupon in codigos:
-        if cupon not in lista:
-            lista.append(cupon)
-    score["cupones"]=lista
-    encode=json.dumps(score)
-    repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
+    # r=file1.decoded_content.decode()
+    # score = json.loads(r)
+    # lista=score["cupones"]
+    # for cupon in codigos:
+    #     if cupon not in lista:
+    #         lista.append(cupon)
+    # score["cupones"]=lista
+    # encode=json.dumps(score)
+    # repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
     
     
     
@@ -67,13 +67,32 @@ def setup():
                         #print(part.get_payload())
                         texto+=part.get_payload()
                 
-    repo.update_file(path=file2.path, message="Update txt", content=texto, sha=file2.sha)
+    #repo.update_file(path=file2.path, message="Update txt", content=texto, sha=file2.sha)
+    texto=texto.split()
+    lista_cupones=[]
+    indices=[]
+    for n in range(len(texto)):
+        if texto[n]=='=09[=E2=86=92]':
+            indices.append(n)
+    for i in indices:
+        lista_cupones.append(texto[i-1])
+    #print(lista_cupones)
     
     
+    r=file1.decoded_content.decode()
+    score = json.loads(r)
+    lista=score["cupones"]
+    for cupon in lista_cupones:
+        if cupon not in lista:
+            lista.append(cupon)
+    score["cupones"]=lista
+    encode=json.dumps(score)
+    repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
     
-    #for mail in mail_id_list:
-    #    my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
-    #my_mail.expunge()
+    
+    for mail in mail_id_list:
+        my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
+    my_mail.expunge()
     
     #file2 = repo.get_contents("txt.txt")
     #borrar
