@@ -28,15 +28,10 @@ import logging
 from faker import Faker
 import dotenv
 
+import discount
+import email_scraper
 import datetime
 import github
-import imaplib
-import email
-import time
-
-import requests
-import os
-import random
 
 """
 logs
@@ -54,163 +49,6 @@ SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
 bot = commands.Bot(command_prefix='!')
 
-
-
-def getCode(catchall,regione):
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36',
-            'content-type': 'application/json',
-
-    }
-
-    data = {
-    "id":"06fe5b50b4218612aa3fa8494df326aef7ff35a75a8563b3455bb53c15168872","variables":{"input":{"email": catchall,"preference":{"category":"MEN","topics":[{"id":"item_alerts","isEnabled":bool(True)},{"id":"survey","isEnabled":bool(True)},{"id":"recommendations","isEnabled":bool(True)},{"id":"fashion_fix","isEnabled":bool(True)},{"id":"follow_brand","isEnabled":bool(True)},{"id":"subscription_confirmations","isEnabled":bool(True)},{"id":"offers_sales","isEnabled":bool(True)}]},"referrer":"nl_subscription_banner_one_click","clientMutationId":"1620930739401"}}
-
-
-    }
-
-
-
-    url =  "https://www.zalando."+str(regione)+"/api/graphql/"
-    s = requests.Session()
-
-    resp = s.post(url,headers=headers,json=data)
-
-    response  = resp.json()
-
-    email = response["data"]['subscribeToNewsletter']['isEmailVerificationRequired']
-
-    if (email == False):
-        print ("discount generated")
-
-    else:print ("yooo WTF there was an error"+str(resp.status_code))
-
-
-def datos(quantita):
-    #quantita = input('insert quantity: ')
-    
-    catchall = '@soori.shop'
-    
-    os.system('cls')
-    
-    #quantita = 5
-    
-    nomi = ['Alessandro','Riccardo','Diego','Tommaso','Matteo','Lorenzo','Gabriele','Samuele','Giacomo','beatrice','sofia','ginevra','gaia']
-    cognomi=['Rossi','Ferrari','Russo','Bianchi','Romano','Gallo','Costa','Fontana','conti','esposito','ricci','bruno','greco']
-    
-    i=0
-    
-    while (i < quantita):
-    
-        num = random.randint(1111,9999999)
-    
-        indice=random.randint(0,12)
-    
-        eml = (nomi[indice]+str(cognomi[indice])+str(num)+str(catchall))
-    
-        getCode(eml,'es')
-    
-    
-        i+=1
-    time.sleep(2)
-    print ("finished")
-
-
-
-def update():
-    g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
-    repo = g.get_user().get_repo("zalando")
-    file1 = repo.get_contents("promocode.json")
-    
-    
-    
-    codigos=[]
-    f =open('txt.txt', 'r')
-    datafile = f.readlines()
-    for line in datafile:
-        if '=09[=E2=86=92]' in line:
-            cupon=line.split()
-            codigos.append(cupon[0])
-    print(codigos)
-    f.close()        
-    
-    datos = {}
-    datos["cupones"]=codigos
-    
-    #try:          
-    r=file1.decoded_content.decode()
-    score = json.loads(r)
-    lista=score["cupones"]
-    for cupon in codigos:
-        if cupon not in lista:
-            lista.append(cupon)
-    score["cupones"]=lista
-    encode=json.dumps(score)
-    repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
-
-
-
-def setup():
-    g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
-    repo = g.get_user().get_repo("zalando")
-    file2 = repo.get_contents("txt.txt")
-    
-    
-    user, password = "sooriraffles1@gmail.com", "moqeasdqrwslccqo"
-    
-    imap_url = "imap.gmail.com"
-    my_mail=imaplib.IMAP4_SSL(imap_url)
-    my_mail.login(user, password)
-    
-    my_mail.select("Inbox")
-    _, data=my_mail.search(None, '(FROM "info@service-mail.zalando.es")')
-    
-    mail_id_list=data[0].split()
-    
-    msgs=[]
-    for num in mail_id_list:
-        typ, data = my_mail.fetch(num, '(RFC822)')
-        msgs.append(data)
-    
-    texto=""
-    
-    for msg in msgs[::-1]:
-        for response_part in msg:
-            if type(response_part) is tuple:
-                my_msg=email.message_from_bytes((response_part[1]))
-                for part in my_msg.walk():
-                    #print(part.get_content_type())
-                    if part.get_content_type() == 'text/plain':
-                        #print(part.get_payload())
-                        texto+=part.get_payload()
-                
-    repo.update_file(path=file2.path, message="Update txt", content=str(texto), sha=file2.sha)
-    
-    
-    
-    for mail in mail_id_list:
-        my_mail.store(mail, '+X-GM-LABELS', '\\Trash')
-    my_mail.expunge()
-    
-    #file2 = repo.get_contents("txt.txt")
-    #borrar
-    #repo.update_file(path=file2.path, message="Update txt", content="", sha=file2.sha) #borrar
-    
-    #except:
-    #    r=file1.decoded_content.decode()
-    #    encode=json.dumps(datos)
-    #    repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
-    
-    
-    
-    #update=open("promocode.json", "r").read()
-    #repo.update_file(path=file1.path, message="Update promocode", content=update, sha=file1.sha)
-
-
-def retrieve_text(file_name):
-    f_read = open(file_name, 'r')
-    texto = f_read.readlines()
-    f_read.close()
-    return texto
 
 
 def randomCode(num):
@@ -234,21 +72,8 @@ def randomCode(num):
         number_of_elements = len(score)
         print(number_of_elements)  
         
-        
-        codigos=[]
-        texto=retrieve_text('txt.txt') 
-        for line in texto:
-            if '=09[=E2=86=92]' in line:
-                cupon=line.split()
-                codigos.append(cupon[0])
-        print(codigos)
-        
-        for cupon in codigos:
-            if cupon not in score:
-                score.append(cupon)
-        
-        datos["cupones"]=score #datos es diccionario  y score es la lista
-        encode=json.dumps(datos) # encode es el archivo a subir
+        datos["cupones"]=score
+        encode=json.dumps(datos)
         repo.update_file(path=file2.path, message="Update promocode", content=encode, sha=file2.sha)
         
         time.sleep(5)
@@ -384,9 +209,8 @@ def comandoescrito():
                     
                 if hora[str(ctx.author.id)][1] + num <= 20:
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
-                    #update()
-                    setup()
-                    datos(num+2)
+                    email_scraper.setup()
+                    discount.datos(num+2)
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
                         description=randomCode(num),
@@ -410,9 +234,8 @@ def comandoescrito():
                         await ctx.reply(embed=discord.Embed(title=msg, color=0xe74c3c))
                     else:
                         await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
-                        #update()
-                        setup()
-                        datos(num+2)
+                        email_scraper.setup()
+                        discount.datos(num+2)
                         embed = discord.Embed(
                             title='Aqui tienes tus codigos:',
                             description=randomCode(num),
@@ -441,9 +264,8 @@ def comandoescrito():
                 
                 if num <21: 
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
-                    #update()
-                    setup()
-                    datos(num+2)
+                    email_scraper.setup()
+                    discount.datos(num+2)
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
                         description=randomCode(num),
@@ -464,9 +286,8 @@ def comandoescrito():
             
     
         if ctx.channel.id == 960659202253140089:
-            #update()
-            setup()
-            datos(num+2)
+            email_scraper.setup()
+            discount.datos(num+2)
             embed = discord.Embed(
                 title='Aqui tienes tus codigos:',
                 description=randomCode(num),
@@ -487,3 +308,7 @@ def comandoescrito():
 if __name__ == '__main__':
     #discordbotReaction()
     comandoescrito()
+        
+      
+
+
