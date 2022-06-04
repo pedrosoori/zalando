@@ -164,7 +164,7 @@ def comandoescrito():
                 repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
 
             
-            except:
+            except KeyError:
                 #r=open("datos.json", "r")
                 r=file1.decoded_content.decode()
                 hora=json.loads(r)
