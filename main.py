@@ -204,6 +204,19 @@ def comandoescrito():
                 g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
                 repo = g.get_user().get_repo("zalando")
                 file1 = repo.get_contents("datos.json")
+                
+                try:
+                    f=file1.decoded_content.decode()
+                    hora=json.loads(f)
+                    hora[str(ctx.author.id)][0]=fecha
+                    hora[str(ctx.author.id)][1]+=num
+                    encode=json.dumps(hora)
+                except KeyError:
+                    r=file1.decoded_content.decode()
+                    hora=json.loads(r)
+                    hora[str(ctx.author.id)]=[1,1]
+                    hora[str(ctx.author.id)][0]=fecha
+                    hora[str(ctx.author.id)][1]=num
                 repo.update_file(path=file1.path, message="Update datos sobresaturados", content=encode, sha=file1.sha)
                 
             
