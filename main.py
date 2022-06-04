@@ -33,11 +33,7 @@ import email_scraper
 import datetime
 import github
 
-"""
-logs
-"""
-# logging.basicConfig(filename='MonitoLog.log', filemode='a', format='%(asctime)s - %(name)s - %(message)s',
-#                     level=logging.DEBUG)
+
 """
 configurations
 """
@@ -95,25 +91,24 @@ def comandoescrito():
     
     @bot.command()
     async def generate(ctx, num: int):
+        
         g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
         repo = g.get_user().get_repo("zalando")
         file1 = repo.get_contents("datos.json")
         
-        if ctx.channel.id == 942152678094540902 or ctx.channel.id == 960659202253140089:
+        if ctx.channel.id == 942152678094540902:
+            
             fecha=datetime.date.today()
             fecha=str(fecha)
+            
             try:
-                #f=open("datos.json", "r")
-                #hora=json.loads(f)
+                
                 f=file1.decoded_content.decode()
                 hora=json.loads(f)
-                
-                #if num >20:
-                #    await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**'))
                     
                 if hora[str(ctx.author.id)][1] + num <= 20:
+                    
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
-                    await ctx.send(embed=discord.Embed(title='**Opcion 1**', color=0x2ecc71))
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
                         description=randomCode(num),
@@ -135,14 +130,17 @@ def comandoescrito():
                       
                     
                 elif hora[str(ctx.author.id)][1] + num > 20:
+                    
                     if hora[str(ctx.author.id)][0] == fecha:
+                        
                         msg = '**ERROR: Tienes un limite de 20 cupones. Llevas pedidos: **'+str(hora[str(ctx.author.id)][1])
                         await ctx.reply(embed=discord.Embed(title=msg, color=0xe74c3c))
-                        await ctx.send(embed=discord.Embed(title='**Opcion 2**', color=0x2ecc71))
+                    
                     else:
+                        
                         if num < 21:
+                            
                             await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
-                            await ctx.send(embed=discord.Embed(title='**Opcion 3**', color=0x2ecc71))
                             embed = discord.Embed(
                                 title='Aqui tienes tus codigos:',
                                 description=randomCode(num),
@@ -153,7 +151,6 @@ def comandoescrito():
                                               icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
                             await ctx.author.send(embed=embed)
                             
-                            #f=open("datos.json", "w")
                             hora[str(ctx.author.id)][0]=fecha
                             hora[str(ctx.author.id)][1]=num
                             encode=json.dumps(hora)
@@ -163,19 +160,19 @@ def comandoescrito():
                             discount.datos(num+2)
                             
                         else:
+                            
                             await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**', color=0xe74c3c))
-                            await ctx.send(embed=discord.Embed(title='**Opcion 4**', color=0x2ecc71))
                         
                         
             
             except KeyError:
-                #r=open("datos.json", "r")
+
                 r=file1.decoded_content.decode()
                 hora=json.loads(r)
                 
                 if num <21: 
+                    
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
-                    await ctx.send(embed=discord.Embed(title='**Opcion 5**', color=0x2ecc71))
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
                         description=randomCode(num),
@@ -196,51 +193,53 @@ def comandoescrito():
                     discount.datos(num+2)
                     
                 else:
+                    
                     await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**', color=0xe74c3c))
-                    await ctx.send(embed=discord.Embed(title='**Opcion 6**', color=0x2ecc71))
                     
             except github.GithubException:
+                
                 print('sobresaturado')
                 g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
                 repo = g.get_user().get_repo("zalando")
                 file1 = repo.get_contents("datos.json")
                 
                 try:
+                    
                     f=file1.decoded_content.decode()
                     hora=json.loads(f)
                     hora[str(ctx.author.id)][0]=fecha
                     hora[str(ctx.author.id)][1]+=num
                     encode=json.dumps(hora)
                 except KeyError:
+                    
                     r=file1.decoded_content.decode()
                     hora=json.loads(r)
                     hora[str(ctx.author.id)]=[1,1]
                     hora[str(ctx.author.id)][0]=fecha
                     hora[str(ctx.author.id)][1]=num
+                
                 repo.update_file(path=file1.path, message="Update datos sobresaturados", content=encode, sha=file1.sha)
                 
             
     
-        #if ctx.channel.id == 960659202253140089:
-        #    email_scraper.setup()
-        #    discount.datos(num+2)
-        #    embed = discord.Embed(
-        #        title='Aqui tienes tus codigos:',
-        #        description=randomCode(num),
-        #        color=0x2ecc71)
-        #    embed.set_thumbnail(
-        #    url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
-        #    embed.set_footer(text="@Sori#0001",
-        #                      icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
-        #    await ctx.reply(embed=embed)
+        if ctx.channel.id == 960659202253140089:
+            
+            email_scraper.setup()
+            discount.datos(num+2)
+            embed = discord.Embed(
+                title='Aqui tienes tus codigos:',
+                description=randomCode(num),
+                color=0x2ecc71)
+            embed.set_thumbnail(
+            url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
+            embed.set_footer(text="@Sori#0001",
+                              icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
+            await ctx.reply(embed=embed)
             
     
-    #update=open("datos.json", "r").read()
-    #repo.update_file(path=file1.path, message="Update datos", content=update, sha=file1.sha)            
     TOKEN = "ODk0ODU0NzUxOTcwMjkxNzQy.GzzPvR.9UMGwzolFex8flSe99-AXCuRGC8Vp8BAgaG0jU"
     bot.run(TOKEN)
             
 
 if __name__ == '__main__':
-    #discordbotReaction()
     comandoescrito()
