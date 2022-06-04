@@ -198,6 +198,14 @@ def comandoescrito():
                 else:
                     await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**', color=0xe74c3c))
                     await ctx.send(embed=discord.Embed(title='**Opcion 6**', color=0x2ecc71))
+                    
+            except discord.ext.commands.errors.CommandInvokeError:
+                print('sobresaturado')
+                g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
+                repo = g.get_user().get_repo("zalando")
+                file1 = repo.get_contents("datos.json")
+                repo.update_file(path=file1.path, message="Update datos sobresaturados", content=encode, sha=file1.sha)
+                
             
     
         #if ctx.channel.id == 960659202253140089:
@@ -223,7 +231,3 @@ def comandoescrito():
 if __name__ == '__main__':
     #discordbotReaction()
     comandoescrito()
-        
-      
-
-
