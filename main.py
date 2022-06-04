@@ -114,8 +114,6 @@ def comandoescrito():
                 if hora[str(ctx.author.id)][1] + num <= 20:
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
                     await ctx.send(embed=discord.Embed(title='**Opcion 1**', color=0x2ecc71))
-                    email_scraper.setup()
-                    discount.datos(num+2)
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
                         description=randomCode(num),
@@ -126,10 +124,13 @@ def comandoescrito():
                                       icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
                     await ctx.author.send(embed=embed)
                     
-                    #f=open("datos.json", "w")
                     hora[str(ctx.author.id)][0]=fecha
                     hora[str(ctx.author.id)][1]+=num
-                    #json.dump(str(hora), f)
+                    encode=json.dumps(hora)
+                    repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
+                    
+                    email_scraper.setup()
+                    discount.datos(num+2)
                     
                       
                     
@@ -142,8 +143,6 @@ def comandoescrito():
                         if num < 21:
                             await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
                             await ctx.send(embed=discord.Embed(title='**Opcion 3**', color=0x2ecc71))
-                            email_scraper.setup()
-                            discount.datos(num+2)
                             embed = discord.Embed(
                                 title='Aqui tienes tus codigos:',
                                 description=randomCode(num),
@@ -157,15 +156,17 @@ def comandoescrito():
                             #f=open("datos.json", "w")
                             hora[str(ctx.author.id)][0]=fecha
                             hora[str(ctx.author.id)][1]=num
-                            #json.dump(str(hora), f)
+                            encode=json.dumps(hora)
+                            repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
+                            
+                            email_scraper.setup()
+                            discount.datos(num+2)
+                            
                         else:
                             await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**', color=0xe74c3c))
                             await ctx.send(embed=discord.Embed(title='**Opcion 4**', color=0x2ecc71))
                         
-                
-                encode=json.dumps(hora)
-                repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
-
+                        
             
             except KeyError:
                 #r=open("datos.json", "r")
@@ -175,8 +176,6 @@ def comandoescrito():
                 if num <21: 
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
                     await ctx.send(embed=discord.Embed(title='**Opcion 5**', color=0x2ecc71))
-                    email_scraper.setup()
-                    discount.datos(num+2)
                     embed = discord.Embed(
                         title='Aqui tienes tus codigos:',
                         description=randomCode(num),
@@ -191,7 +190,11 @@ def comandoescrito():
                     hora[str(ctx.author.id)][0]=fecha
                     hora[str(ctx.author.id)][1]=num
                     encode=json.dumps(hora)
-                    repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)    
+                    repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)
+                    
+                    email_scraper.setup()
+                    discount.datos(num+2)
+                    
                 else:
                     await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**', color=0xe74c3c))
                     await ctx.send(embed=discord.Embed(title='**Opcion 6**', color=0x2ecc71))
