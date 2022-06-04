@@ -199,7 +199,7 @@ def comandoescrito():
                     await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**', color=0xe74c3c))
                     await ctx.send(embed=discord.Embed(title='**Opcion 6**', color=0x2ecc71))
                     
-            except discord.ext.commands.errors.CommandInvokeError:
+            except github.GithubException:
                 print('sobresaturado')
                 g=github.Github("7f4298e4fd054e97ad8f6f59cd1b2134b4293440")
                 repo = g.get_user().get_repo("zalando")
