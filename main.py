@@ -139,25 +139,28 @@ def comandoescrito():
                         await ctx.reply(embed=discord.Embed(title=msg, color=0xe74c3c))
                         await ctx.send(embed=discord.Embed(title='**Opcion 2**', color=0x2ecc71))
                     else:
-                        await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
-                        await ctx.send(embed=discord.Embed(title='**Opcion 3**', color=0x2ecc71))
-                        email_scraper.setup()
-                        discount.datos(num+2)
-                        embed = discord.Embed(
-                            title='Aqui tienes tus codigos:',
-                            description=randomCode(num),
-                            color=0x3498db)
-                        embed.set_thumbnail(
-                        url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
-                        embed.set_footer(text="@Sori#0001",
-                                          icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
-                        await ctx.author.send(embed=embed)
-                        
-                        #f=open("datos.json", "w")
-                        hora[str(ctx.author.id)][0]=fecha
-                        hora[str(ctx.author.id)][1]=num
-                        #json.dump(str(hora), f)
-                        
+                        if num < 21:
+                            await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
+                            await ctx.send(embed=discord.Embed(title='**Opcion 3**', color=0x2ecc71))
+                            email_scraper.setup()
+                            discount.datos(num+2)
+                            embed = discord.Embed(
+                                title='Aqui tienes tus codigos:',
+                                description=randomCode(num),
+                                color=0x3498db)
+                            embed.set_thumbnail(
+                            url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
+                            embed.set_footer(text="@Sori#0001",
+                                              icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
+                            await ctx.author.send(embed=embed)
+                            
+                            #f=open("datos.json", "w")
+                            hora[str(ctx.author.id)][0]=fecha
+                            hora[str(ctx.author.id)][1]=num
+                            #json.dump(str(hora), f)
+                        else:
+                            await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**', color=0xe74c3c))
+                            await ctx.send(embed=discord.Embed(title='**Opcion 4**', color=0x2ecc71))
                         
                 
                 encode=json.dumps(hora)
@@ -171,7 +174,7 @@ def comandoescrito():
                 
                 if num <21: 
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
-                    await ctx.send(embed=discord.Embed(title='**Opcion 4**', color=0x2ecc71))
+                    await ctx.send(embed=discord.Embed(title='**Opcion 5**', color=0x2ecc71))
                     email_scraper.setup()
                     discount.datos(num+2)
                     embed = discord.Embed(
@@ -191,7 +194,7 @@ def comandoescrito():
                     repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)    
                 else:
                     await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**', color=0xe74c3c))
-                    await ctx.send(embed=discord.Embed(title='**Opcion 5**', color=0x2ecc71))
+                    await ctx.send(embed=discord.Embed(title='**Opcion 6**', color=0x2ecc71))
             
     
         #if ctx.channel.id == 960659202253140089:
