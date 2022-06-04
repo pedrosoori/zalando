@@ -87,102 +87,6 @@ intents = discord.Intents.default()
 intents.members = True
 
 
-def discordbot():
-        @client.event
-        async def on_ready():
-            print('We have logged in as {0.user}'.format(client))
-            channel = client.get_channel(960659202253140089)
-            embed = discord.Embed(
-                title='Izi Cookz Code Promo',
-                description='Clique sur 🎫 pour recevoir un code Promo de -10% sur le site de Zalando ! ⚠️ Merci de ne pas spam le bot ⚠️ !')
-            embed.set_thumbnail(
-            url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
-            embed.set_footer(text="Made by JLM for Izi Cookz",
-                             icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
-            msg = await channel.send(embed=embed)
-            await msg.add_reaction("🎫")
-            await msg.add_reaction("🎟️")
-            await msg.add_reaction("📇")
-
-            
-def discordbotReaction():
-        @client.event
-        async def on_raw_reaction_add(payload):
-            #discount.datos()
-            if(payload.message_id == 980653836077264896 and payload.emoji.name == "🎫"):  
-                msg = await client.get_channel(payload.channel_id).fetch_message(payload.message_id)
-                member = discord.utils.get(msg.reactions, emoji="🎫")
-    
-                user = payload.member
-                print(payload)
-                await msg.remove_reaction("🎫", user)
-                time.sleep(3)
-                embed = discord.Embed(
-                    title='Aqui tienes tus codigos:',
-                    description=randomCode())
-                embed.set_thumbnail(
-                url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
-                embed.set_footer(text="@Sori#0001",
-                                 icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
-                msg = await user.send(embed=embed)
-            
- 
-            if(payload.message_id == 980653836077264896 and payload.emoji.name == "🎟️"):  
-                user = payload.member 
-                role = discord.utils.find(lambda r: r.name == 'Premium GOLD', user.roles)
-                msgGold = await client.get_channel(payload.channel_id).fetch_message(payload.message_id)
-                if role in user.roles:  
-                    memberGold = discord.utils.get(msgGold.reactions, emoji="🎟️")
-                    userGold = payload.member
-                    print(payload)
-                    message = "[Génération des codes]"
-                    await userGold.send(message)
-                    await msgGold.remove_reaction("🎟️", userGold)
-                    time.sleep(3)
-                    i = 0
-                    waitingMsg = ("Voici tes codes :")
-                    await userGold.send(waitingMsg)
-                    while i < 3:
-                        Codes = (randomCode())
-                        await userGold.send(Codes)
-                        i = i+1
-                else:
-                    userGold = payload.member
-                    
-                    await userGold.send(":octagonal_sign: Tu n'est pas encore GOLD ! :octagonal_sign:")
-                userGold = payload.member
-                await msgGold.remove_reaction("🎟️", userGold)
-            
-            if(payload.message_id == 980653836077264896 and payload.emoji.name == "📇"):  
-                user = payload.member
-                role = discord.utils.find(lambda r: r.name == 'Premium PLATINE', user.roles)
-                msgPLATINE = await client.get_channel(payload.channel_id).fetch_message(payload.message_id)
-                if role in user.roles:  
-                    memberPLATINE = discord.utils.get(msgPLATINE.reactions, emoji="📇")
-                    userPLATINE = payload.member
-                    print(payload)
-                    message = "[Génération des codes]"
-                    await userPLATINE.send(message)
-                    await msgPLATINE.remove_reaction("📇", userPLATINE)
-                    time.sleep(3)
-                    i = 0
-                    waitingMsg = ("Voici tes codes :")
-                    await userPLATINE.send(waitingMsg)
-                    while i < 5:
-                            Codes = (randomCode())
-                            await userPLATINE.send(Codes)
-                            i = i+1
-                else:
-                    userPLATINE = payload.member
-                    await userPLATINE.send(":octagonal_sign:  Tu n'est pas encore PLATINE :octagonal_sign: ")
-                userPLATINE = payload.member
-                await msgPLATINE.remove_reaction("📇", userPLATINE)
-
-
-
-        TOKEN = "ODk0ODU0NzUxOTcwMjkxNzQy.GzzPvR.9UMGwzolFex8flSe99-AXCuRGC8Vp8BAgaG0jU"
-        client.run(TOKEN)
-
 def comandoescrito():
     @bot.command(pass_context=True)
     @commands.is_owner()
@@ -195,7 +99,7 @@ def comandoescrito():
         repo = g.get_user().get_repo("zalando")
         file1 = repo.get_contents("datos.json")
         
-        if ctx.channel.id == 942152678094540902:
+        if ctx.channel.id == 942152678094540902 or ctx.channel.id == 960659202253140089:
             fecha=datetime.date.today()
             fecha=str(fecha)
             try:
@@ -209,6 +113,7 @@ def comandoescrito():
                     
                 if hora[str(ctx.author.id)][1] + num <= 20:
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
+                    await ctx.send(embed=discord.Embed(title='**Opcion 1**', color=0x2ecc71))
                     email_scraper.setup()
                     discount.datos(num+2)
                     embed = discord.Embed(
@@ -232,8 +137,10 @@ def comandoescrito():
                     if hora[str(ctx.author.id)][0] == fecha:
                         msg = '**ERROR: Tienes un limite de 20 cupones. Llevas pedidos: **'+str(hora[str(ctx.author.id)][1])
                         await ctx.reply(embed=discord.Embed(title=msg, color=0xe74c3c))
+                        await ctx.send(embed=discord.Embed(title='**Opcion 2**', color=0x2ecc71))
                     else:
                         await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
+                        await ctx.send(embed=discord.Embed(title='**Opcion 3**', color=0x2ecc71))
                         email_scraper.setup()
                         discount.datos(num+2)
                         embed = discord.Embed(
@@ -264,6 +171,7 @@ def comandoescrito():
                 
                 if num <21: 
                     await ctx.reply(embed=discord.Embed(title='**ENVIANDO CODIGO. MIRA TUS DM**', color=0x2ecc71))
+                    await ctx.send(embed=discord.Embed(title='**Opcion 4**', color=0x2ecc71))
                     email_scraper.setup()
                     discount.datos(num+2)
                     embed = discord.Embed(
@@ -283,20 +191,21 @@ def comandoescrito():
                     repo.update_file(path=file1.path, message="Update datos", content=encode, sha=file1.sha)    
                 else:
                     await ctx.reply(embed=discord.Embed(title='**TIENES QUE PEDIR MENOS DE 20**', color=0xe74c3c))
+                    await ctx.send(embed=discord.Embed(title='**Opcion 5**', color=0x2ecc71))
             
     
-        if ctx.channel.id == 960659202253140089:
-            email_scraper.setup()
-            discount.datos(num+2)
-            embed = discord.Embed(
-                title='Aqui tienes tus codigos:',
-                description=randomCode(num),
-                color=0x2ecc71)
-            embed.set_thumbnail(
-            url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
-            embed.set_footer(text="@Sori#0001",
-                              icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
-            await ctx.reply(embed=embed)
+        #if ctx.channel.id == 960659202253140089:
+        #    email_scraper.setup()
+        #    discount.datos(num+2)
+        #    embed = discord.Embed(
+        #        title='Aqui tienes tus codigos:',
+        #        description=randomCode(num),
+        #        color=0x2ecc71)
+        #    embed.set_thumbnail(
+        #    url="https://i.postimg.cc/G2zwytRB/GORRO-PNG.png")
+        #    embed.set_footer(text="@Sori#0001",
+        #                      icon_url="https://media1.tenor.com/images/bcebfc84143c63f127c7fd80826f01bf/tenor.gif?itemid=22297787")
+        #    await ctx.reply(embed=embed)
             
     
     #update=open("datos.json", "r").read()
