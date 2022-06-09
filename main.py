@@ -84,18 +84,22 @@ intents.members = True
 
 
 def comandoescrito():
+        
     @bot.command(pass_context=True)
     @commands.is_owner()
-    
     async def codigos(ctx, num: int):
         if ctx.channel.id == 960659202253140089:
             discount.datos(num)
             await ctx.reply(embed=discord.Embed(title='**DESCUENTOS GENERADOS**', color=0x2ecc71))
-            
+    
+    @bot.command(pass_context=True)
+    @commands.is_owner()
     async def scraper(ctx):
         email_scraper.setup()
         await ctx.reply(embed=discord.Embed(title='**Correos revisados**', color=0x2ecc71))
     
+    @bot.command(pass_context=True)
+    @commands.is_owner()
     async def status(ctx):
         await ctx.reply(embed=discord.Embed(title='**BOT ONLINE**', color=0x552E12))
     
