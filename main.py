@@ -95,7 +95,7 @@ def comandoescrito():
             )
             try:  
                 await ctx.message.delete()
-                await channel.send(embed)  
+                await channel.send(embed=embed)  
             except:
                 await ctx.message.delete()
                 await ctx.send("Canal no encontrado")
