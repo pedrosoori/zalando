@@ -93,7 +93,13 @@ def comandoescrito():
                 description=(message),
                 color=discord.Color.blue()
             )
-            await channel.send(embed)  
+            try:  
+                await ctx.message.delete()
+                await channel.send(embed)  
+            except:
+                await ctx.message.delete()
+                await ctx.send("Canal no encontrado")
+                
     
     @bot.command(pass_context=True)
     @commands.is_owner()
