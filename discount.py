@@ -37,7 +37,7 @@ def getCode(catchall,regione):
 def datos(quantita):
     #quantita = input('insert quantity: ')
     
-    catchall = '@zalacodes.shop'
+    catchall = '@soori.store'
     
     os.system('cls')
     
