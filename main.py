@@ -85,17 +85,15 @@ intents.members = True
 
 def comandoescrito():
     @bot.command()
-    async def say(ctx,id_chat,* , message):
-        channel = id_chat
-        embed=discord.Embed(
-            description=(message),
-            color=discord.Color.blue()
-        )
-        try:
-            await channel.send(message)
-    
-        except:
-            await ctx.send("Canal no encontrado")    
+    @commands.is_owner()
+    async def say(ctx,id_chat: int,* , message):
+        if ctx.author.id == 274197666961817601 or ctx.author.id == 777843948382191616:
+            channel = bot.get_channel(id_chat)
+            embed=discord.Embed(
+                description=(message),
+                color=discord.Color.blue()
+            )
+            await channel.send(embed)  
     
     @bot.command(pass_context=True)
     @commands.is_owner()
