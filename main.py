@@ -86,6 +86,16 @@ intents.members = True
 def comandoescrito():
     @bot.command(pass_context=True)
     @commands.is_owner()
+    
+    async def codigos(ctx, num: int):
+        if ctx.channel.id == 960659202253140089:
+            discount.datos(num)
+            await ctx.reply(embed=discord.Embed(title='**DESCUENTOS GENERADOS**', color=0x2ecc71))
+            
+    async def scraper(ctx):
+        email_scraper.setup()
+        await ctx.reply(embed=discord.Embed(title='**Correos revisados**', color=0x2ecc71))
+    
     async def status(ctx):
         await ctx.reply(embed=discord.Embed(title='**BOT ONLINE**', color=0x552E12))
     
@@ -220,6 +230,9 @@ def comandoescrito():
                 
                 repo.update_file(path=file1.path, message="Update datos sobresaturados", content=encode, sha=file1.sha)
                 
+            except IndexError:
+                print('error en el promocode.json')
+                await ctx.reply(embed=discord.Embed(title='**Error con el catchall. Avisa a un admin.**', color=0xe74c3c))
             
     
         if ctx.channel.id == 960659202253140089:
@@ -240,6 +253,6 @@ def comandoescrito():
     TOKEN = "ODk0ODU0NzUxOTcwMjkxNzQy.GzzPvR.9UMGwzolFex8flSe99-AXCuRGC8Vp8BAgaG0jU"
     bot.run(TOKEN)
             
-
+    
 if __name__ == '__main__':
     comandoescrito()
