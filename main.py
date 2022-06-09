@@ -84,7 +84,19 @@ intents.members = True
 
 
 def comandoescrito():
-        
+    @bot.command()
+    async def say(ctx,id_chat,* , message):
+        channel = id_chat
+        embed=discord.Embed(
+            description=(message),
+            color=discord.Color.blue()
+        )
+        try:
+            await channel.send(message)
+    
+        except:
+            await ctx.send("Canal no encontrado")    
+    
     @bot.command(pass_context=True)
     @commands.is_owner()
     async def codigos(ctx, num: int):
@@ -95,8 +107,9 @@ def comandoescrito():
     @bot.command(pass_context=True)
     @commands.is_owner()
     async def scraper(ctx):
-        email_scraper.setup()
-        await ctx.reply(embed=discord.Embed(title='**Correos revisados**', color=0x2ecc71))
+        if ctx.channel.id == 960659202253140089:
+            email_scraper.setup()
+            await ctx.reply(embed=discord.Embed(title='**Correos revisados**', color=0x2ecc71))
     
     @bot.command(pass_context=True)
     @commands.is_owner()
