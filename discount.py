@@ -26,12 +26,15 @@ def getCode(catchall,regione):
 
     response  = resp.json()
 
-    email = response["data"]['subscribeToNewsletter']['isEmailVerificationRequired']
-
-    if (email == False):
-        print ("discount generated")
-
-    else:print ("yooo WTF there was an error"+str(resp.status_code))
+    try:
+        email = response["data"]['subscribeToNewsletter']['isEmailVerificationRequired']
+    
+        if (email == False):
+            print ("discount generated")
+    
+        else:print ("yooo WTF there was an error"+str(resp.status_code))
+    except:
+        print('ERROR CON DATA, HAZ DEPLOY')
 
 
 def datos(quantita):
