@@ -86,7 +86,7 @@ intents.members = True
 def comandoescrito():
     @bot.command()
     @commands.is_owner()
-    async def say(ctx,id_chat: int,* , message):
+    async def sayanon(ctx,id_chat: int,* , message):
             if ctx.author.id == 274197666961817601 or ctx.author.id == 777843948382191616:
                 channel = bot.get_channel(id_chat)
                 embed=discord.Embed(
