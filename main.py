@@ -94,7 +94,6 @@ def comandoescrito():
                     color=discord.Color.blue()
                 )
                 try:  
-                    await ctx.message.delete()
                     await channel.send(embed=embed)  
                 except:
                     await ctx.message.delete()
@@ -106,7 +105,6 @@ def comandoescrito():
             if ctx.author.id == 274197666961817601 or ctx.author.id == 777843948382191616:
                 channel = bot.get_channel(id_chat)
                 try:  
-                    await ctx.message.delete()
                     await channel.send(f"{message}")  
                 except:
                     await ctx.message.delete()
