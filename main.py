@@ -86,7 +86,7 @@ intents.members = True
 def comandoescrito():
     @bot.command()
     @commands.is_owner()
-    async def sayanon(ctx,id_chat: int,* , message):
+    async def sayanonembeb(ctx,id_chat: int,* , message):
             if ctx.author.id == 274197666961817601 or ctx.author.id == 777843948382191616:
                 channel = bot.get_channel(id_chat)
                 embed=discord.Embed(
@@ -96,6 +96,18 @@ def comandoescrito():
                 try:  
                     await ctx.message.delete()
                     await channel.send(embed=embed)  
+                except:
+                    await ctx.message.delete()
+                    await ctx.send("Canal no encontrado")
+                        
+    @bot.command()
+    @commands.is_owner()
+    async def sayanon(ctx,id_chat: int,* , message):
+            if ctx.author.id == 274197666961817601 or ctx.author.id == 777843948382191616:
+                channel = bot.get_channel(id_chat)
+                try:  
+                    await ctx.message.delete()
+                    await channel.send(f"{message}")  
                 except:
                     await ctx.message.delete()
                     await ctx.send("Canal no encontrado")
